@@ -9,16 +9,14 @@
 
 .home_cta li
 {
-	/*background-color:rgba(155,204,135,0.62);
-	*/
- margin:0;
+	background-color:rgba(155,204,135,0.62);
+ 	margin:0;
 	padding:0;
 	text-align:center;
 	list-style:none;
 	display:inline-block;
-	/*float:left;
-	*/
- width:37%;
+	float:left;
+ 	width:37%;
 }
 
 .cta_content ul

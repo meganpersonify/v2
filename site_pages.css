@@ -92,6 +92,11 @@ html[xmlns] .column_generic
 	background:#fff;
 }
 
+h1,h2,h3,h4,h5,h6
+{
+	font-family: "Oswald", sans-serif;
+}
+
 #main
 {
 	width:1200px;

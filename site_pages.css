@@ -4399,10 +4399,8 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
  .pager-left-prev.pager-item.pager-left,.pager-left-first.pager-item.pager-left
 {
 	color:transparent !important;
-	text-indent:5px;
 	padding-left: 8.5px !important;
 	padding-right: 8.5px !important;
-	line-height: 1.4 !important;
 }
 
 .pager-left-prev.pager-item.pager-left:before
@@ -4424,8 +4422,8 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	font-family:FontAwesome;
 	color:#999 !important;
 	text-indent:5px;
-	padding-top:1px;
-	float:left;
+	/*padding-top:1px;*/
+	/*float:left;*/
 	position:relative;
 }
 
@@ -4433,10 +4431,8 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
  .pager-right-next.pager-item.pager-right,.pager-right-end.pager-item.pager-right
 {
 	color:transparent !important;
-	text-indent:5px;
 	padding-left: 8.5px !important;
 	padding-right: 8.5px !important;
-	line-height: 1.4 !important;
 }
 
 .pager-right-next.pager-item.pager-right:before

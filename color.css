@@ -643,7 +643,8 @@ ul.bookmark_categories ul li
 /* TEXT COLORS (not including nav items and default links) ----------------------------------------------- */
  .boxsitepage,.p1,.heading,h1,h2,h3,h4,h5,h6
 {
-	color:#7ab800
+	font-family: "Oswald", sans-serif;
+	color:#7ab800;
 }
 
 /* buttons and forms ------------------------- */

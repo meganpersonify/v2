@@ -8972,7 +8972,7 @@ ul#featured_user_list li span.image
 li.viewTopic
 {
 	background-color:#7ab800 !important;
-	border-radius:3px;
+	border-radius:0;
 	cursor:pointer;
 	font-size:12px !important;
 	height:20px !important;

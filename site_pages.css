@@ -4461,7 +4461,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 /* pager arrows */
  a.pager-left-prev.pager-item.pager-left:before,a.pager-left-first.pager-item.pager-left:before,a.pager-right-next.pager-item.pager-right:before,a.pager-right-end.pager-item.pager-right:before
 {
-	color:#676A6C !important;
+	color:#292a2b !important;
 }
 
 span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-item.pager-left:before,span.pager-right-next.pager-item.pager-right:before,span.pager-right-end.pager-item.pager-right:before

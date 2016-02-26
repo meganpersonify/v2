@@ -329,7 +329,7 @@ hr
 	margin:0 8px
 }
 
-#footerbar a.navbar:before {
+#footerbar a.navbar:before, #footerbar a.navbar:after {
 	display: none;
 }
 

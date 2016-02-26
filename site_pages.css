@@ -4401,6 +4401,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	color:transparent !important;
 	padding-left: 8.5px !important;
 	padding-right: 8.5px !important;
+	text-indent: 5px;
 }
 
 .pager-left-prev.pager-item.pager-left:before
@@ -4432,6 +4433,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	color:transparent !important;
 	padding-left: 8.5px !important;
 	padding-right: 8.5px !important;
+	text-indent: 5px;
 }
 
 .pager-right-next.pager-item.pager-right:before

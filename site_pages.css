@@ -4420,10 +4420,9 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 {
 	content:"";
 	font-family:FontAwesome;
-	color:#999 !important;
-	text-indent:5px;
+	text-indent:0px;
 	/*padding-top:1px;*/
-	/*float:left;*/
+	float:left;
 	position:relative;
 }
 
@@ -4452,9 +4451,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 {
 	content:"";
 	font-family:FontAwesome;
-	color:#999 !important;
-	text-indent:5px;
-	padding-top:1px;
+	text-indent:0px;
 	float:left;
 	position:relative;
 }

@@ -329,6 +329,10 @@ hr
 	margin:0 8px
 }
 
+#footerbar a.navbar:before {
+	display: none;
+}
+
 /* SITE SPECIFIC ----------------------------------------------- */
  #container
 {

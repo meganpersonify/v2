@@ -3110,9 +3110,9 @@ a#headerMyAccountLink
 	opacity:.8;
 }
 
-#socialbar a span
+#socialbar a .stacked-white
 {
-	/*display:none;*/
+	color: white;
 }
 
 .sm-googleplus

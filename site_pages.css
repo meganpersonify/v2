@@ -10947,20 +10947,20 @@ div.imageMediumSquare a
 }
 
 .page_10368 .sblog_actions li.send_link a {
-    background-image: url("../content/swl/sendlink-large.png") !important;
+    background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/sendlink-large.png") !important;
 }
 .page_10368 .sblog_actions li.comment a {
-    background-image: url("../content/swl/comment-large.png") !important;
+    background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/comment-large.png") !important;
 }
 .page_10368 .sblog_actions li {
     padding: 0 !important;
     background: none !important;
 }
 .page_10368 .sblog_actions li.blog_like_list_item a {
-    background-image: url("../content/swl/like-large.png") !important;
+    background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/like-large.png") !important;
 }
 .page_10368 .sblog_actions li.blog_like_list_item a.unlike-link {
-    background-image: url("../content/swl/unlike-large.png") !important;
+    background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/unlike-large.png") !important;
     background-color: #7ab800 !important;
     background-position: 50% 70% !important;
 }

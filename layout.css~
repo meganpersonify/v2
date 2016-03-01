@@ -1499,6 +1499,199 @@ ul.norm li
 	display:inline
 }
 
+/* Member Spotlight Pinterest Style */
+ .sblog
+{
+	width:200px;
+	float:left;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgrey
+}
+
+.sblog_body
+{
+	text-align:center
+}
+
+.sblog_stats
+{
+	display:none
+}
+
+.sblog_name
+{
+	/* float:left;
+	*/
+ text-align:center
+}
+
+.sblog_action_list
+{
+	/* float:left;
+	*/
+ display:block !important
+}
+
+.sblog_post_image img
+{
+	width:200px;
+	border-radius:6px 6px 0 0
+}
+
+.sblog_post_image
+{
+	border:medium none;
+	float:none;
+	margin-bottom:15px
+}
+
+.sblog_name
+{
+	font-size:20px !important;
+	font-weight:bold;
+	line-height:25px !important;
+	margin-left:5px !important
+}
+
+.sblog_name a:after
+{
+	content:" \00BB";
+	font-size:16px;
+	margin-bottom:5px
+}
+
+.sblog_body
+{
+	font-size:13px;
+	margin-left:5px;
+	margin-top:10px;
+	margin-right:5px
+}
+
+.sblog
+{
+	background:#fff none repeat scroll 0 0;
+	border-radius:8px;
+	box-shadow:0 1px 2px 0 rgba(0,0,0,0.22);
+	height:auto;
+	margin-right:15px;
+	padding-bottom:10px !important;
+	width:200px;
+	transition:opacity .4s ease-in-out;
+	column-break-inside:avoid;
+	display:inline-block;
+	-webkit-backface-visibility:hidden;
+	-webkit-transform:translateZ(0) scale(1.0,1.0)
+}
+
+div.boxsitepagebody,div.boxsitepage
+{
+	background-color:transparent !important;
+	border:none !important
+}
+
+div.boxsitepage .p1
+{
+	font-size:32px;
+	margin-bottom:20px
+}
+
+a.unlike-link,.sblog_actions li a
+{
+	height:30px !important;
+	width:30px !important
+}
+
+.sblog_actions li a,.sblog_actions li.blog_like_list_item a.unlike-link
+{
+	padding:0 !important;
+	text-indent:-9999px !important;
+	white-space:nowrap !important;
+	background-repeat:no-repeat !important;
+	background-position:50% 50%;
+	display:block;
+	height:44px;
+	width:44px;
+	border-radius:25px;
+	background-color:#7ab800;
+	transition:all 0.25s linear 0s
+}
+
+.sblog_actions li.comment
+{
+	background:none !important
+}
+
+li.blog_like_list_item a,li.comment a,li.send_link a,a.unlike-link
+{
+	background-size:15px auto !important
+}
+
+.sblog_actions .flag
+{
+	display:none !important
+}
+
+a.unlike-link,.sblog_actions li a
+{
+	height:30px !important;
+	width:30px !important
+}
+
+.sblog_actions li.send_link a
+{
+	background-image:url("../content/swl/sendlink-large.png") !important
+}
+
+.sblog_actions li.comment a
+{
+	background-image:url("../content/swl/comment-large.png") !important
+}
+
+.sblog_actions li
+{
+	padding:0 !important;
+	background:none !important
+}
+
+.sblog_actions li.blog_like_list_item a
+{
+	background-image:url("../content/swl/like-large.png") !important
+}
+
+.sblog_actions li.blog_like_list_item a.unlike-link
+{
+	background-image:url("../content/swl/unlike-large.png") !important;
+	background-color:#7ab800 !important;
+	background-position:50% 70% !important
+}
+
+div#recentBlogsByPostList:hover .sblog:not(:hover)
+{
+	opacity:0.4;
+	-webkit-backface-visibility:hidden;
+	-webkit-transform:translateZ(0) scale(1.0,1.0)
+}
+
+.sblog .like-link-total
+{
+	display:none
+}
+
+.page_302 .sblog,.page_301 .sblog
+{
+	margin-right:10px !important;
+	float:left !important;
+	clear:none
+}
+
+.page_302 .sblog
+{
+	padding:10px
+}
+
+/* End Pinterest Style Blogs */
  /* Product Select Page */
  .page_10380 .module_container a[id*="custom_button"]
 {

@@ -10811,7 +10811,6 @@ div.imageMediumSquare a
 .page_302 .sblog
 {
     width:200px;
-    float:left;
     border-style:solid;
     border-width:1px;
     border-color:lightgrey
@@ -10838,7 +10837,8 @@ div.imageMediumSquare a
 {
     /* float:left;
     */
- display:block !important
+ display:block !important;
+ margin-top: 50px;
 }
 
 .page_302 .sblog_post_image img
@@ -10880,7 +10880,6 @@ div.imageMediumSquare a
 .page_302 .sblog
 {
     background:#fff none repeat scroll 0 0;
-    border-radius:8px;
     box-shadow:0 1px 2px 0 rgba(0,0,0,0.22);
     height:auto;
     margin-right:15px;
@@ -10890,7 +10889,8 @@ div.imageMediumSquare a
     column-break-inside:avoid;
     display:inline-block;
     -webkit-backface-visibility:hidden;
-    -webkit-transform:translateZ(0) scale(1.0,1.0)
+    -webkit-transform:translateZ(0) scale(1.0,1.0);
+    vertical-align: top
 }
 
 .page_302 div.boxsitepagebody,.page_302 div.boxsitepage
@@ -10974,5 +10974,11 @@ div.imageMediumSquare a
 .page_302 .like-link-total {
     display: none;
 }
+
+.page_302 .sblog_text
+{
+padding: 5px;
+}
+
 
 /* End Pinterest Style Blogs */

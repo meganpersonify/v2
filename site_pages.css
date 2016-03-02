@@ -7432,6 +7432,58 @@ li.message_to_recipients
 }
 
 /* END Header Banner */
+
+/* Products Navgation - Tabs */
+
+.custom_14255966554893 {
+	background-color: #F2F2F2;
+}
+
+.custom_14255966554893 .boxsitepage {
+	display: none;
+}
+
+.custom_14255966554893 .boxsitepagebody {
+	margin: 24px auto 0;
+	max-width: 1200px;
+	padding: 0;
+	width: 100%;
+}
+
+.custom_14255966554893 .nav-tabs {
+	margin: 0;
+}
+
+.custom_14255966554893 .nav-tabs li {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.custom_14255966554893 .nav-tabs li a {
+	background-color: #F2F2F2;
+	border-color: white;
+	border-right-width: 0;
+	color: #676a6c;
+}
+
+.custom_14255966554893 .nav-tabs li:first-child a {
+
+}
+
+.custom_14255966554893 .nav-tabs li:last-child a {
+	border-right-width: 1px;
+}
+
+.custom_14255966554893 .nav-tabs li a:hover, .custom_14255966554893 .nav-tabs li.selected a {
+	background-color: white;
+}
+
+.custom_14255966554893 .nav-tabs li.selected a{
+	color: #71c043;
+}
+
+/* END Products Navigation - Tabs */
+
  .page_2003 .site_page_subnav
 {
 	max-height:224px !important;

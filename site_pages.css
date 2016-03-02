@@ -7437,14 +7437,15 @@ li.message_to_recipients
 
 .custom_14255966554893 {
 	background-color: #F2F2F2;
+	padding-top: 24px;
 }
 
 .custom_14255966554893 .boxsitepage {
-	display: none;
+	display: none !important;
 }
 
 .custom_14255966554893 .boxsitepagebody {
-	margin: 24px auto 0;
+	margin: 0 auto;
 	max-width: 1200px;
 	padding: 0;
 	width: 100%;

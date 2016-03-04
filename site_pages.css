@@ -10653,13 +10653,23 @@ div.greenEnd
 	float: left;
 
 }
-.page_1 [data-module-name="search_custom_search"]
+/*custom search bar*/
+/*needs work*/
+.page_1 [data-module-name="search_custom_search"] {
+    display: inline;
+}
+/*.page_1 .home_search [data-module-name="search_custom_search"]
 {
 	margin-top:-108px;
 	margin-bottom:40px;
-	/* Hide the default search for now... */
+}*/
+
+/*.page_1 [data-module-name="search_custom_search"]
+{
+	margin-top:-108px;
+	margin-bottom:40px;
 	display: none;
-}
+}*/
 .page_1 .search_custom_search .p1 {
 	display: none;
 }

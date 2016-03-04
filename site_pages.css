@@ -10655,18 +10655,45 @@ div.greenEnd
  /* Block */
  .home_cta
 {
-	width:400px;
+/*	width:400px;
 	display:inline-block;
-	background-color:#FFF;
+	background-color:#FFF;*/
 	/*background-color:#FFEDED;
 	*/
- padding:20px 0;
+/* padding:20px 0;
 	float:left;
-	margin:10px 0 30px 0;
+	margin:10px 0 30px 0;*/
+	text-align: center;
 }
-.home_circle_bg {
+.home_cta .cta_icon {
 	background-image:url('https://blackbaud.stage.smallworldlabs.com/content/images/home/bg_circle.png');
 	background-repeat:no-repeat;
+    height: 146px;
+    width: 146px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.home_cta h1
+{
+	font-size:48px;
+	line-height:22px;
+	color:#333333;
+	font-weight:300;
+	text-align:center;
+}
+.home_cta h2 {
+	font-size:27px;
+	line-height:22px;
+	color: #747474;
+}
+.home_cta p {
+	font-size:17px;
+	line-height:33px;
+	color: #666666;
+}
+.home_cta a {
+	font-size:17px;
+	line-height:33px;
 }
 
 /* Element */
@@ -10679,15 +10706,7 @@ div.greenEnd
 	padding-top:15px;
 }
 
-.home_cta h1
-{
-	font-size:29px;
-	line-height:22px;
-	color:#CCC;
-	text-transform:uppercase;
-	font-weight:300;
-	text-align:center;
-}
+
 
 .home_cta ul
 {

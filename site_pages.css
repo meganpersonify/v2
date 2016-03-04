@@ -10643,12 +10643,13 @@ div.greenEnd
 }
 
 /* Home page search */
- /* Temporarily take off search */
- .page_1 [data-module-name="search_custom_search"]
+.page_1 [data-module-name="search_custom_search"]
 {
 	margin-top:-108px;
 	margin-bottom:40px;
-	display:none;
+}
+.page_1 .search_custom_search .p1 {
+	display: none;
 }
 
 /* --- Home:CTA's --- */
@@ -10693,11 +10694,15 @@ div.greenEnd
 	font-size:27px;
 	line-height:22px;
 	color: #747474;
+    letter-spacing: -0.5px;
+    margin: 30px 0 15px;
 }
 .home_cta p {
-	font-size:17px;
-	line-height:33px;
-	color: #666666;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    color: #666666;
+    padding: 0 20px;
 }
 .home_cta a {
 	font-size:17px;

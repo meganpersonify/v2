@@ -196,7 +196,7 @@ h1,h2,h3,h4,h5,h6
 .site_page_subnav
 {
 	width:auto;
-	margin:0 0 24px 0;
+	margin:0 0 0 0;
 	padding:0 0 0 0;
 	float:none;
 	clear:both;
@@ -10653,7 +10653,14 @@ div.greenEnd
 
 /* --- Home:CTA's --- */
  /* Block */
- .home_cta
+.site_page_1 .column_generic.site_page_column_0 {
+    background-color: #FFF;
+}
+.container.home_cta {
+    margin: 0 0 55px 0;
+    width: 100%;
+}
+.home_cta
 {
 /*	width:400px;
 	display:inline-block;
@@ -10676,7 +10683,7 @@ div.greenEnd
 .home_cta h1
 {
 	font-size:48px;
-	line-height:22px;
+	line-height:55px;
 	color:#333333;
 	font-weight:300;
 	text-align:center;
@@ -10824,10 +10831,12 @@ a.btn-join-community:hover
 	background-color:transparent;
 	border:none;
 }
-
+.site_page_module.users_all_users_by_points .p1 {
+    display: none;
+}
 div.user-list div.user-list-item.itemMedium
 {
-	width:60px !important;
+	width:48px !important;
 }
 
 .page_1 div.user-list div.user-list-item
@@ -10839,20 +10848,20 @@ div.user-list div.user-list-item.hoverBox
 {
 	min-width:0px;
 	border-radius:0 !important;
-	width:60px !important;
+	width:48px !important;
 	padding:0 !important;
 }
 
 div.imageMediumSquare
 {
-	width:60px;
+	width:48px;
 	background:transparent;
 }
 
 div.imageMediumSquare a
 {
-	width:60px;
-	height:60px;
+	width:48px;
+	height:48px;
 }
 
 .page_1 .site_page_module.users_all_users_by_points div.pagination.paginator-pagination

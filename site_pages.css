@@ -10680,13 +10680,14 @@ div.greenEnd
     margin: 0 auto;
     padding-top: 40px;
 }
-.home_cta h1
+.home_cta h1, .home h1
 {
 	font-size:48px;
 	line-height:55px;
 	color:#333333;
 	font-weight:300;
 	text-align:center;
+	margin-bottom: 30px;
 }
 .home_cta h2 {
 	font-size:27px;
@@ -10831,8 +10832,19 @@ a.btn-join-community:hover
 	background-color:transparent;
 	border:none;
 }
+.site_page_module.users_all_users_by_points {
+    width: 920px;
+    padding: 0px;
+    margin: 0 auto 55px;
+}
 .site_page_module.users_all_users_by_points .p1 {
     display: none;
+}
+
+/*[data-module-name="search_custom_search"]*/
+
+.users_all_users_by_points .imageMediumSquare img {
+    width: 48px;
 }
 div.user-list div.user-list-item.itemMedium
 {
@@ -10869,12 +10881,7 @@ div.imageMediumSquare a
 	display:none;
 }
 
-.site_page_module.users_all_users_by_points
-{
-	width:1200px;
-	padding:0px;
-	margin-bottom:45px;
-}
+
 
 .site_page_module.users_all_users_by_points .boxsitepagebody
 {

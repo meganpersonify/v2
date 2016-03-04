@@ -10664,6 +10664,10 @@ div.greenEnd
 	float:left;
 	margin:10px 0 30px 0;
 }
+.home_circle_bg {
+	background-image:url('https://blackbaud.stage.smallworldlabs.com/content/images/home/bg_circle.png');
+	background-repeat:no-repeat;
+}
 
 /* Element */
  .cta_content
@@ -10793,6 +10797,8 @@ a.btn-join-community:hover
 }
 
 /* --- /END Home:CTA's --- */
+
+
  /* Home:Top Members */
  .site_page_module.users_all_users_by_points .boxsitepage
 {

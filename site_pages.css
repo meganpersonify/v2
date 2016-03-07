@@ -10598,6 +10598,11 @@ div.greenEnd
 	display:block;
 }
 
+#welcome-text a
+{
+	color: #FFF;
+}
+
 .homeSlider
 {
 	width:100%;
@@ -10606,7 +10611,6 @@ div.greenEnd
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/images/banners/HeaderHome.jpg") !important;
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position:0 -50px;
 	overflow: hidden;
 }
 
@@ -10724,7 +10728,7 @@ div.greenEnd
     line-height: 24px;
     letter-spacing: -0.1px;
     color: #666666;
-    padding: 0 20px;
+    padding: 0 40px;
 }
 .home_cta a {
 	font-size:17px;

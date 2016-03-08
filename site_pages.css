@@ -10670,9 +10670,9 @@ div.greenEnd
 form#welcome-search-form {
 	margin:0;
     padding: 10px;
-	background-color: rgba(245, 245, 245, 0.41);
-
+    background-color: rgba(245, 245, 245, 0.41) !important;
 }
+
 span.glyphicon.glyphicon-search {
     color: #777;
 }

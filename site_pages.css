@@ -10614,6 +10614,10 @@ div.greenEnd
 	overflow: hidden;
 }
 
+.container.home {
+    padding-top: 50px;
+}
+
 #main .site_page_column_0 #nav_search input
 {
 	width:380px;
@@ -10656,6 +10660,34 @@ div.greenEnd
 	display: inline-block;
 	float: left;
 
+}
+#welcome-search {
+	width: 700px;
+    margin: 0 auto;
+	background-color: rgba(245, 245, 245, 0.41);
+    min-height: 46px;
+}
+a.btn-join-community,a.btn-join-community:visited
+{
+	background-color:#1c84c5 !important;
+	font-size:20px !important;
+	text-align:center;
+	margin:0;
+	border:none !important;
+	border-radius:0;
+	display:inline-block;
+	color:#FFF !important;
+	padding:10px 15px;
+    float: left;
+    height: 50px;
+}
+
+a.btn-join-community:hover
+{
+	background-color:#2A93E9 !important;
+	border:none !important;
+	border-radius:0;
+	text-decoration:none;
 }
 /*custom search bar*/
 /*needs work*/
@@ -10832,27 +10864,7 @@ div.greenEnd
 	clear:both;
 }
 
-a.btn-join-community,a.btn-join-community:visited
-{
-	background-color:#1c84c5 !important;
-	font-size:20px !important;
-	text-align:center;
-	margin:20px 0 0;
-	border:none !important;
-	border-radius:0;
-	display:inline-block;
-	position:relative;
-	color:#FFF !important;
-	padding:10px 15px;
-}
 
-a.btn-join-community:hover
-{
-	background-color:#2A93E9 !important;
-	border:none !important;
-	border-radius:0;
-	text-decoration:none;
-}
 
 /* --- /END Home:CTA's --- */
 

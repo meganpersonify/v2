@@ -10662,14 +10662,15 @@ div.greenEnd
 
 }
 #welcome-search {
-	width: 700px;
+	width: 585px;
     margin: 0 auto;
-	background-color: rgba(245, 245, 245, 0.41);
-    min-height: 50px;
+    height: 60px;
 }
 
 form#welcome-search-form {
 	margin:0;
+    padding: 10px;
+	background-color: rgba(245, 245, 245, 0.41);
 
 }
 span.glyphicon.glyphicon-search {
@@ -10678,7 +10679,6 @@ span.glyphicon.glyphicon-search {
 #welcome-search input#query_search {
     height: 40px;
     padding: 10px;
-    margin: 5px 0;
     width: 470px;
 }
 #welcome-search span.input-group-btn .btn {
@@ -10691,22 +10691,22 @@ span.glyphicon.glyphicon-search {
 
 a.btn-join-community,a.btn-join-community:visited
 {
-	background-color:#1c84c5 !important;
-	font-size:20px !important;
-	text-align:center;
-	margin:0;
-	border:none !important;
-	border-radius:0;
-	display:inline-block;
-	color:#FFF !important;
-	padding:10px 15px;
+	background-color: #7ab800 !important;
+    font-size: 20px !important;
+    text-align: center;
+    margin: 0;
+    border: none !important;
+    border-radius: 0;
+    display: inline-block;
+    color: #FFF !important;
+    padding: 15px 25px;
     float: left;
-    height: 50px;
+    height: 60px;
 }
 
 a.btn-join-community:hover
 {
-	background-color:#2A93E9 !important;
+	background-color:#99CC56 !important;
 	border:none !important;
 	border-radius:0;
 	text-decoration:none;

@@ -10665,8 +10665,30 @@ div.greenEnd
 	width: 700px;
     margin: 0 auto;
 	background-color: rgba(245, 245, 245, 0.41);
-    min-height: 46px;
+    min-height: 50px;
 }
+
+form#welcome-search-form {
+	margin:0;
+
+}
+span.glyphicon.glyphicon-search {
+    color: #777;
+}
+#welcome-search input#query_search {
+    height: 40px;
+    padding: 10px;
+    margin: 5px 0;
+    width: 470px;
+}
+#welcome-search span.input-group-btn .btn {
+    height: 40px !important;
+    padding: 0;
+    margin-left: -40px;
+    background: transparent !important;
+    z-index: 3;
+}
+
 a.btn-join-community,a.btn-join-community:visited
 {
 	background-color:#1c84c5 !important;

@@ -2898,6 +2898,7 @@ a#headerMyAccountLink
 	left:50%;
 	margin-left:430px;
 	z-index:101;
+    width: 125px;
 }
 
 .site_page_subnav .profile_user_photo

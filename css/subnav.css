@@ -1,0 +1,95 @@
+/* ALL CONTROLS FOR SUBNAV ITEMS ----------------------------------------------- */
+ #subnav
+{
+	width:auto;
+	margin:0 auto;
+	height:24px;
+	font-size:12px;
+	line-height:24px
+}
+
+#subnav ul
+{
+	width:auto;
+	margin:0 auto;
+	padding:0;
+	height:24px;
+	line-height:24px;
+	background:#d6d8d7
+}
+
+#subnav li
+{
+	margin:0 3px 0 0;
+	padding:0;
+	display:block;
+	float:left;
+	background-image:none
+}
+
+#subnav li a
+{
+	margin:0;
+	padding:0 7px;
+	width:auto;
+	display:block;
+	color:#29abe2;
+	font-weight:bold;
+	text-decoration:none
+}
+
+#subnav li a:hover
+{
+	text-decoration:underline
+}
+
+#subnav li a:hover span
+{
+}
+
+#subnav li.selected a,#subnav li.selected a:hover
+{
+	color:#000;
+	text-decoration:none
+}
+
+#subnav li.selected a span
+{
+}
+
+.subnav_text.active
+{
+	color:#505B60
+}
+
+.normal-table thead,.normal-table tbody,.normal-table thead tr th,.normal-table thead tr td,.normal-table,.normal-table tbody tr td
+{
+	border:none !important
+}
+
+.normal-table thead,.normal-table thead tr
+{
+	border-radius:4px 4px 0 0 !important;
+	background:none !important
+}
+
+.normal-table thead th:last-child
+{
+	border-radius:0 4px 0 0 !important
+}
+
+.normal-table thead th:first-child
+{
+	border-radius:4px 0 0 0 !important
+}
+
+.normal-table tbody tr td
+{
+	border-bottom:1px dotted #cccccc !important
+}
+
+.normal-table tbody tr:nth-child(2n+2) td
+{
+	background-color:#F9F9F9 !important
+}
+

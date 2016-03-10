@@ -6,6 +6,7 @@
 @import url("subnav.css");  
 @import url("frontpage.css");  
 @import url("boxessitepages.css");  
+@import url("header_banners.css");  /* Move the code here from site_pages */
 @import url("site_pages.css");  
 
 /*
@@ -64,6 +65,15 @@ community
 
 /* ---------->>> Home Page <<<-----------*/
 
+#welcome-text {
+    margin: 170px auto;
+    width: 700px;
+    padding: 30px 0 0;
+    height: 400px;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.41);
+    text-align: center;
+}
 
 #welcome-text h3 {
 	font-size:26px;

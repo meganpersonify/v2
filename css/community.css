@@ -11,6 +11,9 @@
 
 /*
 Current Load Order
+
+bootstrap
+
 SWL:
 site_pages
 site_page_modules
@@ -35,8 +38,6 @@ SKY
 sky-bundle (actual SKY)
 sky-bundle (local, blank)
 sky-community (blank)
-
-bootstrap
 
 community
 */

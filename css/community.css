@@ -65,6 +65,21 @@ community
 
 
 /* ---------->>> Home Page <<<-----------*/
+
+form#welcome-search-form {
+    margin: 0 0 0 10px;
+    padding: 10px;
+    background-color: rgba(245, 245, 245, 0.41) !important;
+    display: inline-block;
+    width: 490px;
+}
+
+#welcome-search input#query_search {
+    height: 40px;
+    margin-left: 0;
+    padding: 10px;
+    width: 470px;
+}
 #welcome-block {
     width: 1170px;
     margin: 0 auto;

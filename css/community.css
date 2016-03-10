@@ -1,1 +1,82 @@
 /* New Community CSS */
+@import url("reset.css");
+@import url("layout.css");
+@import url("color.css");  
+@import url("nav.css");  
+@import url("subnav.css");  
+@import url("frontpage.css");  
+@import url("boxessitepages.css");  
+@import url("site_pages.css");  
+
+/*
+Current Load Order
+SWL:
+site_pages
+site_page_modules
+jquery-ui
+
+Blackbaud:
+layout
+color
+nav
+subnav
+frontpage
+boxessitepages
+site_pages
+
+Other:
+google fonts
+font-awesome
+menu/style.css
+font-awesome.min (dupe)
+
+SKY
+sky-bundle (actual SKY)
+sky-bundle (local, blank)
+sky-community (blank)
+
+bootstrap
+
+community
+*/
+
+
+/* ---------->>> Layout Adjustments <<<-----------*/
+
+
+
+
+
+/* ---------->>> Global <<<-----------*/
+
+
+
+
+
+
+
+/* ---------->>> Bootstrap Adjustments <<<-----------*/
+
+
+
+
+
+
+/* ---------->>> Home Page <<<-----------*/
+
+
+#welcome-text h3 {
+	font-size:26px;
+	font-weight:300;
+	letter-spacing:-0.8px;
+	line-height:22px;
+	text-shadow:1px 1px 3px rgba(0,0,0,0.25);
+}
+
+
+
+
+
+
+
+/* ---------->>> Add other sections... <<<-----------*/

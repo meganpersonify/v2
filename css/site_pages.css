@@ -10679,8 +10679,9 @@ span.glyphicon.glyphicon-search {
 }
 #welcome-search input#query_search {
     height: 40px;
+    margin-left: 10px;
     padding: 10px;
-    width: 470px;
+    width: 460px;
 }
 #welcome-search span.input-group-btn .btn {
     height: 40px !important;

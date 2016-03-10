@@ -66,26 +66,110 @@ community
 
 /* ---------->>> Home Page <<<-----------*/
 
-form#welcome-search-form {
-    margin: 0 0 0 10px;
-    padding: 10px;
-    background-color: rgba(245, 245, 245, 0.41) !important;
-    display: inline-block;
-    width: 490px;
+/* Home */
+
+ #welcome-text
+{
+    margin: 150px auto;
+    width: 700px;
+    padding: 10px 0 0;
+    height: 400px;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.41);
+    text-align: center;
 }
 
-#welcome-search input#query_search {
-    height: 40px;
-    margin-left: 0;
-    padding: 10px;
-    width: 470px;
+#welcome-text h1,#welcome-text h2,#welcome-text h3
+{
+    color:#FFF;
 }
+
+#welcome-text h1
+{
+    font-size:52px;
+    font-weight:300;
+    letter-spacing:-2.3px;
+    line-height:49px;
+    margin-bottom:32px;
+    text-shadow:1px 1px 3px rgba(0,0,0,0.25);
+}
+
+#welcome-text h3
+{
+    font-size:26px;
+    font-weight:300;
+    letter-spacing:-0.8px;
+    line-height:22px;
+    text-shadow:1px 1px 3px rgba(0,0,0,0.25);
+}
+
+#welcome-text h1 br
+{
+    display:block;
+}
+
+#welcome-text a
+{
+    color: #FFF;
+}
+
+.homeSlider
+{
+    width:100%;
+    height:450px;
+    background-color:#e3e2e2;
+    background-image:url("https://blackbaud.stage.smallworldlabs.com/content/images/banners/HeaderHome.jpg") !important;
+    background-repeat:no-repeat;
+    background-size:cover;
+    overflow: hidden;
+}
+
+.container.home {
+    padding-top: 50px;
+}
+
+#main .site_page_column_0 #nav_search input
+{
+    width:380px;
+    height:42px;
+    line-height:30px;
+    font-size:14px;
+    padding:0 15px !important;
+    /*border:1px solid rgb(232,232,232) !important;
+    */
+ border:none !important;
+    border-radius:0;
+    background-color:rgba(255,255,255,0.9);
+    color:#1c84c5;
+    box-shadow:none;
+}
+
+#main .site_page_column_0 #nav_search .search_submit_button
+{
+    height:42px !important;
+    line-height:42px !important;
+    background-color:#1c84c5 !important;
+    font-size:20px !important;
+    width:80px;
+    text-align:center;
+    margin:0 !important;
+    border:none !important;
+    border-radius:0;
+    margin-left:-70px;
+}
+
+#main .site_page_column_0 #nav_search .search_submit_button:hover
+{
+    background-color:#2A93E9 !important;
+    border:none !important;
+    border-radius:0;
+}
+
 #welcome-block {
     width: 1170px;
     margin: 0 auto;
     text-align: center;
 }
-
 #welcome-text {
     margin: 170px auto;
     width: 700px;
@@ -95,7 +179,6 @@ form#welcome-search-form {
     background-color: rgba(0, 0, 0, 0.41);
     text-align: center;
 }
-
 #welcome-text h3 {
 	font-size:26px;
 	font-weight:300;
@@ -104,6 +187,64 @@ form#welcome-search-form {
 	text-shadow:1px 1px 3px rgba(0,0,0,0.25);
 }
 
+/* Home page search */
+.join-community {
+    display: inline-block;
+    float: left;
+
+}
+#welcome-search {
+    width: 585px;
+    margin: 0 auto;
+    height: 60px;
+}
+form#welcome-search-form {
+    margin: 0 0 0 10px;
+    padding: 10px;
+    background-color: rgba(245, 245, 245, 0.41) !important;
+    display: inline-block;
+    width: 490px;
+}
+#welcome-search input#query_search {
+    height: 40px;
+    margin-left: 0;
+    padding: 10px;
+    width: 470px;
+}
+span.glyphicon.glyphicon-search {
+    color: #777;
+}
+
+#welcome-search span.input-group-btn .btn {
+    height: 40px !important;
+    padding: 0;
+    margin-left: -40px;
+    background: transparent !important;
+    z-index: 3;
+}
+
+a.btn-join-community,a.btn-join-community:visited
+{
+    background-color: #7ab800 !important;
+    font-size: 20px !important;
+    text-align: center;
+    margin: 0;
+    border: none !important;
+    border-radius: 0;
+    display: inline-block;
+    color: #FFF !important;
+    padding: 15px 25px;
+    float: left;
+    height: 60px;
+}
+
+a.btn-join-community:hover
+{
+    background-color:#99CC56 !important;
+    border:none !important;
+    border-radius:0;
+    text-decoration:none;
+}
 
 
 

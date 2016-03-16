@@ -6494,7 +6494,8 @@ ul.blog-post-list
 ul li.addComment
 {
 	background-image:none !important;
-	padding:1px 9px !important;
+	height: 34px !important;
+	padding:8px 12px !important;
 	position:relative;
 	margin-right:10px;
 }
@@ -9024,9 +9025,9 @@ li.viewTopic
 	border-radius:0;
 	cursor:pointer;
 	font-size:12px !important;
-	height:20px !important;
+	height:34px !important;
 	line-height:20px !important;
-	padding:1px 8px !important;
+	padding:8px 12px !important;
 	text-align:center !important;
 	text-transform:uppercase;
 	width:auto !important;

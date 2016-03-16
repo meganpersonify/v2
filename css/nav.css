@@ -47,15 +47,15 @@
 }
 
 /* Green background color for final special link */
-#mainnav li.mainnav-list-5 {
+#mainnav li.mainnav-link-5 {
 	background-color: #7ab800;
 }
 
-	#mainnav li.mainnav-list-5:hover {
+	#mainnav li.mainnav-link-5:hover {
 		background-color: #EEEEEE;
 	}
 
-	#mainnav li.mainnav-list-5 a {
+	#mainnav li.mainnav-link-5 a {
 		color: white;
 		text-transform: uppercase;
 	}

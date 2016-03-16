@@ -10758,6 +10758,27 @@ div.greenEnd
 			margin-bottom: 30px;
 		}
 
+	.site_page_1 .featured_content_featured_content #featured_content {
+		border: 5px solid #ccc;
+		max-width: 750px;
+		margin: 0 auto;
+	}
+
+		.site_page_1 .featured_content_featured_content #featured_content img {
+			padding: 0 5px 0 0;
+		}
+
+		.site_page_1 .featured_content_featured_content #featured_content a {
+		}
+
+			.site_page_1 .featured_content_featured_content #featured_content a h1 {
+				color: #1c84c6;
+			}
+
+			.site_page_1 .featured_content_featured_content #featured_content a:hover h1 {
+				color: #23527c;
+			}
+
 /* --- /END Home:Featured Content --- */	
 
  /* Home:Top Members */

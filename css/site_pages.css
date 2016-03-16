@@ -10769,15 +10769,20 @@ div.greenEnd
 		}
 
 		.site_page_1 .featured_content_featured_content #featured_content a {
+			text-decoration: none;
+		}
+
+		.site_page_1 .featured_content_featured_content #featured_content a:hover {
+			text-decoration: underline;
 		}
 
 			.site_page_1 .featured_content_featured_content #featured_content a h1 {
 				color: #1c84c6;
+				font-family: "Open Sans", sans-serif;
 			}
 
 			.site_page_1 .featured_content_featured_content #featured_content a:hover h1 {
 				color: #23527c;
-				font-family: "Open Sans", sans-serif;
 			}
 
 /* --- /END Home:Featured Content --- */	

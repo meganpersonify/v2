@@ -1500,7 +1500,7 @@ ul.norm li
 }
 
  /* Product Select Page */
- .page_10380 .module_container a[id*="custom_button"]
+ /*.page_10380 .module_container a[id*="custom_button"]
 {
 	background-repeat:no-repeat;
 	padding:20px;
@@ -1528,7 +1528,7 @@ ul.norm li
 
 .page_10380 #html_custom_button_0_1_button,.page_10380 #html_custom_button_0_3_button
 {
-	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/docu.gif)
+	 background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/docu.gif)
 }
 
 .page_10380 #module_0-2
@@ -1542,4 +1542,5 @@ ul.norm li
 	position:relative;
 	top:-70px
 }
+*/
 

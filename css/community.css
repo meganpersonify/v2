@@ -194,7 +194,7 @@ community
 
 }
 #welcome-search {
-    width: 585px;
+    width: 590px;
     margin: 0 auto;
     height: 60px;
 }
@@ -233,7 +233,7 @@ a.btn-join-community,a.btn-join-community:visited
     border-radius: 0;
     display: inline-block;
     color: #FFF !important;
-    padding: 15px 25px;
+    padding: 20px 25px;
     float: left;
     height: 60px;
 }

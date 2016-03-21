@@ -49,6 +49,10 @@
 /* Green background color for final special link */
 #mainnav li.mainnav-link-5 {
 	background-color: #7ab800;
+
+	/*Hide the "join" button from the navigation bar */
+	/*Overidden: Shows for logged-out users in the Footer Template module CSS:Show Join button */
+	display: none;
 }
 
 	#mainnav li.mainnav-link-5:hover {

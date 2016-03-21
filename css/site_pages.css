@@ -2531,14 +2531,12 @@ li[id^="delicious_"]
     border-style: solid solid none!important;
     border-width: 1px 0!important;
 	background:none !important;
-	font-weight:700;
 	position:relative;
 }
 
 .site_page_login .fieldrow
 {
-	padding:0 8px !important;
-	height:51px !important;
+	padding:0 !important;
 	display:block !important;
 	margin:0;
 	border:none !important;
@@ -2553,7 +2551,6 @@ li[id^="delicious_"]
 .site_page_login .fieldrow .emphasized
 {
 	font-size:16px;
-	font-weight:100 !important;
 	position:relative;
 	margin-bottom: 5px !important;
 }
@@ -2565,17 +2562,18 @@ li[id^="delicious_"]
 
 .site_page_login .fieldinput
 {
-	height:50px !important;
 	width:auto !important;
 	padding:0 !important;
 }
 
-.site_page_login .fieldinput input#email,.site_page_login .fieldinput input#password,.site_page_login .fieldinput input[type="text"]
+.site_page_login .fieldinput input#email, .site_page_login .fieldinput input#password, .site_page_login .fieldinput input[type="text"]
 {
+	border: 1px solid #e5e6e7 !important;
+	border-radius: 1px;
 	height:auto !important;
-	width:auto !important;
-	margin:7px 0 7px 10px !important;
+	margin:0 !important;
 	padding:6px 12px !important;
+	transition: border-color .15s ease-in-out 0s,box-shadow .15s ease-in-out 0s;
 }
 
 .site_page_login .rememberme .checkbox
@@ -2627,7 +2625,7 @@ li[id^="delicious_"]
 
 .site_page_login .sitebutton
 {
-	display:inline-block;
+	display:block;
 	position:relative;
 }
 
@@ -2644,34 +2642,32 @@ li[id^="delicious_"]
 	display:block !important;
 	height:50px !important;
 	position:relative !important;
-	top:-27px !important;
-	/*left:-155px !important*/
-;
 }
 
 .site_page_login div.sitebutton ul li a.main-login-button,.site_page_login #register_button
 {
 	text-align:center;
-	border:2px solid #ffffff !important;
-	border-radius:2px;
-	height:29px;
-	line-height:29px;
-	font-weight:500 !important;
-	text-transform:uppercase;
-	padding:0 15px !important;
-	font-size:14px;
+	border:1px solid #ffffff !important;
+	border-radius:3px;
+	height:34px;
+	line-height:1.4;
+	font-weight:600 !important;
+	padding:10px 0 !important;
+	font-size:18px;
 }
 
 .site_page_login div.sitebutton ul li a.main-login-button
 {
-	background-color:#f57e20 !important;
-	width:65px;
+	background-color:#71bf44 !important;
+	border-color: #71bf44 !important;
+	width:130px;
 	position:relative;
 }
 
 .site_page_login div.sitebutton ul li a.main-login-button:hover
 {
-	background-color:#fe8e36 !important;
+	background-color: #6ab63e!important;
+    border-color: #6ab63e!important;
 }
 
 .site_page_login #register_button

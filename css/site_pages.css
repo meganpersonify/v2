@@ -11046,6 +11046,8 @@ padding: 5px;
 
 /* End Pinterest Style Blogs */
 
+// Hide the "join" button from the navigation bar 
+// Overidden:Shows for logged-out users in the Footer Template module CSS:Show Join button 
 .mainnav-link-5
 {
 display: none;

@@ -4400,10 +4400,10 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	color:#999 !important;
 }
 
-.pager-left-first.pager-item.pager-left, #paginate_content_prev:before
+.pager-left-first.pager-item.pager-left, #paginate_content_prev
 {
 	color:transparent !important;
-	text-indent:-14px;
+	text-indent:-5555px;
 }
 
 .pager-left-first.pager-item.pager-left:before, #paginate_content_first:before
@@ -4435,7 +4435,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 .pager-right-end.pager-item.pager-right,#paginate_content_last
 {
 	color:transparent !important;
-	text-indent:-14px;
+	text-indent:-5555px;
 }
 
 .pager-right-end.pager-item.pager-right:before,#paginate_content_last:before
@@ -4456,6 +4456,10 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-item.pager-left:before,span.pager-right-next.pager-item.pager-right:before,span.pager-right-end.pager-item.pager-right:before
 {
 	color:#999 !important;
+}
+
+.paginator_container {
+	padding: 10px 0;
 }
 
 .featured_content_featured_content #paginate_content span,.featured_content_featured_content #paginate_content a

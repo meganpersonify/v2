@@ -4432,7 +4432,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	color:#999 !important;
 }
 
-.pager-right-end.pager-item.pager-right,#paginate_content_last
+.pager-right-end.pager-item.pager-right
 {
 	color:transparent !important;
 	text-indent:-5555px;

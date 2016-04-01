@@ -4438,7 +4438,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	text-indent:-5555px;
 }
 
-.pager-right-end.pager-item.pager-right:before,#paginate_content_last:before
+.pager-right-end.pager-item.pager-right:before
 {
 	content:"";
 	font-family:FontAwesome;

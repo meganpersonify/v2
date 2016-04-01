@@ -4473,7 +4473,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 	min-width:15px;
 	overflow:hidden !important;
 	padding:0 !important;
-	margin-right:4px !important;
+	margin-right:0 !important;
 }
 
 .featured_content_featured_content #paginate_content span
@@ -4483,24 +4483,28 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 
 	/*Homepage pagination overrides*/
 
-	.featured_content_featured_content #paginate_content span
-	{
-		background-color: transparent !important;
+	.featured_content_featured_content #paginate_content {
+		padding: 10px 0;
 	}
+
+		/*Hide first, last, and pagination numbers*/
+		.site_page_1 #paginate_content #paginate_content_first, .site_page_1 #paginate_content #paginate_content_last, .site_page_1 #paginate_content [id*="paginate_content_page_"] {
+			display: none;
+		}
 
 	.site_page_1 .featured_content_featured_content #paginate_content span, .site_page_1 .featured_content_featured_content #paginate_content a {
+		background-color: transparent !important;
 		float: none;
-	}
-
-	/*Hide first, last, and pagination numbers*/
-	.site_page_1 #paginate_content #paginate_content_first, .site_page_1 #paginate_content #paginate_content_last, .site_page_1 #paginate_content [id*="paginate_content_page_"] {
-		display: none;
+		height: 50px !important;
+		width: 50px !important;
 	}
 
 	/*end Homepage pagination overrides*/
 
 /* end pagination */
- blockquote
+
+
+blockquote
 {
 	border:none !important;
 	margin:0 0 0 20px !important;

@@ -10755,6 +10755,11 @@ div.greenEnd
 		padding: 20px 15px;
 	}
 
+		/*Global - Remove RSS icon from the featured_content block*/
+		#featured_content .rss {
+			display: none;
+		}		
+
 		.site_page_1 .featured_content_featured_content #featured_content img {
 			border: 2px solid transparent;
 			margin: 0 0.875em 0 0;

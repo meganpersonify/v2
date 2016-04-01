@@ -4393,7 +4393,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	text-indent: 5px;
 }
 
-.pager-left-prev.pager-item.pager-left:before, #paginate_content_prev:before
+.pager-left-prev.pager-item.pager-left:before
 {
 	content:"";
 	font-family:FontAwesome;
@@ -4406,7 +4406,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	text-indent: 5px;
 }
 
-.pager-left-first.pager-item.pager-left:before, #paginate_content_first:before
+.pager-left-first.pager-item.pager-left:before
 {
 	content:"";
 	font-family:FontAwesome;
@@ -4425,7 +4425,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	text-indent: 5px;
 }
 
-.pager-right-next.pager-item.pager-right:before,#paginate_content_next:before
+.pager-right-next.pager-item.pager-right:before
 {
 	content:"";
 	font-family:FontAwesome;

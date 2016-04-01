@@ -4438,8 +4438,6 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 	text-indent:-5555px;
 }
 
-/*Add comment*/
-
 .pager-right-end.pager-item.pager-right:before
 {
 	content:"";

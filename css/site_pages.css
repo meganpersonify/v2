@@ -4493,8 +4493,10 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 		}
 
 	.site_page_1 .featured_content_featured_content #paginate_content span, .site_page_1 .featured_content_featured_content #paginate_content a {
-		background-color: transparent !important;
+		background-color: #ccc !important;
+		border-color: #ccc;
 		float: none;
+		margin: 0 15px !important;
 		height: 50px !important;
 		width: 50px !important;
 	}

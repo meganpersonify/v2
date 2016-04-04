@@ -4504,6 +4504,16 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
     	font-weight: 700 !important;
 	}
 
+	/*"Disabled" navigation button - when user is far left or far right of all available slides*/
+	.site_page_1 .featured_content_featured_content #paginate_content span {
+		background-color: #E1E1E1 !important;
+	}
+
+	
+	.site_page_1 .featured_content_featured_content #paginate_content span:hover, .site_page_1 .featured_content_featured_content #paginate_content a:hover {
+		background-color: #E1E1E1 !important;
+	}
+
 	/*end Homepage pagination overrides*/
 
 /* end pagination */

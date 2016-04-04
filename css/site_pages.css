@@ -4465,7 +4465,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 {
 	border-radius:999px !important;
 	border:2px solid #FF7C19 !important;
-	text-indent:-9999px !important;
+	text-indent:0px !important;
 	white-space:nowrap !important;
 	display:inline-block;
 	height:15px !important;

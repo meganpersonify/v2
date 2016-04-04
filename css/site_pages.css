@@ -4484,7 +4484,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 	/*Homepage pagination overrides*/
 
 	.featured_content_featured_content #paginate_content {
-		padding: 20px 0 0;
+		padding: 15px 0 0;
 	}
 
 		/*Hide first, last, and pagination numbers*/
@@ -4496,11 +4496,12 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 		background-color: #ccc !important;
 		border-color: #ccc !important;
 		float: none;
-		margin: 0 20px !important;
+		margin: 0 10px !important;
 		height: 35px !important;
 		width: 35px !important;
 		padding: 6px !important;
     	color: white !important;
+    	font-weight: 700 !important;
 	}
 
 	/*end Homepage pagination overrides*/

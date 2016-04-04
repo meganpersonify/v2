@@ -4497,8 +4497,10 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 		border-color: #ccc !important;
 		float: none;
 		margin: 0 20px !important;
-		height: 50px !important;
-		width: 50px !important;
+		height: 35px !important;
+		width: 35px !important;
+		padding: 6px !important;
+    	color: white !important;
 	}
 
 	/*end Homepage pagination overrides*/

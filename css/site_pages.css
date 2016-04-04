@@ -4502,8 +4502,8 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 		padding: 6px !important;
     	color: white !important;
     	font-weight: 700 !important;
-    	-webkit-transition: all 0.3 ease-in-out;
-    	transition: all 0.3 ease-in-out;
+    	-webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+        transition: all 0.3s ease-out;
 	}
 
 	/*"Disabled" navigation button - when user is far left or far right of all available slides*/

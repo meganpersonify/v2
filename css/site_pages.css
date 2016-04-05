@@ -7501,9 +7501,10 @@ li.message_to_recipients
 
 .nav.nav-tabs li a:hover {
 	background-color: #BBBBBB;
+	border-bottom-color: transparent;
 }
 
-.nav.nav-tabs li.selected a, .nav.nav-tabs li.active a{
+.nav.nav-tabs>li.active>a, .nav.nav-tabs>li.active>a:hover, .nav.nav-tabs>li.active>a:focus, .nav.nav-tabs ul.dropdown-menu>li.active>a, .nav.nav-tabs ul.dropdown-menu>li.active>a:hover, .nav.nav-tabs ul.dropdown-menu>li.active>a:focus, .nav-tabs.nav-justified>li.active>a, .nav-tabs.nav-justified>li.active>a:hover, .nav-tabs.nav-justified>li.active>a:focus, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a:hover, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a:focus{
 	background-color: #7ab800;
 	color: white;
 }

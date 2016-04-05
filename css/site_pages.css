@@ -127,14 +127,14 @@ h1,h2,h3,h4,h5,h6
 .layout_75_25 .site_page_column_0
 {
 	width:900px;
-	margin:0 25px 0 0;
+	margin:2em 25px 0 0;
 	padding:0;
 }
 
 .layout_75_25 .site_page_column_1
 {
 	width:266px;
-	margin:0;
+	margin:2em 0 0;
 	padding:0;
 }
 

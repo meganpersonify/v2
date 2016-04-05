@@ -250,7 +250,8 @@ a.btn-join-community:hover
 /* ---------->>> Product Home <<<-----------*/
 .product-header {
     width: 100%;
-    height: 450px;
+    height: 230px;
+    max-height: 230px;
     background-color: #e3e2e2;
     /*background-image: url("https://blackbaud.stage.smallworldlabs.com/content/HeaderBanners/RETestBanner.png");*/
     background-repeat: no-repeat;
@@ -260,7 +261,44 @@ a.btn-join-community:hover
 div.product-logo {
     width: 1200px;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
+    padding: 60px 0 0;
+}
+/* Product Header Start Discussion Dropper */
+.product-header.dropper {
+
+}
+
+/* Header search */
+
+#header-search {
+    width: 590px;
+    margin: 0 auto;
+    height: 60px;
+}
+form#header-search-form {
+    margin: 0 0 0 10px;
+    padding: 10px;
+    background-color: rgba(245, 245, 245, 0.41) !important;
+    display: inline-block;
+    width: 490px;
+}
+#header-search input#query_search {
+    height: 40px;
+    margin-left: 0;
+    padding: 10px;
+    width: 470px;
+}
+span.glyphicon.glyphicon-search {
+    color: #777;
+}
+
+#header-search span.input-group-btn .btn {
+    height: 40px !important;
+    padding: 0;
+    margin-left: -40px;
+    background: transparent !important;
+    z-index: 3;
 }
 
 

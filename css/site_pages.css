@@ -7477,13 +7477,13 @@ li.message_to_recipients
 	padding-left: 0;
 }
 
-.nav-tabs li {
+.nav.nav-tabs li {
 	padding-left: 0;
 	padding-right: 0;
 	margin-bottom: 0;
 }
 
-.nav-tabs li a {
+.nav.nav-tabs li a {
 	background-color: #C8C8C8;
 	border-color: transparent;
 	border-right-width: 0;
@@ -7491,19 +7491,19 @@ li.message_to_recipients
 	font-size: 1em;
 }
 
-.nav-tabs li:first-child a {
+.nav.nav-tabs li:first-child a {
 
 }
 
-.nav-tabs li:last-child a {
+.nav.nav-tabs li:last-child a {
 	border-right-width: 1px;
 }
 
-.nav-tabs li a:hover {
+.nav.nav-tabs li a:hover {
 	background-color: #BBBBBB;
 }
 
-.nav-tabs li.selected a, .nav-tabs li.active a{
+.nav.nav-tabs li.selected a, .nav.nav-tabs li.active a{
 	background-color: #7ab800;
 	color: white;
 }

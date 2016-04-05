@@ -6,7 +6,7 @@
 @import url("subnav.css");  
 @import url("frontpage.css");  
 @import url("boxessitepages.css");  
-@import url("header_banners.css");  /* Move the code here from site_pages */
+/*@import url("header_banners.css");*/  /* Move the code here from site_pages */
 @import url("site_pages.css");  
 
 /*
@@ -247,6 +247,21 @@ a.btn-join-community:hover
 }
 
 
+/* ---------->>> Product Home <<<-----------*/
+.product-header {
+    width: 100%;
+    height: 450px;
+    background-color: #e3e2e2;
+    /*background-image: url("https://blackbaud.stage.smallworldlabs.com/content/HeaderBanners/RETestBanner.png");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+div.product-logo {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
 
 
 

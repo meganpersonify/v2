@@ -2721,8 +2721,8 @@ ul.sortList li
 	transition:all 0.25s linear 0s;
 	margin:0 0 0 2px;
 	padding:0 !important;
-	height:22px !important;
-	line-height:22px;
+	height:44px !important;
+	line-height:40px;
 	display:inline-block !important;
 }
 
@@ -6461,12 +6461,6 @@ ul.blog-post-list
 	margin-left:2px !important;
 }
 
-#topicTypeList li.filter_button.active,#moreEventsList li.active
-{
-	border-style:solid solid none solid;
-	border-width:1px;
-}
-
 .site_page_module.recent_topics #topicTypeContainer
 {
 	padding:0 0 0px 0 !important;
@@ -9561,10 +9555,15 @@ ul.folder-list li.folder
 
 ul.sortList
 {
-	border-bottom:1px solid #4a4e59;
-	width:100%;
-	height:24px;
+	border-bottom:3px solid #4a4e59;
+	margin-bottom: 0px !important;
 }
+
+	.site_page_module.recent_topics #topicTypeList li {
+		float: none;
+		display: inline-block;
+		margin: 0 2px;
+	}
 
 #subnav ul
 {

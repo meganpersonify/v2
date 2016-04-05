@@ -2716,29 +2716,33 @@ li[id^="delicious_"]
 
 ul.sortList li
 {
-	background-color:#50535a !important;
-	border-radius:3px 3px 0 0;
+	background-color:#C8C8C8;
+	border: 1px solid #4a4e59;
+	border-radius:4px 4px 0 0;
 	transition:all 0.25s linear 0s;
 	margin:0 0 0 2px;
 	padding:0 !important;
-	height:44px !important;
-	line-height:40px;
 	display:inline-block !important;
+}
+
+ul.sortList li.active, ul.sortList li.active:hover {
+	background-color: #7ab800 !important;
 }
 
 ul.sortList li:hover
 {
-	background-color:#267292 !important;
+	background-color:#BBBBBB !important;
 }
 
 ul.sortList li a
 {
-	color:#ffffff !important;
+	color:#ffffff;
 	padding:0 10px;
 	font-weight:bold;
 	height:22px;
 	line-height:22px;
 	display:inline-block;
+	padding: 9px 20px !important;
 }
 
 ul.sortList li a:hover,ul.sortList li:hover a
@@ -2746,19 +2750,9 @@ ul.sortList li a:hover,ul.sortList li:hover a
 	text-decoration:none !important;
 }
 
-ul.sortList li.active,ul.sortList li.active:hover
-{
-	background-color:#ffffff !important;
-}
-
-ul.sortList li:hover
-{
-	background-color:#00aba2 !important;
-}
-
 ul.sortList li.active a,ul.sortList li.active a:hover
 {
-	color:#50555b !important;
+	color:white !important;
 }
 
 #my_messages_list li
@@ -9570,7 +9564,7 @@ ul.sortList
 	height:22px !important;
 }
 
-#moreEventsList li.active,ul.sortList li.active
+#moreEventsList li.active
 {
 	border:1px solid #4a4e59;
 	border-bottom:none;

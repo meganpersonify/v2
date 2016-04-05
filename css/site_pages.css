@@ -3068,24 +3068,23 @@ a#headerMyAccountLink
 
 #socialbar
 {
-	height:24px;
-	width:330px;
+	width:140px;
 	/*background-color:#f0f0f0;
 	border:1px solid #dddddd;
 	*/
- display:block;
-	font-size:16px;
-	color:#989AA0 !important;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	font-size:20px;
 	font-weight:700;
 	clear:both;
-	margin:10px 0 0 8px;
+	margin:15px 0 15px 8px;
+	justify-content: space-between;
 }
 
 #socialbar a
 {
-	display:inline-block;
-	height:20px;
-	width:20px;
 	color:#989AA0;
 }
 

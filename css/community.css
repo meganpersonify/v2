@@ -258,15 +258,18 @@ a.btn-join-community:hover
     background-size: cover;
     overflow: hidden;
 }
-div.product-logo {
+div.product-content {
     width: 1200px;
     margin: 0 auto;
     text-align: left;
-    padding: 60px 0 0;
+    padding: 0;
 }
 /* Product Header Start Discussion Dropper */
-.product-header.dropper {
-
+.product-header .dropper {
+    background-color: transparent;
+}
+.product-logo {
+    margin-top: 60px;
 }
 
 /* Header search */

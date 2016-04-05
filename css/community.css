@@ -262,18 +262,38 @@ div.product-content {
     width: 1200px;
     margin: 0 auto;
     text-align: left;
-    padding: 0;
+    padding: 30px 0 0;
 }
 /* Product Header Start Discussion Dropper */
 .product-header .dropper {
-    background-color: transparent;
     position: relative;
     display: block;
     padding: 0;
     margin: 10px 0;
+    z-index: 3;
 }
+.product-header .dropper ul {
+    background-color: transparent;    
+}
+.product-header .dropper li {
+    margin:0;
+}
+.product-header .dropper > ul > li:first-child {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.product-header .dropper > ul > li:after {
+    content: "\f0d7";
+    top: 0px;
+    right: -22px;
+    font-size: 25px;
+}
+.product-header .dropper > ul > li:hover:after {
+    content: "\f0d8";
+}
+
 .product-logo {
-    margin-top: 60px;
+
 }
 
 /* Header search */
@@ -284,7 +304,7 @@ div.product-content {
     height: 60px;*/
 }
 form#header-search-form {
-    margin: 0 0 0 10px;
+    margin: 0;
     padding: 10px;
     background-color: rgba(245, 245, 245, 0.41) !important;
     display: inline-block;

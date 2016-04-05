@@ -4305,8 +4305,8 @@ div.user-list div.user-list-item.itemMedium
 	font-weight:400;
 	font-size:12px !important;
 	*/
- border-color:#dddddd !important;
-	min-width:18.5px !important;
+	border-color:#dddddd !important;
+	min-width:25px !important;
 	width:auto !important;
 	height:20.5px !important;
 	line-height:20.5px !important;
@@ -4399,7 +4399,7 @@ span.pager-left,span.pager-right,span#recent_topics_pagination_first,span#recent
 .pager-left-first.pager-item.pager-left
 {
 	color:transparent !important;
-	text-indent:-14px;
+	text-indent:-10px;
 }
 
 .pager-left-first.pager-item.pager-left:before

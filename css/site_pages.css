@@ -7489,6 +7489,9 @@ li.message_to_recipients
 	border-right-width: 0;
 	color: #676a6c;
 	font-size: 1em;
+	-webkit-transition: all 0.25s linear 0s;
+	-ms-transition: all 0.25s linear 0s;
+	transition: all 0.25s linear 0s;
 }
 
 .nav.nav-tabs li:first-child a {

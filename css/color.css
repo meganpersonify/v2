@@ -280,7 +280,7 @@ hr
 	width:auto;
 	margin:0;
 	display:block;
-	font-size:11px
+	font-size:12px
 }
 
 #footerbar p,#footerbar p a
@@ -296,20 +296,20 @@ hr
 #footer p,#footer p a
 {
 	color:#999999;
-	font-size:11px;
+	font-size:12px;
 	font-weight:normal
 }
 
 #footer p
 {
-	padding:0
+	padding:0;
 }
 
 #footer p.left
 {
 	width:auto;
 	text-align:left;
-	padding:0 8px
+	padding:0 8px;
 }
 
 #footer p.right
@@ -318,12 +318,13 @@ hr
 	padding:0 8px;
 	float:right;
 	font-size:15px;
-	color:#004583
+	color:#004583;
 }
 
 #footerbar a
 {
-	margin:0 8px
+	margin:0 8px;
+	font-weight: normal;
 }
 
 #footerbar a.navbar:before, #footerbar a.navbar:after {

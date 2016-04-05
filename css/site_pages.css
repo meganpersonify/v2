@@ -2717,7 +2717,7 @@ li[id^="delicious_"]
 ul.sortList li
 {
 	background-color:#C8C8C8;
-	border: 1px solid #4a4e59;
+	border: 0;
 	border-radius:4px 4px 0 0;
 	transition:all 0.25s linear 0s;
 	margin:0 0 0 2px;
@@ -2725,9 +2725,14 @@ ul.sortList li
 	display:inline-block !important;
 }
 
-ul.sortList li.active, ul.sortList li.active:hover {
+ul.sortList li.active {
 	background-color: #7ab800 !important;
+	border: 0;
 }
+
+	ul.sortList li.active:hover {
+		background-color: #88c70c !important;
+	}
 
 ul.sortList li:hover
 {
@@ -2736,11 +2741,9 @@ ul.sortList li:hover
 
 ul.sortList li a
 {
-	color:#ffffff;
-	padding:0 10px;
-	font-weight:bold;
-	height:22px;
-	line-height:22px;
+	color:#676a6c;
+	font-size: 1.66667em;
+	font-weight:normal;
 	display:inline-block;
 	padding: 9px 20px !important;
 }
@@ -6356,11 +6359,6 @@ ul.message_actions li
 	width:720px !important;
 }
 
-#topicTypeContainer li a
-{
-	padding:0px 20px !important;
-}
-
 .sblog-post-title a
 {
 	font-weight:bold;
@@ -7466,42 +7464,48 @@ li.message_to_recipients
 }
 
 .custom_14255966554893 .boxsitepagebody {
+	background-color: transparent;
 	margin: 0 auto;
 	max-width: 1200px;
 	padding: 0;
 	width: 100%;
 }
 
-.custom_14255966554893 .nav-tabs {
+.nav-tabs {
+	border-bottom: 4px solid #7ab800;
 	margin: 0;
+	padding-left: 0;
 }
 
-.custom_14255966554893 .nav-tabs li {
+.nav-tabs li {
 	padding-left: 0;
 	padding-right: 0;
+	margin-bottom: 0;
 }
 
-.custom_14255966554893 .nav-tabs li a {
-	background-color: #F2F2F2;
+.nav-tabs li a {
+	background-color: #C8C8C8;
 	border-color: white;
 	border-right-width: 0;
 	color: #676a6c;
+	font-size: 1em;
 }
 
-.custom_14255966554893 .nav-tabs li:first-child a {
+.nav-tabs li:first-child a {
 
 }
 
-.custom_14255966554893 .nav-tabs li:last-child a {
+.nav-tabs li:last-child a {
 	border-right-width: 1px;
 }
 
-.custom_14255966554893 .nav-tabs li a:hover, .custom_14255966554893 .nav-tabs li.selected a {
-	background-color: white;
+.nav-tabs li a:hover {
+	background-color: #BBBBBB;
 }
 
-.custom_14255966554893 .nav-tabs li.selected a{
-	color: #71c043;
+.nav-tabs li.selected a, .nav-tabs li.active a{
+	background-color: #7ab800;
+	color: white;
 }
 
 /* END Products Navigation - Tabs */
@@ -9549,7 +9553,7 @@ ul.folder-list li.folder
 
 ul.sortList
 {
-	border-bottom:3px solid #4a4e59;
+	border-bottom:3px solid #7ab800;
 	margin-bottom: 0px !important;
 }
 

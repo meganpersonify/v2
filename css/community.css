@@ -267,6 +267,10 @@ div.product-content {
 /* Product Header Start Discussion Dropper */
 .product-header .dropper {
     background-color: transparent;
+    position: relative;
+    display: block;
+    padding: 0;
+    margin: 10px 0;
 }
 .product-logo {
     margin-top: 60px;
@@ -275,9 +279,9 @@ div.product-content {
 /* Header search */
 
 #header-search {
-    width: 590px;
+/*    width: 590px;
     margin: 0 auto;
-    height: 60px;
+    height: 60px;*/
 }
 form#header-search-form {
     margin: 0 0 0 10px;

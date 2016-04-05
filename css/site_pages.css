@@ -3086,6 +3086,11 @@ a#headerMyAccountLink
 #socialbar a
 {
 	color:#989AA0;
+	opacity: 1;
+	-webkit-transition: opacity 0.3s ease-in-out;
+	-moz-transition: opacity 0.3s ease-in-out;
+	-ms-transition: opacity 0.3s ease-in-out;
+	transition: opacity 0.3s ease-in-out;
 }
 
 #socialbar a:hover

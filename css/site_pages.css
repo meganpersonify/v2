@@ -2742,7 +2742,7 @@ ul.sortList li:hover
 ul.sortList li a
 {
 	color:#676a6c;
-	font-size: 1.66667em;
+	font-size: 1.166667em;
 	font-weight:normal;
 	display:inline-block;
 	padding: 9px 20px !important;
@@ -7471,7 +7471,7 @@ li.message_to_recipients
 	width: 100%;
 }
 
-.nav-tabs {
+.nav.nav-tabs {
 	border-bottom: 4px solid #7ab800;
 	margin: 0;
 	padding-left: 0;
@@ -7485,7 +7485,7 @@ li.message_to_recipients
 
 .nav-tabs li a {
 	background-color: #C8C8C8;
-	border-color: white;
+	border-color: transparent;
 	border-right-width: 0;
 	color: #676a6c;
 	font-size: 1em;

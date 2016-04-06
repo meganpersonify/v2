@@ -284,17 +284,23 @@ div.product-content {
 }
 .product-header .dropper > ul > li:after {
     content: "\f0d7";
-    top: 0px;
-    right: -22px;
+    top: 5px;
+    right: -20px;
     font-size: 25px;
 }
 .product-header .dropper > ul > li:hover:after {
     content: "\f0d8";
 }
 .product-header .dropper ul li {
-    padding: 0;
+    padding: 4px;
     margin: 0;
 }
+.product-header .dropper ul li ul {
+    padding: 5px;
+    top: 25px;
+    left: 0;
+}
+
 
 .product-logo {
 

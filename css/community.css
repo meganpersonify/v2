@@ -256,13 +256,13 @@ a.btn-join-community:hover
     /*background-image: url("https://blackbaud.stage.smallworldlabs.com/content/HeaderBanners/RETestBanner.png");*/
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 div.product-content {
     width: 1200px;
     margin: 0 auto;
     text-align: left;
-    padding: 30px 0 0;
+    padding: 35px 0 0;
 }
 /* Product Header Start Discussion Dropper */
 .product-header .dropper {
@@ -290,6 +290,10 @@ div.product-content {
 }
 .product-header .dropper > ul > li:hover:after {
     content: "\f0d8";
+}
+.product-header .dropper ul li {
+    padding: 0;
+    margin: 0;
 }
 
 .product-logo {

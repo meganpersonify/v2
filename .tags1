@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ul.sortList li.active	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^ul.sortList li.active {$/;"	function	line:2728
+ul.sortList li.active:hover	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	ul.sortList li.active:hover {$/;"	function	line:2733
+.featured_content_featured_content #paginate_content	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.featured_content_featured_content #paginate_content {$/;"	function	line:4477
+.site_page_1 #paginate_content #paginate_content_first, .site_page_1 #paginate_content #paginate_content_last, .site_page_1 #paginate_content [id*="paginate_content_page_"]	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		.site_page_1 #paginate_content #paginate_content_first, .site_page_1 #paginate_content #paginate_content_last, .site_page_1 #paginate_content [id*="paginate_content_page_"] {$/;"	function	line:4482
+.site_page_1 .featured_content_featured_content #paginate_content span, .site_page_1 .featured_content_featured_content #paginate_content a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.site_page_1 .featured_content_featured_content #paginate_content span, .site_page_1 .featured_content_featured_content #paginate_content a {$/;"	function	line:4486
+.site_page_1 .featured_content_featured_content #paginate_content span	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.site_page_1 .featured_content_featured_content #paginate_content span {$/;"	function	line:4501
+.site_page_1 .featured_content_featured_content #paginate_content span:hover, .site_page_1 .featured_content_featured_content #paginate_content a:hover	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.site_page_1 .featured_content_featured_content #paginate_content span:hover, .site_page_1 .featured_content_featured_content #paginate_content a:hover {$/;"	function	line:4507
+.custom_14255966554893	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.custom_14255966554893 {$/;"	function	line:7457
+.custom_14255966554893 .boxsitepage	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.custom_14255966554893 .boxsitepage {$/;"	function	line:7462
+.custom_14255966554893 .boxsitepagebody	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.custom_14255966554893 .boxsitepagebody {$/;"	function	line:7466
+div.product-nav	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^div.product-nav {$/;"	function	line:7473
+.nav.nav-tabs	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs {$/;"	function	line:7478
+.nav.nav-tabs li	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs li {$/;"	function	line:7484
+.nav.nav-tabs li a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs li a {$/;"	function	line:7490
+.nav.nav-tabs li:first-child a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs li:first-child a {$/;"	function	line:7501
+.nav.nav-tabs li:last-child a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs li:last-child a {$/;"	function	line:7505
+.nav.nav-tabs li a:hover	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs li a:hover {$/;"	function	line:7509
+.nav.nav-tabs>li.active>a, .nav.nav-tabs>li.active>a:hover, .nav.nav-tabs>li.active>a:focus, .nav.nav-tabs ul.dropdown-menu>li.active>a, .nav.nav-tabs ul.dropdown-menu>li.active>a:hover, .nav.nav-tabs ul.dropdown-menu>li.active>a:focus, .nav-tabs.nav-justified>li.active>a, .nav-tabs.nav-justified>li.active>a:hover, .nav-tabs.nav-justified>li.active>a:focus, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a:hover, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a:focus	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.nav.nav-tabs>li.active>a, .nav.nav-tabs>li.active>a:hover, .nav.nav-tabs>li.active>a:focus, .nav.nav-tabs ul.dropdown-menu>li.active>a, .nav.nav-tabs ul.dropdown-menu>li.active>a:hover, .nav.nav-tabs ul.dropdown-menu>li.active>a:focus, .nav-tabs.nav-justified>li.active>a, .nav-tabs.nav-justified>li.active>a:hover, .nav-tabs.nav-justified>li.active>a:focus, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a:hover, .nav-tabs.nav-justified ul.dropdown-menu>li.active>a:focus{$/;"	function	line:7514
+.site_page_module.recent_topics #topicTypeList li	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.site_page_module.recent_topics #topicTypeList li {$/;"	function	line:9568
+.page_1 [data-module-name="search_custom_search"]	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_1 [data-module-name="search_custom_search"] {$/;"	function	line:10603
+.page_1 .search_custom_search .p1	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_1 .search_custom_search .p1 {$/;"	function	line:10618
+.site_page_1 .column_generic.site_page_column_0	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.site_page_1 .column_generic.site_page_column_0 {$/;"	function	line:10624
+.container.home_cta	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.container.home_cta {$/;"	function	line:10627
+.home_cta .cta_icon	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.home_cta .cta_icon {$/;"	function	line:10643
+.home_cta h2	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.home_cta h2 {$/;"	function	line:10660
+.home_cta p	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.home_cta p {$/;"	function	line:10667
+.home_cta a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.home_cta a {$/;"	function	line:10674
+.site_page_1 .featured_content_featured_content	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.site_page_1 .featured_content_featured_content {$/;"	function	line:10782
+.site_page_1 .featured_content_featured_content .boxsitepage	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.site_page_1 .featured_content_featured_content .boxsitepage {$/;"	function	line:10785
+.site_page_1 .featured_content_featured_content .boxsitepage .p1	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		.site_page_1 .featured_content_featured_content .boxsitepage .p1 {$/;"	function	line:10788
+.site_page_1 .featured_content_featured_content #featured_content	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^	.site_page_1 .featured_content_featured_content #featured_content {$/;"	function	line:10797
+#featured_content .rss	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		#featured_content .rss {$/;"	function	line:10805
+.site_page_1 .featured_content_featured_content #featured_content img	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		.site_page_1 .featured_content_featured_content #featured_content img {$/;"	function	line:10809
+.site_page_1 .featured_content_featured_content #featured_content a.link	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		.site_page_1 .featured_content_featured_content #featured_content a.link {$/;"	function	line:10815
+.site_page_1 .featured_content_featured_content #featured_content a.link:hover	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		.site_page_1 .featured_content_featured_content #featured_content a.link:hover {$/;"	function	line:10821
+.site_page_1 .featured_content_featured_content #featured_content a h1	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^			.site_page_1 .featured_content_featured_content #featured_content a h1 {$/;"	function	line:10825
+.site_page_1 .featured_content_featured_content #featured_content a:hover h1	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^			.site_page_1 .featured_content_featured_content #featured_content a:hover h1 {$/;"	function	line:10831
+.site_page_1 .featured_content_featured_content #featured_content .content	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^		.site_page_1 .featured_content_featured_content #featured_content .content {$/;"	function	line:10835
+.site_page_module.users_all_users_by_points	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.site_page_module.users_all_users_by_points {$/;"	function	line:10851
+.site_page_module.users_all_users_by_points .p1	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.site_page_module.users_all_users_by_points .p1 {$/;"	function	line:10856
+.users_all_users_by_points .imageMediumSquare img	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.users_all_users_by_points .imageMediumSquare img {$/;"	function	line:10862
+.page_302  a.unlike-link, .page_302  .sblog_actions li a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302  a.unlike-link, .page_302  .sblog_actions li a {$/;"	function	line:11055
+.page_302 .sblog_actions li.send_link a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302 .sblog_actions li.send_link a {$/;"	function	line:11060
+.page_302 .sblog_actions li.comment a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302 .sblog_actions li.comment a {$/;"	function	line:11063
+.page_302 .sblog_actions li	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302 .sblog_actions li {$/;"	function	line:11066
+.page_302 .sblog_actions li.blog_like_list_item a	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302 .sblog_actions li.blog_like_list_item a {$/;"	function	line:11070
+.page_302 .sblog_actions li.blog_like_list_item a.unlike-link	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302 .sblog_actions li.blog_like_list_item a.unlike-link {$/;"	function	line:11073
+.page_302 .like-link-total	/Users/jake.spirek/GitHub/bb-community/v2/css/site_pages.css	/^.page_302 .like-link-total {$/;"	function	line:11085

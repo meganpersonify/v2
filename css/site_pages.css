@@ -2502,7 +2502,7 @@ li[id^="delicious_"]
 }
 
 /* end sm share */
- 
+
 /* Horizontal Login */
  .site_page_login
 {
@@ -2684,7 +2684,7 @@ li[id^="delicious_"]
 }
 
 /* end login */
- 
+
  .imageSmallSquare,.imageMediumSquare,.imageLargeSquare,.imageMegaSquare,.imageHugeSquare
 {
 	background-position:0px 0px !important;
@@ -7470,7 +7470,11 @@ li.message_to_recipients
 	padding: 0;
 	width: 100%;
 }
-
+div.product-nav {
+	background-color: #F2F2F2;
+	padding-top: 24px;
+	width: 1200px;
+}
 .nav.nav-tabs {
 	border-bottom: 4px solid #7ab800;
 	margin: 0;
@@ -10800,7 +10804,7 @@ div.greenEnd
 		/*Global - Remove RSS icon from the featured_content block*/
 		#featured_content .rss {
 			display: none;
-		}		
+		}
 
 		.site_page_1 .featured_content_featured_content #featured_content img {
 			border: 2px solid transparent;
@@ -10836,7 +10840,7 @@ div.greenEnd
 			height: auto;
 		}
 
-/* --- /END Home:Featured Content --- */	
+/* --- /END Home:Featured Content --- */
 
  /* Home:Top Members */
  .site_page_module.users_all_users_by_points .boxsitepage
@@ -10911,7 +10915,7 @@ div.imageMediumSquare a
 {
 	border-width:0;
 }
- 
+
 /* Member Spotlight Pinterest Style */
 
 

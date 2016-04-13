@@ -7473,12 +7473,12 @@ li.message_to_recipients
 div.product-nav {
 	background-color: #F2F2F2;
 	padding-top: 24px;
-	width: 1200px;
 }
 .nav.nav-tabs {
 	border-bottom: 4px solid #7ab800;
-	margin: 0;
 	padding-left: 0;
+	width: 1200px;
+	margin: 0 auto;
 }
 
 .nav.nav-tabs li {

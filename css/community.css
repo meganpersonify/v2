@@ -1,13 +1,13 @@
 /* New Community CSS */
 @import url("reset.css");
 @import url("layout.css");
-@import url("color.css");  
-@import url("nav.css");  
-@import url("subnav.css");  
-@import url("frontpage.css");  
-@import url("boxessitepages.css");  
+@import url("color.css");
+@import url("nav.css");
+@import url("subnav.css");
+@import url("frontpage.css");
+@import url("boxessitepages.css");
 /*@import url("header_banners.css");*/  /* Move the code here from site_pages */
-@import url("site_pages.css");  
+@import url("site_pages.css");
 
 /*
 Current Load Order
@@ -274,7 +274,7 @@ div.product-content {
     height: 25px;
 }
 .product-header .dropper ul {
-    background-color: transparent;    
+    background-color: transparent;
 }
 .product-header .dropper li {
     margin:0;
@@ -338,6 +338,35 @@ span.glyphicon.glyphicon-search {
     background: transparent !important;
     z-index: 3;
 }
+/* ---------->>> /END Product Home <<<-----------*/
+
+
+
+
+
+
+
+
+
+/* ---------->>> My Community Dashboard <<<-----------*/
+
+/*----- Left column -----*/
+/*-- My Groups --*/
+
+
+
+/*----- /END Left column -----*/
+
+
+
+
+
+/* ---------->>> /END My Community <<<-----------*/
+
+
+
+
+
 
 
 

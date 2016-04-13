@@ -1854,15 +1854,14 @@ div#statusSave input:hover
  .page_2 .site_page_subnav
 {
 	height:362px !important;
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/dashboard-bg.jpg") !important;
 	background-position:bottom !important;
 	background-size:100% 270px !important;
 	background-repeat:repeat-x;
 }
 
-.page_2 .custom_14249047411480,.page_2 .featured_content_featured_content,.page_2 #main .profile_user_photo
+.page_2 .custom_14249047411480,
 {
-	background-color:#ffffff;
+	/*background-color:#ffffff;
 	display:inline-block;
 	float:left !important;
 	margin:24px 0 24px 0 !important;
@@ -1872,17 +1871,31 @@ div#statusSave input:hover
 	height:212px;
 	overflow:hidden;
 	position:absolute;
-	left:50%;
+	left:50%;*/
+}
+
+.page_2 .featured_content_featured_content {
+	background-color: #ffffff;
+	display: inline-block;
+	float: left !important;
+	/* margin: 24px 0 24px 0 !important; */
+	/* vertical-align: top; */
+	clear: both !important;
+	/* padding: 12px !important; */
+	height: 212px;
+	overflow: hidden;
+	/* position: absolute; */
+	/* left: 50%; */
 }
 
 .page_2 .custom_14249047411480
 {
-	margin-left:-600px !important;
+	/*margin-left:-600px !important;*/
 }
 
 .page_2 .featured_content_featured_content
 {
-	margin-left:-174px !important;
+	/*margin-left:-174px !important;*/
 }
 
 .page_2 .custom_14249047411480 .boxsitepage,.page_2 .featured_content_featured_content .boxsitepage,.page_2 .custom_14249047411480 .boxsitepagebody,.page_2 .featured_content_featured_content .boxsitepagebody,.page_2 #main .profile_user_photo .boxsitepage,.page_2 #main .profile_user_photo .boxsitepagebody
@@ -1901,16 +1914,16 @@ div#statusSave input:hover
 
 .page_2 .featured_content_featured_content
 {
-	width:534px;
-	border-right:2px solid #F7F7F8;
+	/*width:534px;
+	border-right:2px solid #F7F7F8;*/
 }
 
 .page_2 #main .profile_user_photo
 {
-	border-radius:0 3px 3px 0;
+	/*border-radius:0 3px 3px 0;
 	width:182px;
 	margin-top:-270px !important;
-	margin-left:386px !important;
+	margin-left:386px !important;*/
 }
 
 .page_2 .featured_content_featured_content .p1,.page_2 #main .profile_user_photo .p1
@@ -2893,12 +2906,12 @@ a#headerMyAccountLink
 
 .site_page_subnav .profile_user_photo
 {
-	background-color:none !important;
+	/*background-color:none !important;
 	position:fixed;
 	top:13px;
 	right:50%;
 	z-index:101;
-	margin-right:-440px;
+	margin-right:-440px;*/
 }
 
 #headerAdminEditPageLink

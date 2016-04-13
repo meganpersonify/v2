@@ -1,6 +1,6 @@
 
 *.css~
 *.swp
-*.tags
-*.tags1
+*.*.swp
+.tags
 .tags1

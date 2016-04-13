@@ -7480,7 +7480,9 @@ div.product-nav {
 	width: 1200px;
 	margin: 0 auto;
 }
-
+.nav.nav-tabs li:first-child {
+    margin-left: 3px;
+}
 .nav.nav-tabs li {
 	padding-left: 0;
 	padding-right: 0;
@@ -9053,6 +9055,7 @@ ul#featured_user_list li span.image
 li.viewTopic
 {
 	background-color:#7ab800 !important;
+	color: #676a6c;
 	border-radius:0;
 	cursor:pointer;
 	font-size:12px !important;
@@ -9067,7 +9070,7 @@ li.viewTopic
 
 li.viewTopic:hover
 {
-	background-color:#88c70c !important;
+	background-color:#BBBBBB !important;
 }
 
 li.viewTopic a

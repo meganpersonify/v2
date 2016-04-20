@@ -1886,7 +1886,7 @@ div#statusSave input:hover
 		margin: 0;
 	}
 
-	.page_2 .site_page_subnav .featured_content_featured_content + .blockspacer + .profile_user_photo {
+	.page_2 .site_page_subnav .featured_content_featured_content + .blockspacer + .profile_user_photo .boxsitepagebody {
 		position: relative;
 	}
 

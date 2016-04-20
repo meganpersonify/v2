@@ -1914,16 +1914,16 @@ div#statusSave input:hover
 
 .page_2 .featured_content_featured_content
 {
-	/*width:534px;
-	border-right:2px solid #F7F7F8;*/
+	width:500px;
+	/*border-right:2px solid #F7F7F8;*/
 }
 
 .page_2 #main .profile_user_photo
 {
-	/*border-radius:0 3px 3px 0;
+	border-radius:0 3px 3px 0;
 	width:182px;
 	margin-top:-270px !important;
-	margin-left:386px !important;*/
+	margin-left:386px !important;
 }
 
 .page_2 .featured_content_featured_content .p1,.page_2 #main .profile_user_photo .p1

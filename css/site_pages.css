@@ -10799,6 +10799,7 @@ div.greenEnd
 }
 
 	.site_page_1 .featured_content_featured_content .boxsitepage {
+
 	}
 
 		.site_page_1 .featured_content_featured_content .boxsitepage .p1 {
@@ -10809,6 +10810,10 @@ div.greenEnd
 			text-align: center;
 			margin-bottom: 30px;
 		}
+
+	.site_page_1 .featured_content_featured_content .boxsitepagebody {
+		min-height: 276px;
+	}
 
 	.site_page_1 .featured_content_featured_content #featured_content {
 		border: 1px solid #ccc;

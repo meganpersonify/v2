@@ -1694,7 +1694,7 @@ div.file-detail-info br
 	width:100px;
 	padding:0;
 	height:100px;
-	position:relative;
+	position: absolute;
 	top:0;
 }
 

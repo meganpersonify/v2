@@ -2906,12 +2906,12 @@ a#headerMyAccountLink
 
 .site_page_subnav .profile_user_photo
 {
-	/*background-color:none !important;
+	background-color:none !important;
 	position:fixed;
 	top:13px;
 	right:50%;
 	z-index:101;
-	margin-right:-440px;*/
+	margin-right:-440px;
 }
 
 #headerAdminEditPageLink

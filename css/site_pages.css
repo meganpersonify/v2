@@ -1874,6 +1874,9 @@ div#statusSave input:hover
 }
 
 .page_2 .site_page_subnav .featured_content_featured_content + .blockspacer + .profile_user_photo {
+	position: relative;
+	top: 0;
+	right: auto;
 	width: 1200px;
 	margin: 0 auto;
 }
@@ -1884,13 +1887,13 @@ div#statusSave input:hover
 
 .page_2 .featured_content_featured_content {
 	background-color: #ffffff;
-	float: none !important;
-	 margin: 0 auto !important;
+	float: right !important;
+	margin: 0 auto !important;
 	/* vertical-align: top; */
 	clear: both !important;
 	/* padding: 12px !important; */
 	height: 212px;
-	width: 1200px;
+	width: 500px;
 	overflow: hidden;
 	/* position: absolute; */
 	/* left: 50%; */

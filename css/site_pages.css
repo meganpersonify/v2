@@ -1873,13 +1873,13 @@ div#statusSave input:hover
 	left:50%;*/
 }
 
-.page_2 .profile_user_photo {
-	/*width: 1200px;*/
-	/*margin: 0 auto;	*/
+.page_2 .site_page_subnav .profile_user_photo:nth-child(2) {
+	width: 1200px;
+	margin: 0 auto;	
 }
 
-	.site_page_subnav .profile_user_photo .boxsitepage .p1 {
-		/*margin: 0;*/
+	.page_2 .site_page_subnav .profile_user_photo:nth-child(2) .profile_user_photo .boxsitepage .p1 {
+		margin: 0;
 	}
 
 .page_2 .featured_content_featured_content {

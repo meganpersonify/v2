@@ -1875,7 +1875,7 @@ div#statusSave input:hover
 
 .page_2 .site_page_subnav .featured_content_featured_content + .profile_user_photo {
 	width: 1200px;
-	margin: 0 auto;	
+	margin: 0 auto;
 }
 
 	.page_2 .site_page_subnav .featured_content_featured_content + .profile_user_photo .boxsitepage .p1 {
@@ -1885,7 +1885,7 @@ div#statusSave input:hover
 .page_2 .featured_content_featured_content {
 	background-color: #ffffff;
 	float: none !important;
-	 margin: 0 auto !important; 
+	 margin: 0 auto !important;
 	/* vertical-align: top; */
 	clear: both !important;
 	/* padding: 12px !important; */
@@ -2968,8 +2968,8 @@ a#headerMyAccountLink
 
 .my_messages_list_friends_value,.my_messages_list_messages_value
 {
-	height:12px;
-	min-width:12px;
+	height:14px;
+	min-width:14px;
 	display:none;
 	position:absolute;
 	border-radius:6px;
@@ -2979,7 +2979,8 @@ a#headerMyAccountLink
 	line-height:12px;
 	margin:-20px 0 0 15px;
 	text-align:center;
-	font-weight:500;
+  letter-spacing: -1.1px;
+	font-weight:600;
 	border:1px solid rgba(132,166,163,0.4);
 }
 

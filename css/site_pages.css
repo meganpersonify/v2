@@ -1879,15 +1879,20 @@ div#statusSave input:hover
 	right: auto;
 	width: 1200px;
 	margin: 0 auto;
+	clear: both;
 }
 
 	.page_2 .site_page_subnav .featured_content_featured_content + .blockspacer + .profile_user_photo .boxsitepage .p1 {
 		margin: 0;
 	}
 
+	.page_2 .site_page_subnav .featured_content_featured_content + .blockspacer + .profile_user_photo {
+		position: relative;
+	}
+
 .page_2 .featured_content_featured_content {
 	background-color: #ffffff;
-	float: right !important;
+	float: none !important;
 	margin: 0 auto !important;
 	/* vertical-align: top; */
 	clear: both !important;

@@ -1874,12 +1874,12 @@ div#statusSave input:hover
 }
 
 .page_2 .profile_user_photo {
-	width: 1200px;
-	margin: 0 auto;	
+	/*width: 1200px;*/
+	/*margin: 0 auto;	*/
 }
 
 	.site_page_subnav .profile_user_photo .boxsitepage .p1 {
-		margin: 0;
+		/*margin: 0;*/
 	}
 
 .page_2 .featured_content_featured_content {
@@ -1913,12 +1913,6 @@ div#statusSave input:hover
 {
 	width:400px;
 	border-right:2px solid #F7F7F8;
-}
-
-.page_2 .featured_content_featured_content
-{
-	width:500px;
-	/*border-right:2px solid #F7F7F8;*/
 }
 
 .page_2 #main .profile_user_photo

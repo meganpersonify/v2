@@ -1691,11 +1691,11 @@ div.file-detail-info br
 .site_page_subnav .profile_user_photo .boxsitepagebody
 {
 	margin:0;
-	width:20px;
+	width:100px;
 	padding:0;
-	height:20px;
+	height:100px;
 	position:relative;
-	top:-24px;
+	top:0;
 }
 
 .page_2 .profile_user_status .boxsitepagebody
@@ -2058,8 +2058,8 @@ div#statusSave input:hover
 /* Third myBlock - User Photo */
  .page_2 .profile_user_photo .imageMegaSquare,.page_2 .profile_user_photo .imageMegaSquare img
 {
-	height:182px;
-	width:182px;
+	height:100px;
+	width:100px;
 	padding:0 !important;
 	margin:0 !important;
 }

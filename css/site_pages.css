@@ -4646,8 +4646,12 @@ div.settings_section .field label,#current_email_address
 input[type="text"],input[type="password"],input[type="file"]
 {
 	border:1px solid #cccccc !important;
-	height:28px;
+	height:28px !important;
 	padding:0 4px;
+}
+
+form.form .input_text_field input {
+	height: 28px;
 }
 
 input[type="text"]:focus,input[type="password"]:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,textarea:focus

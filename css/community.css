@@ -367,6 +367,50 @@ span.glyphicon.glyphicon-search {
 
 
 
+/* ---------->>> Discussions Adjustments <<<-----------*/
+
+/*Move the "like" button and reply button to the bottom*/
+div.forum-topic-post {
+  position: relative;
+}
+div.forumContainer div.postBody.topic-list-topic-body ul.topic-list-engagement-actions {
+  position: absolute;
+  bottom: -60px;
+  right: 0;
+}
+/* Hide the generic Reply button */
+ul.horizontalList.topic-reply-button-container li.topic-reply-button {
+  display: none;
+}
+/*Move the Answered/Unanswered flag up*/
+li.forum-topic-status.forum-topic-status-level-2 {
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 25px;
+}
+
+div.topic-actions {
+  margin-top: 40px;
+  height: 31px !important;
+}
+div.topic-actions ul.horizontalList {
+  padding-top: 9px !important;
+}
+/* Reply buttons */
+.postBody.topic-list-reply-body {
+    position: relative;
+}
+ul.horizontalList.topic-list-engagement-actions {
+    position: absolute;
+    bottom: -30px;
+}
+/* ---------->>> /END Discussions Adjustments <<<-----------*/
+
+
+
+
+
 
 
 

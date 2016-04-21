@@ -1667,7 +1667,7 @@ div.file-detail-info br
 
 .site_page_subnav .profile_user_photo #user_profile_photo
 {
-	border-radius:2px;
+	border-radius:0;
 	float:left;
 	overflow:hidden;
 	margin:0;
@@ -1693,7 +1693,7 @@ div.file-detail-info br
 	margin:0;
 	width:100px;
 	padding:0;
-	height:100px;
+	height:24px;
 	position: absolute;
 	top:0;
 }
@@ -2907,6 +2907,14 @@ a#headerMyAccountLink
 	margin-left:430px;
 	z-index:101;
     width: 125px;
+}
+
+.site_page_subnav .myhome_my_messages .boxsitepagebody {
+	margin-bottom: 0;
+}
+
+.site_page_subnav .myhome_my_messages .boxsitepagebody #my_messages_list {
+	margin-bottom: 0;
 }
 
 .site_page_subnav .profile_user_photo

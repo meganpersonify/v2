@@ -4646,7 +4646,7 @@ div.settings_section .field label,#current_email_address
 input[type="text"],input[type="password"],input[type="file"]
 {
 	border:1px solid #cccccc !important;
-	height:28px;
+	height:28px !important;
 	padding:0 4px;
 }
 

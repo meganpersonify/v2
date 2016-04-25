@@ -387,7 +387,24 @@ li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-to
     display: block;
     position: absolute;
     right: 0;
-    bottom: 25px;
+    bottom: 35px;
+}
+/*Answered/Unanswered*/
+ul li.forum-topic-status {
+    background-color: #A09E9E;
+    border: none;
+    box-shadow: none;
+    display: block;
+    float: right;
+    font-weight: bold;
+    margin: 2px 0 0 0;
+    padding: 2px 0px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    width: 110px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
 }
 
 div.topic-actions {
@@ -446,6 +463,10 @@ ul.topic-list-engagement-actions li.quote a:hover {
   background-color: #BBBBBB;
 }
 
+
+ul li.quote {
+  background: transparent;
+}
 /* ---------->>> /END Discussions Adjustments <<<-----------*/
 
 

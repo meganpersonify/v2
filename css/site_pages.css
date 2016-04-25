@@ -4727,8 +4727,8 @@ ul.rss_icon li
 
 ul li.unWatch a
 {
-	color:#ffffff !important;
-	text-decoration:none !important;
+	color:#ffffff;
+	text-decoration:none;
 	background:#29abe2;
 	padding:2px 6px;
 	margin:0 0 5px;
@@ -7379,7 +7379,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Discussion [selected] ---*/
-	
+
 	/*Same selector for all discussion pages across all products*/
 	.page-cat-forums .product-nav a.tab-discussions {
 		background-color: #7ab800;
@@ -7387,7 +7387,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Announcements [selected] ---*/
-	
+
 	/*Raiser's Edge = 8*/
 	.page-urlp-sblog_id_8.page-cat-blogs .product-nav a.tab-announcements {
 		background-color: #7ab800;
@@ -7395,7 +7395,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Tips and Tricks [selected] ---*/
-	
+
 	/*Raiser's Edge = 10*/
 	.page-urlp-sblog_id_10.page-cat-blogs .product-nav a.tab-tips {
 		background-color: #7ab800;
@@ -7403,7 +7403,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Events [selected] ---*/
-	
+
 	/*Same selector for all event pages across all products*/
 	.page-cat-events .product-nav a.tab-events {
 		background-color: #7ab800;
@@ -7411,7 +7411,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Resources [selected] ---*/
-	
+
 	/*Raiser's Edge = Custom page id 10164*/
 	.page_10164.page-cat-custompages .product-nav a.tab-resources {
 		background-color: #7ab800;
@@ -7419,7 +7419,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Ideas [selected] ---*/
-	
+
 	/*Raiser's Edge = Custom page id 10158*/
 	.page_10158.page-cat-custompages .product-nav a.tab-ideas {
 		background-color: #7ab800;
@@ -7427,7 +7427,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Release Info [selected] ---*/
-	
+
 	/*Raiser's Edge = Custom page id 10155*/
 	.page_10155.page-cat-custompages .product-nav a.tab-release-info {
 		background-color: #7ab800;
@@ -7435,7 +7435,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Members [selected] ---*/
-	
+
 	/*Raiser's Edge = Custom page id 10379*/
 	.page_10379.page-cat-custompages .product-nav a.tab-members {
 		background-color: #7ab800;

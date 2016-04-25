@@ -6718,9 +6718,9 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 
 ul li.forum-topic-status
 {
-	background-color:#e66643 !important;
-	border:none !important;
-	box-shadow:none !important;
+	background-color:#e66643;
+	border:none;
+	box-shadow:none;
 	display:block;
 	float:right;
 	font-weight:bold;

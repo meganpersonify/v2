@@ -7373,7 +7373,7 @@ div.product-nav {
 /*--- Product Navigation - Home [selected] ---*/
 
 	/*Raiser's Edge - 10123*/
-	.page_10123.page-cat-custompages .product-nav a[href*="products/raisersedge7"] {
+	.page_10123.page-cat-custompages .product-nav a[href^="products/raisersedge7"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7381,7 +7381,7 @@ div.product-nav {
 /*--- Product Navigation - Discussion [selected] ---*/
 	
 	/*Raiser's Edge = 142*/
-	.page-urlp-category_id_142.page-cat-forums .product-nav a[href*="forums/viewcategory/142"] {
+	.page-urlp-category_id_142.page-cat-forums .product-nav a[href^="forums/viewcategory/142"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7389,7 +7389,7 @@ div.product-nav {
 /*--- Product Navigation - Announcements [selected] ---*/
 	
 	/*Raiser's Edge = 8*/
-	.page-urlp-sblog_id_8.page-cat-blogs .product-nav a[href*="blogs/8"] {
+	.page-urlp-sblog_id_8.page-cat-blogs .product-nav a[href^="blogs/8"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7397,7 +7397,7 @@ div.product-nav {
 /*--- Product Navigation - Tips and Tricks [selected] ---*/
 	
 	/*Raiser's Edge = 10*/
-	.page-urlp-sblog_id_10.page-cat-blogs .product-nav a[href*="blogs/10"] {
+	.page-urlp-sblog_id_10.page-cat-blogs .product-nav a[href^="blogs/10"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7405,7 +7405,7 @@ div.product-nav {
 /*--- Product Navigation - Events [selected] ---*/
 	
 	/*Raiser's Edge = 2*/
-	.page-urlp-category_id_2.page-cat-events .product-nav a[href*="events/category/2"] {
+	.page-urlp-category_id_2.page-cat-events .product-nav a[href^="events/category/2"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7413,7 +7413,7 @@ div.product-nav {
 /*--- Product Navigation - Resources [selected] ---*/
 	
 	/*Raiser's Edge = 10164*/
-	.page_10164.page-cat-custompages .product-nav a[href*="products/raisersedge7/resources"] {
+	.page_10164.page-cat-custompages .product-nav a[href^="products/raisersedge7/resources"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7421,7 +7421,7 @@ div.product-nav {
 /*--- Product Navigation - Ideas [selected] ---*/
 	
 	/*Raiser's Edge = 10158*/
-	.page_10158.page-cat-custompages .product-nav a[href*="products/raisersedge7/ideas"] {
+	.page_10158.page-cat-custompages .product-nav a[href^="products/raisersedge7/ideas"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7429,7 +7429,7 @@ div.product-nav {
 /*--- Product Navigation - Release Info [selected] ---*/
 	
 	/*Raiser's Edge = 10155*/
-	.page_10155.page-cat-custompages .product-nav a[href*="products/raisersedge7/release"] {
+	.page_10155.page-cat-custompages .product-nav a[href^="products/raisersedge7/release"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7437,7 +7437,7 @@ div.product-nav {
 /*--- Product Navigation - Members [selected] ---*/
 	
 	/*Raiser's Edge = 10379*/
-	.page_10379.page-cat-custompages .product-nav a[href*="products/raisersedge7/members"] {
+	.page_10379.page-cat-custompages .product-nav a[href^="products/raisersedge7/members"] {
 		background-color: #7ab800;
 		color: white;
 	}
@@ -7445,7 +7445,7 @@ div.product-nav {
 /*--- Product Navigation - Members [selected] ---*/
 	
 	/*Raiser's Edge = 10379*/
-	.page_10379.page-cat-custompages .product-nav a[href*="products/raisersedge7/members"] {
+	.page_10379.page-cat-custompages .product-nav a[href^="products/raisersedge7/members"] {
 		background-color: #7ab800;
 		color: white;
 	}

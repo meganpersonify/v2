@@ -383,7 +383,7 @@ ul.horizontalList.topic-reply-button-container li.topic-reply-button {
   display: none;
 }
 /*Move the Answered/Unanswered flag up*/
-li.forum-topic-status.forum-topic-status-level-2 {
+li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-topic-status-level-1 {
     display: block;
     position: absolute;
     right: 0;
@@ -405,6 +405,47 @@ ul.horizontalList.topic-list-engagement-actions {
     position: absolute;
     bottom: -30px;
 }
+
+/*Style the discussions buttons the same*/
+.topic-top-watch a#topicWatch::before,
+.topic-top-watch li.add_bookmark::before,
+ul.topic-list-engagement-actions li.quote a::before
+{
+    font-family: FontAwesome;
+    margin-right: 5px;
+}
+.topic-top-watch a#topicWatch::before {
+    content: '\f0e0';
+}
+.topic-top-watch li.add_bookmark::before {
+    content: '\f02e';
+}
+ul.topic-list-engagement-actions li.quote a::before {
+    content: '\f122';
+}
+
+.topic-top-watch a#topicWatch,
+.topic-top-watch li.add_bookmark,
+ul.topic-list-engagement-actions li.quote a
+{
+  background-color: #C8C8C8;
+  color: #676a6c;
+  border-radius: 0;
+  cursor: pointer;
+  font-size: 12px;
+  height: 34px;
+  line-height: 20px;
+  padding: 8px 12px;
+  text-align: center;
+  text-transform: uppercase;
+  width: auto;
+  margin-right: 8px;
+}
+.topic-top-watch a#topicWatch:hover,
+ul.topic-list-engagement-actions li.quote a:hover {
+  background-color: #BBBBBB;
+}
+
 /* ---------->>> /END Discussions Adjustments <<<-----------*/
 
 

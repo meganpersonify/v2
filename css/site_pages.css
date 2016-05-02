@@ -1371,6 +1371,7 @@ div.feedburnerFeedBlock div#creditfooter
 #itemBlock .userActions
 {
 	float:left;
+	padding-left: 10px;
 }
 
 #itemBlock .userActions a

@@ -8532,8 +8532,8 @@ ul#upcomingEvents.eventsItemsList
 /* Add New Topic Custom Button to Forum Category Pages */
  .page_1001 .form_button
 {
-	margin:3px 0 0 797px !important;
 	position:absolute !important;
+	right: 12px;
 }
 
 /* Remove New Topic Custom Button from Forum Parent Category Pages */

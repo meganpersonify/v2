@@ -29,6 +29,7 @@
 html[xmlns] .column_generic
 {
 	display:block;
+	position: relative;
 }
 
 * html .column_generic
@@ -4135,7 +4136,7 @@ ul.largeGallery li .pictureFrame .overlay
 
 div.user-list div.user-list-item.itemMedium
 {
-	width:68px !important;
+	width:68px;
 }
 
 .message_recipients
@@ -10796,7 +10797,7 @@ div.greenEnd
 }
 div.user-list div.user-list-item.itemMedium
 {
-	width:48px !important;
+	width:52px;
 }
 
 .page_1 div.user-list div.user-list-item
@@ -10814,14 +10815,14 @@ div.user-list div.user-list-item.hoverBox
 
 div.imageMediumSquare
 {
-	width:48px;
+	width:62px;
 	background:transparent;
 }
 
 div.imageMediumSquare a
 {
-	width:48px;
-	height:48px;
+	width:62px;
+	height:62px;
 }
 
 .page_1 .site_page_module.users_all_users_by_points div.pagination.paginator-pagination

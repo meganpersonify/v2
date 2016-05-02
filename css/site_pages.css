@@ -10547,6 +10547,17 @@ div.greenEnd
 	display: none;
 }
 
+/* --- Home: members --- */
+
+.page_1 div.imageMediumSquare {
+	width: 48px;
+}
+
+.page_1 div.imageMediumSquare a {
+	width: 48px;
+	height: 48px;
+}
+
 /* --- Home:CTA's --- */
  /* Block */
 .site_page_1 .column_generic.site_page_column_0 {

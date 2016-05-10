@@ -256,6 +256,11 @@ a.btn-join-community:hover
     background-repeat: no-repeat;
     background-size: cover;
     /*overflow: hidden;*/
+    /* http://colorzilla.com/gradient-editor/#000000+0,7db9e8+100&1+0,0+100 */
+    background: -moz-linear-gradient(left,  rgba(0,0,0,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  rgba(0,0,0,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#007db9e8',GradientType=1 ); /* IE6-9 */
 }
 div.product-content {
     width: 1200px;
@@ -461,6 +466,7 @@ ul.topic-list-engagement-actions li.quote a
 .topic-top-watch a#topicWatch:hover,
 ul.topic-list-engagement-actions li.quote a:hover {
   background-color: #BBBBBB;
+  text-decoration: none;
 }
 
 

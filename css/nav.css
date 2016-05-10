@@ -47,7 +47,7 @@
 }
 
 /* Green background color for final special link */
-#mainnav li.mainnav-link-5 {
+#mainnav li.mainnav-link-6 {
 	background-color: #7ab800;
 
 	/*Hide the "join" button from the navigation bar */
@@ -55,11 +55,11 @@
 	display: none;
 }
 
-	#mainnav li.mainnav-link-5:hover {
+	#mainnav li.mainnav-link-6:hover {
 		background-color: #EEEEEE;
 	}
 
-	#mainnav li.mainnav-link-5 a {
+	#mainnav li.mainnav-link-6 a {
 		color: white;
 		text-transform: uppercase;
 	}

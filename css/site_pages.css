@@ -7377,8 +7377,34 @@ div.product-nav {
 
 /*--- Product Navigation - Home [selected] ---*/
 
+	/*Altru = Custom page id 10213*/
+	/*Blackbaud CRM = Custom page id 10125*/
+	/*K-12 Schools = Custom page id 10207*/
+	/*eTapestry = Custom page id 10126*/
+	/*Financial Edge = Custom page id 10147*/
+	/*Financial Edge NXT = Custom page id 10148*/
+	/*Luminate = Custom page id 10122*/
+	/*Microedge = Custom page id 10209*/
+	/*NetCommunity = Custom page id 10204*/
+	/*Online Express = Custom page id 10215*/
 	/*Raiser's Edge = Custom page id 10123*/
-	.page_10123.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home {
+	/*Raiser's Edge NXT = Custom page id 10124*/
+	/*Sphere = Custom page id 10145*/
+	/*Target Analytics = Custom page id 10200*/
+	.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10126.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10147.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10148.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10122.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10209.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10204.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10215.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10123.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10124.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10145.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10200.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home {
 		background-color: #7ab800;
 		color: white;
 	}

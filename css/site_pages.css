@@ -7524,22 +7524,33 @@ div.product-nav {
 
 /*--- Product Navigation - Ideas [selected] ---*/
 	
-	/* Altru ------------ = Custom page id -----*/
-	/* Blackbaud CRM ---- = Custom page id -----*/
+	/* Altru ------------ = Custom page id 10238*/
+	/* Blackbaud CRM ---- = Custom page id 10150*/
 	/* Merchant Services  = Custom page id -----*/
-	/* K-12 Schools ----- = Custom page id -----*/
-	/* eTapestry -------- = Custom page id -----*/
-	/* Financial Edge --- = Custom page id -----*/
-	/* Financial Edge NXT = Custom page id -----*/
+	/* K-12 Schools ----- = Custom page id 10212*/
+	/* eTapestry -------- = Custom page id 10195*/
+	/* Financial Edge --- = Custom page id 10177*/
+	/* Financial Edge NXT = Custom page id 10179*/
 	/* Luminate --------- = Custom page id -----*/
-	/* Microedge -------- = Custom page id -----*/
-	/* NetCommunity ----- = Custom page id -----*/
-	/* Online Express --- = Custom page id -----*/
+	/* Microedge -------- = Custom page id 10223*/
+	/* NetCommunity ----- = Custom page id 10364*/
+	/* Online Express --- = Custom page id 10224*/
 	/* Raiser's Edge ---- = Custom page id 10158*/
-	/* Raiser's Edge NXT  = Custom page id -----*/
+	/* Raiser's Edge NXT  = Custom page id 10166*/
 	/* Sphere ----------- = Custom page id -----*/
-	/* Target Analytics - = Custom page id -----*/
-	.page_10158.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas {
+	/* Target Analytics - = Custom page id 10226*/
+	.page_10238.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10150.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10212.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10195.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10177.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10179.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10223.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10364.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10224.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10158.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10166.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,
+	.page_10226.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas {
 		background-color: #7ab800;
 		color: white;
 	}

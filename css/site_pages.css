@@ -7377,20 +7377,21 @@ div.product-nav {
 
 /*--- Product Navigation - Home [selected] ---*/
 
-	/*Altru = Custom page id 10213*/
-	/*Blackbaud CRM = Custom page id 10125*/
-	/*K-12 Schools = Custom page id 10207*/
-	/*eTapestry = Custom page id 10126*/
-	/*Financial Edge = Custom page id 10147*/
-	/*Financial Edge NXT = Custom page id 10148*/
-	/*Luminate = Custom page id 10122*/
-	/*Microedge = Custom page id 10209*/
-	/*NetCommunity = Custom page id 10204*/
-	/*Online Express = Custom page id 10215*/
-	/*Raiser's Edge = Custom page id 10123*/
-	/*Raiser's Edge NXT = Custom page id 10124*/
-	/*Sphere = Custom page id 10145*/
-	/*Target Analytics = Custom page id 10200*/
+	/* Altru ------------ = Custom page id 10213*/
+	/* Blackbaud CRM ---- = Custom page id 10125*/
+	/* Merchant Services  = Custom page id -----*/
+	/* K-12 Schools ----- = Custom page id 10207*/
+	/* eTapestry -------- = Custom page id 10126*/
+	/* Financial Edge --- = Custom page id 10147*/
+	/* Financial Edge NXT = Custom page id 10148*/
+	/* Luminate --------- = Custom page id 10122*/
+	/* Microedge -------- = Custom page id 10209*/
+	/* NetCommunity ----- = Custom page id 10204*/
+	/* Online Express --- = Custom page id 10215*/
+	/* Raiser's Edge ---- = Custom page id 10123*/
+	/* Raiser's Edge NXT  = Custom page id 10124*/
+	/* Sphere ----------- = Custom page id 10145*/
+	/* Target Analytics - = Custom page id 10200*/
 	.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
 	.page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
 	.page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
@@ -7419,8 +7420,31 @@ div.product-nav {
 
 /*--- Product Navigation - Announcements [selected] ---*/
 
-	/*Raiser's Edge = 8*/
-	.page-urlp-sblog_id_8.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements {
+	/* Altru ------------ = 14 */
+	/* Blackbaud CRM ---- = 54 */
+	/* Merchant Services  = -- */
+	/* K-12 Schools ----- = -- */
+	/* eTapestry -------- = 2  */
+	/* Financial Edge --- = -- */
+	/* Financial Edge NXT = -- */
+	/* Luminate --------- = -- */
+	/* Microedge -------- = 43 */
+	/* NetCommunity ----- = 66 */
+	/* Online Express --- = 73 */
+	/* Raiser's Edge ---- = 8  */
+	/* Raiser's Edge NXT  = 13 */
+	/* Sphere ----------- = 72 */
+	/* Target Analytics - = 42 */
+	.page-urlp-sblog_id_14.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_54.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_2.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_43.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_66.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_73.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_8.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_13.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_72.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_42.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements {
 		background-color: #7ab800;
 		color: white;
 	}

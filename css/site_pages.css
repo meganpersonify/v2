@@ -7491,22 +7491,33 @@ div.product-nav {
 
 /*--- Product Navigation - Resources [selected] ---*/
 	
-	/* Altru ------------ = Custom page id -----*/
-	/* Blackbaud CRM ---- = Custom page id -----*/
+	/* Altru ------------ = Custom page id 10214*/
+	/* Blackbaud CRM ---- = Custom page id 10183*/
 	/* Merchant Services  = Custom page id -----*/
 	/* K-12 Schools ----- = Custom page id -----*/
-	/* eTapestry -------- = Custom page id -----*/
-	/* Financial Edge --- = Custom page id -----*/
-	/* Financial Edge NXT = Custom page id -----*/
+	/* eTapestry -------- = Custom page id 10174*/
+	/* Financial Edge --- = Custom page id 10173*/
+	/* Financial Edge NXT = Custom page id 10184*/
 	/* Luminate --------- = Custom page id -----*/
-	/* Microedge -------- = Custom page id -----*/
-	/* NetCommunity ----- = Custom page id -----*/
-	/* Online Express --- = Custom page id -----*/
+	/* Microedge -------- = Custom page id 10210*/
+	/* NetCommunity ----- = Custom page id 10204*/
+	/* Online Express --- = Custom page id 10232*/
 	/* Raiser's Edge ---- = Custom page id 10164*/
-	/* Raiser's Edge NXT  = Custom page id -----*/
-	/* Sphere ----------- = Custom page id -----*/
-	/* Target Analytics - = Custom page id -----*/
-	.page_10164.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources {
+	/* Raiser's Edge NXT  = Custom page id 10186*/
+	/* Sphere ----------- = Custom page id 10231*/
+	/* Target Analytics - = Custom page id 10201*/
+	.page_10214.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10183.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10174.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10173.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10184.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10210.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10204.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10232.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10164.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10186.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10231.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,
+	.page_10201.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources {
 		background-color: #7ab800;
 		color: white;
 	}

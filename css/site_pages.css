@@ -7557,44 +7557,53 @@ div.product-nav {
 
 /*--- Product Navigation - Release Info [selected] ---*/
 	
-	/* Altru ------------ = Custom page id -----*/
+	/* Altru ------------ = Custom page id 10389*/
 	/* Blackbaud CRM ---- = Custom page id -----*/
 	/* Merchant Services  = Custom page id -----*/
 	/* K-12 Schools ----- = Custom page id -----*/
-	/* eTapestry -------- = Custom page id -----*/
+	/* eTapestry -------- = Custom page id 10382*/
 	/* Financial Edge --- = Custom page id -----*/
 	/* Financial Edge NXT = Custom page id -----*/
 	/* Luminate --------- = Custom page id -----*/
 	/* Microedge -------- = Custom page id -----*/
-	/* NetCommunity ----- = Custom page id -----*/
+	/* NetCommunity ----- = Custom page id 10386*/
 	/* Online Express --- = Custom page id -----*/
 	/* Raiser's Edge ---- = Custom page id 10155*/
 	/* Raiser's Edge NXT  = Custom page id -----*/
 	/* Sphere ----------- = Custom page id -----*/
-	/* Target Analytics - = Custom page id -----*/
-	.page_10155.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info {
+	/* Target Analytics - = Custom page id 10384*/
+	.page_10389.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,
+	.page_10382.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,
+	.page_10386.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,
+	.page_10155.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,
+	.page_10384.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info {
 		background-color: #7ab800;
 		color: white;
 	}
 
 /*--- Product Navigation - Members [selected] ---*/
 	
-	/* Altru ------------ = Custom page id -----*/
+	/* Altru ------------ = Custom page id 10390*/
 	/* Blackbaud CRM ---- = Custom page id -----*/
 	/* Merchant Services  = Custom page id -----*/
 	/* K-12 Schools ----- = Custom page id -----*/
-	/* eTapestry -------- = Custom page id -----*/
+	/* eTapestry -------- = Custom page id 10383*/
 	/* Financial Edge --- = Custom page id -----*/
 	/* Financial Edge NXT = Custom page id -----*/
 	/* Luminate --------- = Custom page id -----*/
 	/* Microedge -------- = Custom page id -----*/
-	/* NetCommunity ----- = Custom page id -----*/
+	/* NetCommunity ----- = Custom page id 10387*/
 	/* Online Express --- = Custom page id -----*/
 	/* Raiser's Edge ---- = Custom page id 10379*/
 	/* Raiser's Edge NXT  = Custom page id -----*/
-	/* Sphere ----------- = Custom page id -----*/
-	/* Target Analytics - = Custom page id -----*/
-	.page_10379.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members {
+	/* Sphere ----------- = Custom page id 10388*/
+	/* Target Analytics - = Custom page id 10385*/
+	.page_10390.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,
+	.page_10383.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,
+	.page_10387.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,
+	.page_10379.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,
+	.page_10388.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,
+	.page_10385.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members {
 		background-color: #7ab800;
 		color: white;
 	}

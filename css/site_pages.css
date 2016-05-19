@@ -6751,7 +6751,7 @@ ul li.forum-topic-status
 	font-size:12px;
 	font-weight:300 !important;
 	color:#cccccc;
-	width:160px !important;
+	width:160px;
 	display:inline-block;
 	height:30px;
 	border-radius:0px;

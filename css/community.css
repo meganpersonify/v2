@@ -374,10 +374,7 @@ div.forum-topic-post {
   position: relative;
 }
 div.forumContainer div.postBody.topic-list-topic-body ul.topic-list-engagement-actions {
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  right: 0;
+  position: static;
 }
 /* Hide the generic Reply button */
 ul.horizontalList.topic-reply-button-container li.topic-reply-button {
@@ -385,10 +382,11 @@ ul.horizontalList.topic-reply-button-container li.topic-reply-button {
 }
 /*Move the Answered/Unanswered flag up*/
 li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-topic-status-level-1 {
-    display: block;
+    
+}
+ul.horizontalList.topic-list-engagement-actions li.quote {
     position: absolute;
-    right: 0;
-    bottom: 35px;
+    border: -45px;
 }
 /*Answered/Unanswered*/
 ul li.forum-topic-status {

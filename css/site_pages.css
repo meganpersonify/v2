@@ -4550,7 +4550,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 blockquote
 {
 	border:none !important;
-	margin:0 0 0 20px !important;
+	margin:0 0 20px 20px !important;
 	padding:0 !important;
 	background:none !important;
 	width:85% !important;

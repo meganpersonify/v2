@@ -6773,7 +6773,7 @@ div.topic-actions
 
 div.topic-actions ul.horizontalList
 {
-	padding-top:8px !important;
+	padding-top:8px;
 }
 
 .forum-topic-post .forum_topic_like_list_item:hover

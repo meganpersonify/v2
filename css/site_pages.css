@@ -6766,14 +6766,14 @@ ul li.forum-topic-status
 div.topic-actions
 {
 	border-bottom:1px solid #cccccc !important;
-	height:31px !important;
+	height:31px;
 	margin-bottom:20px;
-	padding:0 !important;
+	padding:0;
 }
 
 div.topic-actions ul.horizontalList
 {
-	padding-top:8px !important;
+	padding-top:8px;
 }
 
 .forum-topic-post .forum_topic_like_list_item:hover

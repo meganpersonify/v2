@@ -387,9 +387,9 @@ li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-to
 ul.horizontalList.topic-list-engagement-actions li.forum_topic_like_list_item {
     width: 80px;
 }
-ul.horizontalList.topic-list-engagement-actions li.quote {
+.forum-topic-post ul.horizontalList.topic-list-engagement-actions li.quote {
     position: absolute;
-    bottom: -45px;
+    bottom: -46px;
 }
 /*Answered/Unanswered*/
 ul li.forum-topic-status {
@@ -421,7 +421,14 @@ div.topic-actions ul.horizontalList {
 }
 li.unWatch {
   padding: 0 !important;
+  /*margin-top: 20px;
+  height: 44px;
+  padding-bottom: 10px;*/
 }
+div.topic-actions ul.horizontalList {
+  padding-top: 0;
+}
+
 /* Reply buttons */
 .postBody.topic-list-reply-body {
     position: relative;

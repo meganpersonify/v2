@@ -382,7 +382,7 @@ ul.horizontalList.topic-reply-button-container li.topic-reply-button {
 }
 /*Move the Answered/Unanswered flag up*/
 li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-topic-status-level-1 {
-    
+
 }
 ul.horizontalList.topic-list-engagement-actions li.forum_topic_like_list_item {
     width: 80px;
@@ -410,11 +410,17 @@ ul li.forum-topic-status {
 }
 
 div.topic-actions {
-  margin-top: 40px;
-  height: 31px !important;
+  margin-top: 65px;
+  height: 31px;
+  position: relative;
 }
 div.topic-actions ul.horizontalList {
-  padding-top: 9px !important;
+  padding-top: 0;
+  position: absolute;
+  top: -40px;
+}
+li.unWatch {
+  padding: 0 !important;
 }
 /* Reply buttons */
 .postBody.topic-list-reply-body {

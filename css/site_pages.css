@@ -1914,7 +1914,7 @@ div#statusSave input:hover
 
 .page_2 .custom_14249047411480
 {
-	
+
 }
 
 .page_2 .custom_14249047411480 .boxsitepage,.page_2 .featured_content_featured_content .boxsitepage,.page_2 .custom_14249047411480 .boxsitepagebody,.page_2 .featured_content_featured_content .boxsitepagebody,.page_2 #main .profile_user_photo .boxsitepage,.page_2 #main .profile_user_photo .boxsitepagebody
@@ -5290,10 +5290,12 @@ ul.actionList li,ul.actionList li.flag
 	font-size:10px;
 	text-transform:uppercase;
 }
-
+ul.actionList li.flag {
+    margin-right: 5px;
+}
 ul.actionList li a,ul.actionList li.flag a
 {
-	color:#333 !important;
+	color:#A09E9E !important;
 }
 
 ul.actionList li a:hover,ul.actionList li.flag a:hover
@@ -7391,19 +7393,19 @@ div.product-nav {
 	/* Raiser's Edge NXT  = Custom page id 10124*/
 	/* Sphere ----------- = Custom page id 10145*/
 	/* Target Analytics - = Custom page id 10200*/
-	.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10126.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10147.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10148.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10122.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10209.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10204.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10215.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10123.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10124.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
-	.page_10145.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, 
+	.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10126.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10147.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10148.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10122.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10209.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10204.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10215.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10123.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10124.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10145.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
 	.page_10200.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home {
 		background-color: #7ab800;
 		color: white;
@@ -7433,15 +7435,15 @@ div.product-nav {
 	/* Raiser's Edge NXT  = 13 */
 	/* Sphere ----------- = 72 */
 	/* Target Analytics - = 42 */
-	.page-urlp-sblog_id_14.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_54.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_2.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_43.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_66.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_73.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_8.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_13.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
-	.page-urlp-sblog_id_72.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, 
+	.page-urlp-sblog_id_14.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_54.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_2.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_43.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_66.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_73.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_8.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_13.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
+	.page-urlp-sblog_id_72.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,
 	.page-urlp-sblog_id_42.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements {
 		background-color: #7ab800;
 		color: white;
@@ -7487,7 +7489,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Resources [selected] ---*/
-	
+
 	/* Altru ------------ = Custom page id 10214*/
 	/* Blackbaud CRM ---- = Custom page id 10183*/
 	/* K-12 Schools ----- = Custom page id -----*/
@@ -7519,7 +7521,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Ideas [selected] ---*/
-	
+
 	/* Altru ------------ = Custom page id 10238*/
 	/* Blackbaud CRM ---- = Custom page id 10150*/
 	/* K-12 Schools ----- = Custom page id 10212*/
@@ -7551,7 +7553,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Release Info [selected] ---*/
-	
+
 	/* Altru ------------ = Custom page id 10389*/
 	/* Blackbaud CRM ---- = Custom page id -----*/
 	/* K-12 Schools ----- = Custom page id -----*/
@@ -7576,7 +7578,7 @@ div.product-nav {
 	}
 
 /*--- Product Navigation - Members [selected] ---*/
-	
+
 	/* Altru ------------ = Custom page id 10390*/
 	/* Blackbaud CRM ---- = Custom page id -----*/
 	/* K-12 Schools ----- = Custom page id -----*/

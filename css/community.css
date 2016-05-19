@@ -386,7 +386,7 @@ li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-to
 }
 ul.horizontalList.topic-list-engagement-actions li.quote {
     position: absolute;
-    border: -45px;
+    bottom: -45px;
 }
 /*Answered/Unanswered*/
 ul li.forum-topic-status {

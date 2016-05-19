@@ -389,7 +389,7 @@ ul.horizontalList.topic-list-engagement-actions li.forum_topic_like_list_item {
 }
 ul.horizontalList.topic-list-engagement-actions li.quote {
     position: absolute;
-    bottom: -45px;
+    bottom: -46px;
 }
 /*Answered/Unanswered*/
 ul li.forum-topic-status {
@@ -410,8 +410,8 @@ ul li.forum-topic-status {
 }
 
 div.topic-actions {
-  margin-top: 40px;
-  height: 31px !important;
+  margin-top: 20px;
+  height: 33px;
 }
 div.topic-actions ul.horizontalList {
   padding-top: 9px !important;

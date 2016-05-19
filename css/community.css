@@ -465,11 +465,27 @@ ul.topic-list-engagement-actions li.quote a:hover {
   background-color: #BBBBBB;
   text-decoration: none;
 }
-
+/* Reply / Quote button */
+ul.topic-list-engagement-actions li.quote a {
+  background-color: #29ABE2;
+  color: #FFF;
+}
+ul.topic-list-engagement-actions li.quote a:hover {
+  background-color: #267292;
+  text-decoration: none;
+}
 
 ul li.quote {
   background: transparent;
 }
+
+/* Report / Edit / Delete buttons */
+
+/*Get rid of dotted line on topic post*/
+.forum-topic-post .row1 {
+    border: none;
+}
+
 /* ---------->>> /END Discussions Adjustments <<<-----------*/
 
 

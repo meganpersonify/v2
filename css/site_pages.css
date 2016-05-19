@@ -6768,7 +6768,7 @@ div.topic-actions
 	border-bottom:1px solid #cccccc !important;
 	height:31px;
 	margin-bottom:20px;
-	padding:0 !important;
+	padding:0;
 }
 
 div.topic-actions ul.horizontalList

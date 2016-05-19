@@ -494,6 +494,12 @@ ul li.quote {
 
 /* Report / Edit / Delete buttons */
 
+/* Topic bottom actions */
+
+.topic-bottom-actions .horizontalList.topic-bottom-watch li.watch {
+    display: none;
+}
+
 /*Get rid of dotted line on topic post*/
 .forum-topic-post .row1 {
     border: none;

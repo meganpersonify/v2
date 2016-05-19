@@ -387,7 +387,7 @@ li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-to
 ul.horizontalList.topic-list-engagement-actions li.forum_topic_like_list_item {
     width: 80px;
 }
-ul.horizontalList.topic-list-engagement-actions li.quote {
+.forum-topic-post ul.horizontalList.topic-list-engagement-actions li.quote {
     position: absolute;
     bottom: -46px;
 }

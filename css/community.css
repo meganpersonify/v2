@@ -504,7 +504,9 @@ ul li.quote {
 .topic-bottom-actions .horizontalList.topic-bottom-watch li.watch {
     display: none;
 }
-
+a#topicWatch_2 {
+    display: none;
+}
 /*Get rid of dotted line on topic post*/
 .forum-topic-post .row1 {
     border: none;

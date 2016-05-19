@@ -437,6 +437,11 @@ ul.horizontalList.topic-list-engagement-actions {
     position: absolute;
     bottom: -30px;
 }
+.postBody.topic-list-topic-body li.quote {
+    padding: 0;
+    right: 0;
+    margin: 0 -9px 0 0;
+}
 
 /*Style the discussions buttons the same*/
 .topic-top-watch a#topicWatch::before,

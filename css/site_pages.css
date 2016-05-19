@@ -6749,7 +6749,7 @@ ul li.forum-topic-status
 {
 	clear:both;
 	padding:5px 8px;
-	background-color:#ffffff !important;
+	/*background-color:#ffffff !important;*/
 	font-size:12px;
 	font-weight:300 !important;
 	color:#cccccc;
@@ -6759,8 +6759,8 @@ ul li.forum-topic-status
 	border-radius:0px;
 	font-size:9px;
 	line-height:10px;
-	margin:2px 10px 0 0;
-	box-shadow:0 0 1px #e6e043;
+	margin: 0px 10px 0 0;
+	/*box-shadow:0 0 1px #e6e043;*/
 }
 
 div.topic-actions

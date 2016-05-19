@@ -375,7 +375,8 @@ div.forum-topic-post {
 }
 div.forumContainer div.postBody.topic-list-topic-body ul.topic-list-engagement-actions {
   position: absolute;
-  bottom: -60px;
+  bottom: 0;
+  top: 0;
   right: 0;
 }
 /* Hide the generic Reply button */

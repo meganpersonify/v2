@@ -2133,7 +2133,7 @@ div#statusSave input:hover
 
 .row1,.row2,.even,.odd
 {
-	
+
 }
 
 /*.page_2 .group_item.row1,.page_2 .group_item.row2,.page_2 .group_item.even,.page_2 .group_item.odd,.row1:last-child,.row2:last-child,.even:last-child,.odd:last-child
@@ -4615,7 +4615,7 @@ ul li.delete
 
 .row1,.row2,.even,.odd
 {
-	
+
 }
 
 div.mycontent_item_area
@@ -6565,6 +6565,14 @@ ul li.addTopic a
 	color:white !important;
 }
 
+
+ul li.addComment a:before {
+    content: "\f06e";
+    font-family: "FontAwesome";
+    margin-right: 5px;
+    font-size: 14px;
+    font-weight: normal;
+}
 ul li.addComment:before
 {
 	position:absolute;
@@ -9168,6 +9176,14 @@ li.viewTopic:hover
 li.viewTopic a
 {
 	color:#676a6c !important;
+}
+
+li.viewTopic a:before {
+    content: "\f06e";
+    font-family: "FontAwesome";
+    margin-right: 5px;
+    font-size: 14px;
+		font-weight: normal;
 }
 
 li.viewTopic a:hover

@@ -10267,7 +10267,7 @@ ul.like_list
 .recent_topic_body {
 	background-color: #F5F5F5;
 	border: 1px solid #eeeeee;
-	padding: 5px;
+	padding: 5px 10px;
 	border-radius: 5px;
 }
 
@@ -10309,8 +10309,10 @@ ul.like_list
 
 .recent_topic_body.reply {
 	background-color: transparent;
+	border: 0 none;
 	font-size:14px;
 	margin-top:-3px;
+	padding: 0;
 }
 
 .recent_topic_body.reply blockquote {

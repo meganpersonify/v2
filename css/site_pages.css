@@ -10260,10 +10260,8 @@ ul.like_list
 
 .site_page_module.recent_topics .recent_topics_list .recent_topic_item .recent_topic_detail,.site_page_module.recent_topics .recent_topics_list .recent_topic_item .recent_topic_time
 {
-	font-size:10px;
-	/*margin-top:-4px;
-	*/
- margin-top:0px;
+	font-size:12px;
+	margin-top:0px;
 }
 
 .site_page_module.recent_topics .recent_topic_replies_list .recent_topic_reply_item
@@ -10291,11 +10289,6 @@ ul.like_list
  color:#C5C5C5;
 }
 
-blockquote
-{
-	color:#555;
-}
-
 .site_page_module.recent_topics .recent_topic_replies_list .recent_topic_reply_data
 {
 	color:#555;
@@ -10303,8 +10296,13 @@ blockquote
 
 .recent_topic_body.reply
 {
-	font-size:13px;
+	font-size:14px;
 	margin-top:-3px;
+}
+
+.recent_topic_body.reply blockquote {
+	color:#555;
+	font-size: 14px;
 }
 
 span.recent_topic_description.reply

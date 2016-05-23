@@ -6677,7 +6677,7 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 
 .sort-tab
 {
-	margin:0 0 0 0;
+	margin:0 0 0 0 !important;
 	padding:0 5px 0 7px !important;
 	line-height:25px !important;
 	position:relative;
@@ -6720,6 +6720,7 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 {
 	background-color:#ffffff !important;
 	/*border-top:2px solid #03a78e !important;*/
+	border-top: none !important;
 	border-left:1px solid #cccccc !important;
 	border-right:1px solid #cccccc !important;
 }

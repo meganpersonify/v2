@@ -6571,11 +6571,12 @@ ul li.addTopic a
 
 
 ul li.addComment a:before {
-    content: "\f06e";
+    content: "\f122";
     font-family: "FontAwesome";
     margin-right: 5px;
     font-size: 14px;
     font-weight: normal;
+    line-height: 12px;
 }
 ul li.addComment:before
 {
@@ -9188,6 +9189,7 @@ li.viewTopic a:before {
     margin-right: 5px;
     font-size: 14px;
 		font-weight: normal;
+    line-height: 12px;
 }
 
 li.viewTopic a:hover

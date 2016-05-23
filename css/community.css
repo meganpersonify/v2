@@ -443,6 +443,9 @@ ul.horizontalList.topic-list-engagement-actions {
     right: 0;
     margin: 0 -9px 0 0;
 }
+li.addComment a {
+  font-weight: bold;
+}
 
 /*Style the discussions buttons the same*/
 .topic-top-watch a#topicWatch::before,

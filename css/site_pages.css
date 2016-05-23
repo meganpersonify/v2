@@ -10392,6 +10392,7 @@ h3.forum-post-subject
 h3.forum-post-subject a
 {
 	color:#999;
+	font-weight: normal;
 }
 
 .postBody.topic-list-reply-body p.author

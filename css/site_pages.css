@@ -10256,7 +10256,6 @@ ul.like_list
 	float:right !important;
 }
 
-/* ---- Jake's Changes 10/30 ---- */
  /* -- Recent Topics -- */
  body:not(.page_1) .site_page_module.recent_topics .recent_topics_list .recent_topic_item
 {
@@ -10296,6 +10295,7 @@ ul.like_list
 	border: 1px solid #eeeeee;
 	padding: 5px 10px;
 	border-radius: 5px;
+	margin-top: 10px;
 }
 
 .site_page_module.recent_topics .recent_topics_list .recent_topic_item .recent_topic_detail,.site_page_module.recent_topics .recent_topics_list .recent_topic_item .recent_topic_time

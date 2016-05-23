@@ -5183,8 +5183,12 @@ ul.reviewsItemsList li span.image img,ul.eventsItemsList li span.image img,ul#fe
 {
 	text-decoration:none !important;
 	font-size:18px;
-	text-transform:uppercase;
-	font-weight:300 !important;
+	text-transform:none;
+	font-weight:300;
+}
+
+.search_result_title a {
+	font-weight: 500;
 }
 
 div.accordion-toggle

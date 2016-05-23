@@ -4582,8 +4582,8 @@ blockquote br
 
 blockquote cite,blockquote cite a
 {
-	color:#cccccc !important;
-	font-size:10px;
+	color:#333333 !important;
+	font-size:14px;
 }
 
 div.share_bookmarklett_article img
@@ -9706,6 +9706,10 @@ div.boxsitepage,.site_page_module .boxsitepage
 .topic-list-reply-body .content
 {
 	word-break:break-word;
+}
+
+.topic-list-reply-body .content blockquote {
+	font-size: 14px;
 }
 
 .sblog_text .site_page_description a[href^="blogs"]

@@ -6720,7 +6720,7 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 {
 	background-color:#ffffff !important;
 	/*border-top:2px solid #03a78e !important;*/
-	border-top: none !important;
+	border-top: 1px solid #cccccc !important;
 	border-left:1px solid #cccccc !important;
 	border-right:1px solid #cccccc !important;
 }

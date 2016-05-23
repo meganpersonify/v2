@@ -6572,6 +6572,7 @@ ul li.addComment a:before {
     margin-right: 5px;
     font-size: 14px;
     font-weight: normal;
+    line-height: 12px;
 }
 ul li.addComment:before
 {
@@ -9184,6 +9185,7 @@ li.viewTopic a:before {
     margin-right: 5px;
     font-size: 14px;
 		font-weight: normal;
+    line-height: 12px;
 }
 
 li.viewTopic a:hover

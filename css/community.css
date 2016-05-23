@@ -300,10 +300,11 @@ div.product-content {
     top: 25px;
     left: 0 !important;
 }
-
-
 .product-logo {
-
+  height: 64px;
+}
+.product-logo img {
+  max-height: 100%;
 }
 
 /* Header search */
@@ -510,6 +511,11 @@ a#topicWatch_2 {
 /*Get rid of dotted line on topic post*/
 .forum-topic-post .row1 {
     border: none;
+}
+
+/*Recent Discussions*/
+.site_page_module.recent_topics .recent_topic_replies_list {
+  margin-bottom: 10px;
 }
 
 /* ---------->>> /END Discussions Adjustments <<<-----------*/

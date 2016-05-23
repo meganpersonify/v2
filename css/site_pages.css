@@ -6569,7 +6569,6 @@ ul li.addTopic a
 	color:white !important;
 }
 
-/*Seeing if this posts*/
 ul li.addComment a:before {
     content: "\f122";
     font-family: "FontAwesome";

@@ -6569,7 +6569,7 @@ ul li.addTopic a
 	color:white !important;
 }
 
-
+/*Seeing if this posts*/
 ul li.addComment a:before {
     content: "\f122";
     font-family: "FontAwesome";
@@ -6578,6 +6578,7 @@ ul li.addComment a:before {
     font-weight: normal;
     line-height: 12px;
 }
+
 ul li.addComment:before
 {
 	position:absolute;

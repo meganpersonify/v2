@@ -7769,7 +7769,7 @@ li.addComment,.forgotpassword .formbutton
 
 li.addComment a,.forgotpassword .formbutton:hover
 {
-	font-weight:500 !important;
+	font-weight:bold;
 	color:#ffffff !important;
 	text-decoration:none !important;
 	line-height:20px !important;

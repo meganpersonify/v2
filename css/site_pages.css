@@ -4605,7 +4605,7 @@ ul li.delete
 
 .site_page_module.recent_topics .recent_topic_replies_list
 {
-	margin:15px 0 0 28px !important;
+	margin:15px 0 0 28px;
 }
 
 .row1,.row2,.even,.odd
@@ -10294,11 +10294,6 @@ ul.like_list
 blockquote
 {
 	color:#555;
-}
-
-.site_page_module.recent_topics .recent_topic_replies_list
-{
-	margin-top:10px !important;
 }
 
 .site_page_module.recent_topics .recent_topic_replies_list .recent_topic_reply_data

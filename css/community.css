@@ -516,6 +516,7 @@ a#topicWatch_2 {
 /*Recent Discussions*/
 .site_page_module.recent_topics .recent_topic_replies_list {
   margin-bottom: 10px;
+  margin-top:10px;
 }
 
 /* ---------->>> /END Discussions Adjustments <<<-----------*/

@@ -6567,7 +6567,7 @@ ul li.addTopic a
 
 
 ul li.addComment a:before {
-    content: "\f06e";
+    content: "\f122";
     font-family: "FontAwesome";
     margin-right: 5px;
     font-size: 14px;

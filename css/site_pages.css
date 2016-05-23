@@ -1669,9 +1669,10 @@ div.file-detail-info br
 	color:#505b61 !important;
 	margin:0 0 0 20px;
 	line-height:24px;
-	font-size:12px !important;
+	font-size:13px !important;
 	font-weight:500;
 	padding:0 6px !important;
+	font-family: 'Open Sans';
 }
 
 .site_page_subnav .profile_user_photo #user_profile_photo
@@ -2931,6 +2932,9 @@ a#headerMyAccountLink
 	right:50%;
 	z-index:101;
 	margin-right:-440px;
+}
+.site_page_subnav .profile_user_photo .boxsitepagebody {
+    background: transparent;
 }
 
 #headerAdminEditPageLink

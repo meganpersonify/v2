@@ -6677,7 +6677,7 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 
 .sort-tab
 {
-	margin:0 8px 0 0 !important;
+	margin:0 0 0 0 !important;
 	padding:0 5px 0 7px !important;
 	line-height:25px !important;
 	position:relative;
@@ -6686,8 +6686,9 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 	border-left:1px solid #cccccc !important;
 	border-right:1px solid #cccccc !important;
 	text-transform:uppercase;
-	color:#333333;
+	color:#676A6C;
 	display:inline-block;
+	font-size: 12px;
 	z-index:1;
 }
 
@@ -6699,7 +6700,7 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 
 .sort-tab a
 {
-	color:#333333 !important;
+	color:#676A6C !important;
 }
 
 .sort-tab a:hover
@@ -6718,7 +6719,8 @@ div.user-info-container div.post-count-container,div.user-info-container div.joi
 .sort-tab.sort-selected
 {
 	background-color:#ffffff !important;
-	border-top:2px solid #03a78e !important;
+	/*border-top:2px solid #03a78e !important;*/
+	border-top: 1px solid #cccccc !important;
 	border-left:1px solid #cccccc !important;
 	border-right:1px solid #cccccc !important;
 }
@@ -10397,6 +10399,7 @@ h3.forum-post-subject
 h3.forum-post-subject a
 {
 	color:#999;
+	font-weight: normal;
 }
 
 .postBody.topic-list-reply-body p.author

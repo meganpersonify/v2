@@ -10262,6 +10262,13 @@ ul.like_list
 	font-weight:500;
 }
 
+.recent_topic_body {
+	background-color: #F5F5F5;
+	border: 1px solid #eeeeee;
+	padding: 5px;
+	border-radius: 5px;
+}
+
 .site_page_module.recent_topics .recent_topics_list .recent_topic_item .recent_topic_detail,.site_page_module.recent_topics .recent_topics_list .recent_topic_item .recent_topic_time
 {
 	font-size:12px;
@@ -10298,8 +10305,8 @@ ul.like_list
 	color:#555;
 }
 
-.recent_topic_body.reply
-{
+.recent_topic_body.reply {
+	background-color: transparent;
 	font-size:14px;
 	margin-top:-3px;
 }

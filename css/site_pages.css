@@ -101,7 +101,8 @@ h1,h2,h3,h4,h5,h6
 #main
 {
 	width:1200px;
-	margin:0 auto;
+	margin:20px auto;
+	padding: 20px 0 0 0;
 	overflow: hidden;
 	background:#fff;
 }
@@ -11300,7 +11301,7 @@ padding: 5px;
    position: absolute;
    margin-top: -84px;
 }
-.page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare a, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
    width: 84px;
    height: 84px;
    float: left;
@@ -11313,6 +11314,13 @@ padding: 5px;
    left: 50%;
    margin-left: 120px;
    top: 250px;
+}
+.mycommunity_manage div {
+   font-size: 14px;
+   line-height: 30px;
+   color: #676a6c !important;
+   font-family: "Oswald", sans-serif;
+   font-weight: 100;
 }
 .mycommunity_manage ul {
    margin: 0 !important;

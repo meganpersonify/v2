@@ -8345,8 +8345,13 @@ ul#upcomingEvents.eventsItemsList
 	display:none !important;
 }
 
+/*Global Forum template styles*/
+.site_page_module.site_page_recent_forum_posts .recent_posts_list .recent_post_item .recent_post_data .recent_post_detail {
+	font-size: 12px;
+}
+
 /* Forums Category Block Beautification */
- .page_1001 .forums_category_list ul.forumRow,.page_1001 .forums_category_list .posts
+.page_1000 .forums_category_list ul.forumRow,.page_100 .forums_category_list .posts, .page_1001 .forums_category_list ul.forumRow,.page_1001 .forums_category_list .posts
 {
 	display:none !important;
 }
@@ -8362,7 +8367,7 @@ ul#upcomingEvents.eventsItemsList
 	min-height:42px !important;
 }
 
-.site_page_1001 ul.forumRow dt
+.site_page_1000 ul.forumRow dt, .site_page_1001 ul.forumRow dt
 {
 	width:235px !important;
 }

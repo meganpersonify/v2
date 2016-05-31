@@ -11382,11 +11382,10 @@ padding: 5px;
        	display: block;
        	content: " ";
        	position: absolute;
-       	margin-top: -24px;
 }
 .total_points:before {
-	margin-left: -44px;
+	margin: -24px 0 0 -44px;
 }
 .total_points:after {
-	margin-left: 110px;
+	margin: -32px 0 0 110px;
 }

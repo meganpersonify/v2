@@ -741,7 +741,7 @@ ul.smallsquareGallery li
 
 .forumSubCategories
 {
-	height:35px !important;
+	height:35px;
 }
 
 .users_browse_users #selector
@@ -8370,6 +8370,10 @@ ul#upcomingEvents.eventsItemsList
 .site_page_1000 ul.forumRow dt, .site_page_1001 ul.forumRow dt
 {
 	width:235px !important;
+}
+
+.site_page_1000 ul.forumRow .forumSubCategories {
+	height: auto;
 }
 
 .site_page_1001 dl.icon dt

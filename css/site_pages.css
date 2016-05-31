@@ -11307,9 +11307,9 @@ padding: 5px;
    margin-left: 120px;
 }
 .mycommunity_manage ul {
-   padding: 0;	
+   padding: 0 !important;	
 }
 .mycommunity_manage ul li {
-   margin: 0;
+   margin: 0 !important;
    list-style-type: none;
 }

@@ -8372,13 +8372,17 @@ ul#upcomingEvents.eventsItemsList
 	width:235px !important;
 }
 
+.site_page_1000 ul.forumRow dt {
+	padding: 4px 5px 15px;
+}
+
 .site_page_1000 ul.forumRow .forumSubCategories {
 	height: auto;
 }
 
 .site_page_1001 dl.icon dt
 {
-	font-size:10px;
+	font-size:12px;
 }
 
 .site_page_1001 dl.icon dt

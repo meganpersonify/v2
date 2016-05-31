@@ -11374,13 +11374,16 @@ ul.user_stats {
         color: #7AB800;
         font-size: 28px;
         padding: 15px 0 18px 0;
-        margin: 0 44px 20px 44px;
+        margin: 0 44px 19px 44px;
         display: block;
         text-align: center;
         background-color: red;
+        background-repeat: no-repeat;
+        background-position: bottom center;
+        background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-bottom.png');
 }
 .total_points:before, .total_points:after {
-       	height: 63px;
+       	height: 64px;
        	width: 44px;
        	background-color: yellow;
        	display: block;
@@ -11388,8 +11391,8 @@ ul.user_stats {
        	position: absolute;
 }
 .total_points:before {
-	margin: -24px 0 0 -44px;
+	margin: -25px 0 0 -44px;
 }
 .total_points:after {
-	margin: -44px 0 0 110px;
+	margin: -45px 0 0 110px;
 }

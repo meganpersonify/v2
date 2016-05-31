@@ -11235,6 +11235,7 @@ padding: 5px;
 /* My Community Styles */
 .page_2 .site_page_subnav {
 	height: 430px;
+        background-color: #e2e3e5;
 }
 .page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
 	padding: 0;

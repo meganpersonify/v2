@@ -11359,12 +11359,14 @@ ul.user_stats {
         border: 3px solid #7AB800;
         line-height: 24px;
         padding: 0 10px;
-        background: none;
+        background: #ffffff;
         text-transform: uppercase;
         color: #7AB800;
         font-size: 14px;
         display: inline-block;
         position: absolute;
+        z-index: 100;
+        margin: -10px 0 0 -60px;
 }
 .total_points {
         width: 110px !important;

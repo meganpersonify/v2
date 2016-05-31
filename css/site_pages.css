@@ -741,7 +741,7 @@ ul.smallsquareGallery li
 
 .forumSubCategories
 {
-	height:35px;
+	height:35px !important;
 }
 
 .users_browse_users #selector
@@ -8371,7 +8371,6 @@ ul#upcomingEvents.eventsItemsList
 {
 	width:235px !important;
 }
-
 .site_page_1000 ul.forumRow dt {
 	padding: 4px 5px 15px;
 }
@@ -11305,4 +11304,26 @@ padding: 5px;
    width: 84px;
    height: 84px;
    float: left;
+}
+
+/* My Community Quick Links */
+
+.mycommunity_manage {
+   position: absolute;
+   left: 50%;
+   margin-left: 120px;
+}
+.mycommunity_manage ul {
+   padding: 0 !important;
+   display:flex;
+   flex-direction:column;
+   flex-wrap:wrap;
+}
+.mycommunity_manage ul li {
+   margin: 0 !important;
+   list-style-type: none;
+   height: 90px;
+   line-height: 30px;
+   width: 50%;
+   display: block;
 }

@@ -11277,6 +11277,10 @@ padding: 5px;
 .page_2 .site_page_footer .profile_user_photo .boxsitepage .p1:before {
 	content: "Welcome,";
 }
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody {
+	position: absolute;
+	margin-top: -84px;
+}
 .page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
 	width: 84px;
 	height: 84px;

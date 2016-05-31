@@ -11307,9 +11307,16 @@ padding: 5px;
    margin-left: 120px;
 }
 .mycommunity_manage ul {
-   padding: 0 !important;	
+   padding: 0 !important;
+   display:flex;
+   flex-direction:column;
+   flex-wrap:wrap;
 }
 .mycommunity_manage ul li {
    margin: 0 !important;
    list-style-type: none;
+   height: 90px;
+   line-height: 30px;
+   width: 50%;
+   display: block;
 }

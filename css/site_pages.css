@@ -427,7 +427,7 @@ ul li.flag.embed
 
 ul li.flag
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 0 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 0 0;
 	display:inline;
 }
 
@@ -453,7 +453,7 @@ ul li.flag
 
 ul li.delete
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/icons/delete.gif') no-repeat scroll 0 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/icons/delete.gif') no-repeat scroll 0 0;
 }
 
 .site_page_blogs .sblog,.sblog
@@ -485,13 +485,13 @@ ul li.delete
 
 .sblog_actions ul li.flag
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 5px 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 5px 0;
 	float:left;
 }
 
 .sblog_actions ul li.comment
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/comment.png') no-repeat scroll 5px 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/comment.png') no-repeat scroll 5px 0;
 	float:left;
 }
 
@@ -4719,12 +4719,12 @@ ul li.send_link
 
 .reviews_edit_img,.events_edit_img
 {
-	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-forums.png") no-repeat scroll 0 0 transparent !important;
+	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-forums.png") no-repeat scroll 0 0 transparent;
 }
 
 .reviews_delete_img,.events_delete_img,ul li.flag.delete
 {
-	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/delete-gray.png") no-repeat scroll 0 0 transparent !important;
+	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/delete-gray.png") no-repeat scroll 0 0 transparent;
 }
 
 .sblog_actions ul li.comment
@@ -8345,13 +8345,18 @@ ul#upcomingEvents.eventsItemsList
 	display:none !important;
 }
 
+/*Global Forum template styles*/
+.site_page_module.site_page_recent_forum_posts .recent_posts_list .recent_post_item .recent_post_data .recent_post_detail {
+	font-size: 12px;
+}
+
 /* Forums Category Block Beautification */
- .page_1001 .forums_category_list ul.forumRow,.page_1001 .forums_category_list .posts
+.page_1000 .forums_category_list ul.forumRow, .page_1000 .forums_category_list .posts, .page_1001 .forums_category_list ul.forumRow,.page_1001 .forums_category_list .posts
 {
 	display:none !important;
 }
 
-.page_1001 .forums_category_list ul.forums
+.page_1000 .forums_category_list ul.forums, .page_1001 .forums_category_list ul.forums
 {
 	display:block !important;
 }
@@ -8362,7 +8367,7 @@ ul#upcomingEvents.eventsItemsList
 	min-height:42px !important;
 }
 
-.site_page_1001 ul.forumRow dt
+.site_page_1000 ul.forumRow dt, .site_page_1001 ul.forumRow dt
 {
 	width:235px !important;
 }
@@ -9276,7 +9281,7 @@ input[type="button"],input[type="button"]:hover,input[type="submit"],input[type=
 .events_event_confirm .boxsitepagebody
 {
 	background-color:#e1f0f9 !important;
-	min-height:60px;
+	min-height:90px;
 	padding:15px !important;
 }
 
@@ -11254,31 +11259,67 @@ padding: 5px;
    margin-left: -600px;
 }
 .page_2 #featured_content .content {
-   margin: 0;	
+   margin: 0;
    width: 100%;
    height: 180px;
 }
 /* My Community Profile Photo */
 
-.site_page_footer .profile_user_photo {
+.page_2 .site_page_footer .profile_user_photo {
    position: absolute;
    left: 50%;
    top: 120px;
-   margin-left: 100px;
+   margin-left: 120px;
    padding-top: 20px;
-   width: 500px;
+   width: 480px;
    height: 105px;
 }
 
-.site_page_footer .profile_user_photo .boxsitepage {
-	margin-left: 96px;
-	height: 84px;
+.page_2 .site_page_footer .profile_user_photo .boxsitepage {
+   margin-left: 96px;
+   height: 84px;
+   padding-top: 24px;
 }
-.site_page_footer .profile_user_photo .boxsitepage .p1:before {
-	content: "Welcome,";
+.page_2 .site_page_footer .profile_user_photo .boxsitepage .p1 {
+   color: #1c84c6 !important;
 }
-.site_page_footer .profile_user_photo .boxsitepagebody {
-	width: 84px;
-	height: 84px;
-	float: left;
+.page_2 .site_page_footer .profile_user_photo .boxsitepage .p1:before {
+   content: "Welcome,";
+   display: block;
+   font-size: 14px;
+   line-height: 30px;
+   color: #676a6c !important;
+}
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody {
+   position: absolute;
+   margin-top: -84px;
+}
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
+   width: 84px;
+   height: 84px;
+   float: left;
+}
+
+/* My Community Quick Links */
+
+.mycommunity_manage {
+   position: absolute;
+   left: 50%;
+   margin-left: 120px;
+   top: 250px;
+}
+.mycommunity_manage ul {
+   margin: 0 !important;
+   display:inline-flex;
+   flex-flow: column wrap;
+   height: 90px;
+}
+.mycommunity_manage ul li {
+   padding: 0 !important;
+   list-style-type: none;
+   height: 30px;
+   line-height: 30px;
+   width: auto;
+   margin-right: 30px;
+   display: block;
 }

@@ -520,12 +520,15 @@ a#topicWatch_2 {
 
 
 /* ---------->>> Events Page Adjustments <<<-----------*/
+.event h1 {
+    padding-top: 8px;
+}
 .event .event-actions-wrapper {
     float: right;
     margin: 0;
 }
 
-.page-cat-events div#featured_event_author, .page-cat-events div#featured_event_details {
+.event div#featured_event_author, .event div#featured_event_details {
   font-size: 13px;
   padding: 0;
 }
@@ -536,11 +539,29 @@ a#topicWatch_2 {
   padding: 0;
   margin-top: 5px;
 }
-
-
 .page-cat-events div#formField_richText_event_description {
   margin-top: 10px;
 }
+
+.events_featured_event #itemBlock .userActions {
+  padding-left: 0;
+}
+.events_featured_event ul.user-actions-ul,
+.events_featured_event #itemBlock div.userActions ul li {
+  margin: 0;
+  padding: 0;
+}
+/*Get rid of icons*/
+.page-cat-events div.userActions ul li.flag.event_flag_list_item,
+.page-cat-events .events_edit_img,
+.page-cat-events .events_delete_img,
+.page-cat-events ul li.flag.delete
+{
+  background: none;
+}
+
+
+
 /* ---------->>> /END Events Page Adjustments <<<-----------*/
 
 

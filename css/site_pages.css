@@ -741,7 +741,7 @@ ul.smallsquareGallery li
 
 .forumSubCategories
 {
-	height:35px !important;
+	height:35px;
 }
 
 .users_browse_users #selector
@@ -911,7 +911,7 @@ ul#browseCategories.reviewsItemsList .image
 
 .site_page_1000 dl.icon dt
 {
-	font-size:10px;
+	font-size:12px;
 }
 
 .site_page_1000 dd.lastpost,.site_page_1000 dd.lastPost

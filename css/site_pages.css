@@ -11231,6 +11231,17 @@ div.imageMediumSquare a
 {
 padding: 5px;
 }
-
-
 /* End Pinterest Style Blogs */
+/* My Community Styles */
+.page_2 .site_page_subnav {
+	height: 430px;
+}
+.page_2 .featured_content_featured_content {
+   padding-top: 20px;
+   background-color: #e2e3e5;
+   width: 700px;
+   height: 270px;
+   position: absolute;
+   left: 50%;
+   margin-left: -600px;
+}

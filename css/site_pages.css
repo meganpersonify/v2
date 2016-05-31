@@ -11233,12 +11233,15 @@ padding: 5px;
 }
 /* End Pinterest Style Blogs */
 /* My Community Styles */
+
+/* My Community Header */
 .page_2 .site_page_subnav {
 	height: 430px;
         background-color: #e2e3e5;
         background-image: url("");
         background-repeat: repeat-x;
 }
+/* My Community Announcements */
 .page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
 	padding: 0;
 	background: none;
@@ -11251,4 +11254,8 @@ padding: 5px;
    left: 50%;
    margin-left: -600px;
 }
-.page_2 #main 
+.page_2 #featured_content .content {
+   margin: 0;	
+   width: 100%;
+   heightL 180px;
+}

@@ -11357,7 +11357,7 @@ ul.user_stats {
 }
 #user_stats_body li .label.points {
         border: 3px solid #7AB800;
-        line-height: 24px;
+        line-height: 20px;
         padding: 0 10px;
         background: #ffffff;
         text-transform: uppercase;
@@ -11366,7 +11366,7 @@ ul.user_stats {
         display: inline-block;
         position: absolute;
         z-index: 100;
-        margin: -10px 0 0 -60px;
+        margin: -10px 0 0 -98px;
 }
 .total_points {
         width: 110px !important;

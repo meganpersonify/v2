@@ -101,7 +101,8 @@ h1,h2,h3,h4,h5,h6
 #main
 {
 	width:1200px;
-	margin:0 auto;
+	margin:20px auto;
+	padding: 20px 0 0 0;
 	overflow: hidden;
 	background:#fff;
 }
@@ -741,7 +742,7 @@ ul.smallsquareGallery li
 
 .forumSubCategories
 {
-	height:35px !important;
+	height:35px;
 }
 
 .users_browse_users #selector
@@ -911,7 +912,7 @@ ul#browseCategories.reviewsItemsList .image
 
 .site_page_1000 dl.icon dt
 {
-	font-size:10px;
+	font-size:12px;
 }
 
 .site_page_1000 dd.lastpost,.site_page_1000 dd.lastPost
@@ -11244,7 +11245,7 @@ padding: 5px;
 
 /* My Community Header */
 .page_2 .site_page_subnav {
-	height: 430px;
+	height: 410px;
         background-color: #e2e3e5;
         background-image: url("");
         background-repeat: repeat-x;
@@ -11268,6 +11269,10 @@ padding: 5px;
 .page_2 #featured_content .content {
    margin: 0;
    height: 180px;
+}
+
+#featured_content img {
+	padding: 0 12px 0 0;
 }
 /* My Community Profile Photo */
 
@@ -11300,7 +11305,7 @@ padding: 5px;
    position: absolute;
    margin-top: -84px;
 }
-.page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare a, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
    width: 84px;
    height: 84px;
    float: left;
@@ -11313,6 +11318,13 @@ padding: 5px;
    left: 50%;
    margin-left: 120px;
    top: 250px;
+}
+.mycommunity_manage div {
+   font-size: 14px;
+   line-height: 30px;
+   color: #676a6c !important;
+   font-family: "Oswald", sans-serif;
+   font-weight: 100;
 }
 .mycommunity_manage ul {
    margin: 0 !important;

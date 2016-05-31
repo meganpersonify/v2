@@ -350,14 +350,6 @@ span.glyphicon.glyphicon-search {
 
 /* ---------->>> My Community Dashboard <<<-----------*/
 
-/*----- Left column -----*/
-/*-- My Groups --*/
-
-
-
-/*----- /END Left column -----*/
-
-
 
 
 
@@ -523,6 +515,33 @@ a#topicWatch_2 {
 }
 
 /* ---------->>> /END Discussions Adjustments <<<-----------*/
+
+
+
+
+/* ---------->>> Events Page Adjustments <<<-----------*/
+.event .event-actions-wrapper {
+    float: right;
+    margin: 0;
+}
+
+.page-cat-events div#featured_event_author, .page-cat-events div#featured_event_details {
+  font-size: 13px;
+  padding: 0;
+}
+/*Reset the padding on the fields*/
+.page-cat-events .fieldLabel, .page-cat-events .fieldResponse,
+.page-cat-events div#formField_richText_event_description, .page-cat-events div#formField_dateTime_event_start, .page-cat-events div#formField_dateTime_event_end, .page-cat-events div#formField_textField_event_venue, .page-cat-events div#formField_Address_event_address,
+{
+  padding: 0;
+  margin-top: 5px;
+}
+
+
+.page-cat-events div#formField_richText_event_description {
+  margin-top: 10px;
+}
+/* ---------->>> /END Events Page Adjustments <<<-----------*/
 
 
 

@@ -9321,7 +9321,7 @@ input[type="button"],input[type="button"]:hover,input[type="submit"],input[type=
 div.like-link a.like-link
 {
 	background-image:url("https://community.blackbaud.com/content/icons/16x16/thumb_up.png");
-	background-position:0 4px;
+	background-position:0 2px;
 }
 
 .no-associated-files-message #attach_icon
@@ -11265,19 +11265,29 @@ padding: 5px;
 }
 /* My Community Profile Photo */
 
-.site_page_footer .profile_user_photo {
+.page_2 .site_page_footer .profile_user_photo {
    position: absolute;
    left: 50%;
    top: 120px;
-   margin-left: 100px;
+   margin-left: 120px;
    padding-top: 20px;
-   width: 500px;
+   width: 480px;
    height: 105px;
 }
 
-.site_page_footer .profile_user_photo .boxsitepagebody {
+.page_2 .site_page_footer .profile_user_photo .boxsitepage {
+	margin-left: 96px;
+	height: 84px;
+}
+.page_2 .site_page_footer .profile_user_photo .boxsitepage .p1:before {
+	content: "Welcome,";
+}
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody {
+	position: absolute;
+	margin-top: -84px;
+}
+.page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
 	width: 84px;
 	height: 84px;
 	float: left;
-}
 }

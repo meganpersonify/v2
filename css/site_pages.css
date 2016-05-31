@@ -11236,6 +11236,7 @@ padding: 5px;
 .page_2 .site_page_subnav {
 	height: 430px;
         background-color: #e2e3e5;
+        background-image: url("");
 }
 .page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
 	padding: 0;

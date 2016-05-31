@@ -11270,6 +11270,10 @@ padding: 5px;
    margin: 0;	
    height: 180px;
 }
+
+#featured_content img {
+	margin: 0 12px 0 0;
+}
 /* My Community Profile Photo */
 
 .page_2 .site_page_footer .profile_user_photo {

@@ -11270,9 +11270,15 @@ padding: 5px;
    height: 105px;
 }
 
+.site_page_footer .profile_user_photo .boxsitepage {
+	margin-left: 96px;
+	height: 84px;
+}
+.site_page_footer .profile_user_photo .boxsitepage .p1:before {
+	content: "Welcome,";
+}
 .site_page_footer .profile_user_photo .boxsitepagebody {
 	width: 84px;
 	height: 84px;
 	float: left;
-}
 }

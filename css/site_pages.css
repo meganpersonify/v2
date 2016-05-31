@@ -4496,7 +4496,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 {
 	border-radius:999px !important;
 	border:2px solid #FF7C19 !important;
-	text-indent:0px !important;
+	text-indent: -9999px !important;
 	white-space:nowrap !important;
 	display:inline-block;
 	height:15px !important;
@@ -4504,7 +4504,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 	min-width:15px;
 	overflow:hidden !important;
 	padding:0 !important;
-	margin-right:0 !important;
+	margin-right:2px !important;
 }
 
 .featured_content_featured_content #paginate_content span
@@ -4515,7 +4515,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 	/*Homepage pagination overrides*/
 
 	.featured_content_featured_content #paginate_content {
-		padding: 15px 0 0;
+		padding: 10px 0 0;
 	}
 
 		/*Hide first, last, and pagination numbers*/
@@ -11272,7 +11272,7 @@ padding: 5px;
 }
 .page_2 #featured_content .content {
    margin: 0;	
-   height: 180px;
+   height: 160px;
 }
 
 #featured_content img {

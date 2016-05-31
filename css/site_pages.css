@@ -11362,4 +11362,12 @@ padding: 5px;
         color: #7AB800;
         font-size: 14px;
         display: inline-block;
+        position: absolute;
+}
+.total_points {
+        width: 110px;
+        border-top: 8px solid #9fa0a4;
+        color: #7AB800;
+        font-size: 22px;
+        padding: 12px 0;
 }

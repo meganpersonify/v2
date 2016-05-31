@@ -539,7 +539,7 @@ a#topicWatch_2 {
 div.row1, div.row2 {
   padding: 0;
 }
-.page-cat-events div#formField_richText_event_description, .page-cat-events div#formField_dateTime_event_start, .page-cat-events div#formField_dateTime_event_end, .page-cat-events div#formField_textField_event_venue, .page-cat-events div#formField_Address_event_address,
+.page-cat-events div#formField_richText_event_description, .page-cat-events div#formField_dateTime_event_start, .page-cat-events div#formField_dateTime_event_end, .page-cat-events div#formField_textField_event_venue, .page-cat-events div#formField_Address_event_address
 {
   padding: 0;
   margin-top: 10px;

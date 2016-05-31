@@ -11315,6 +11315,12 @@ padding: 5px;
    margin-left: 120px;
    top: 250px;
 }
+.mycommunity_manage div {
+   font-size: 14px;
+   line-height: 30px;
+   color: #676a6c !important;
+   font-family: "Oswald", sans-serif;
+}
 .mycommunity_manage ul {
    margin: 0 !important;
    display:inline-flex;

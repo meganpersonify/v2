@@ -4511,7 +4511,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 {
 	background-color:#FF7C19 !important;
 }
-#paginate_content span#paginate_content_first, #paginate_content span#paginate_content_prev, #paginate_content span#paginate_content_nectr, #paginate_content span#paginate_content_last {
+.featured_content_featured_content #paginate_content_first, .featured_content_featured_content #paginate_content_prev, .featured_content_featured_content #paginate_content_nectr, .featured_content_featured_content #paginate_content_last {
 	display: none;
 }
 

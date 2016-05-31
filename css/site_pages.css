@@ -9932,10 +9932,9 @@ div.boxsitepage,.site_page_module .boxsitepage
 
 .fc-center h2
 {
-	text-transform:uppercase;
 	font-size:250%;
 	line-height:100%;
-	color:#006395 !important;
+	letter-spacing: -0.5px;
 }
 
 .fc-body,.fc table,.fc-head td,.fc-day-header,.fc-widget-content
@@ -9947,9 +9946,7 @@ div.boxsitepage,.site_page_module .boxsitepage
 td.fc-day
 {
 	border:1px solid #ccc !important;
-	/*border-right:1px solid black !important;
-	*/
- padding:4px !important;
+	padding:4px !important;
 }
 
 .fc-day-number

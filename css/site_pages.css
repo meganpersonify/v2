@@ -8351,12 +8351,12 @@ ul#upcomingEvents.eventsItemsList
 }
 
 /* Forums Category Block Beautification */
-.page_1000 .forums_category_list ul.forumRow,.page_100 .forums_category_list .posts, .page_1001 .forums_category_list ul.forumRow,.page_1001 .forums_category_list .posts
+.page_1000 .forums_category_list ul.forumRow, .page_1000 .forums_category_list .posts, .page_1001 .forums_category_list ul.forumRow,.page_1001 .forums_category_list .posts
 {
 	display:none !important;
 }
 
-.page_1001 .forums_category_list ul.forums
+.page_1000 .forums_category_list ul.forums, .page_1001 .forums_category_list ul.forums
 {
 	display:block !important;
 }

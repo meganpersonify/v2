@@ -11368,7 +11368,15 @@ padding: 5px;
         width: 110px !important;
         border-top: 8px solid #9fa0a4;
         color: #7AB800;
-        font-size: 22px;
-        padding: 12px 0;
+        font-size: 28px;
+        padding: 15px 0 18px 0;
+        margin-bottom: 20px;
         display: block;
+        text-align: center;
+        background-color: red;
+}
+.total_points:before, .total_points:after {
+       	height: 63px;
+       	width: 44px;
+       	background-color: yellow;
 }

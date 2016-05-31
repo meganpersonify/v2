@@ -4511,10 +4511,9 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 {
 	background-color:#FF7C19 !important;
 }
-.featured_content_featured_content #paginate_content_first, .featured_content_featured_content #paginate_content_prev, .featured_content_featured_content #paginate_content_nectr, .featured_content_featured_content #paginate_content_last {
-	display: none;
+.page_2 #paginate_content #paginate_content_first, .page_2 #paginate_content #paginate_content_last, .page_2 #paginate_content #paginate_content_prev, .page_2 #paginate_content #paginate_content_next {
+   display: none;
 }
-
 	/*Homepage pagination overrides*/
 
 	.featured_content_featured_content #paginate_content {

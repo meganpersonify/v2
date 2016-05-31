@@ -9289,7 +9289,7 @@ input[type="button"],input[type="button"]:hover,input[type="submit"],input[type=
 .events_event_confirm .boxsitepagebody
 {
 	background-color:#e1f0f9 !important;
-	min-height:60px;
+	min-height:90px;
 	padding:15px !important;
 }
 
@@ -11270,7 +11270,7 @@ padding: 5px;
    margin-left: -600px;
 }
 .page_2 #featured_content .content {
-   margin: 0;	
+   margin: 0;
    height: 180px;
 }
 

@@ -11264,7 +11264,6 @@ padding: 5px;
 }
 .page_2 #featured_content .content {
    margin: 0;	
-   width: 100%;
    height: 180px;
 }
 /* My Community Profile Photo */
@@ -11280,21 +11279,26 @@ padding: 5px;
 }
 
 .page_2 .site_page_footer .profile_user_photo .boxsitepage {
-	margin-left: 96px;
-	height: 84px;
+   margin-left: 96px;
+   height: 84px;
+   padding-top: 24px;
+}
+.page_2 .site_page_footer .profile_user_photo .boxsitepage .p1 {
+   color: #1c84c6 !important;
 }
 .page_2 .site_page_footer .profile_user_photo .boxsitepage .p1:before {
-  content: "Welcome,";
-  display: block;
-  font-size: 14px;
-  line-height: 30px;
+   content: "Welcome,";
+   display: block;
+   font-size: 14px;
+   line-height: 30px;
+   color: #676a6c !important;
 }
 .page_2 .site_page_footer .profile_user_photo .boxsitepagebody {
-  position: absolute;
-  margin-top: -84px;
+   position: absolute;
+   margin-top: -84px;
 }
 .page_2 .site_page_footer .profile_user_photo .boxsitepagebody, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare, .page_2 .site_page_footer .profile_user_photo .imageLargeSquare img {
-  width: 84px;
-  height: 84px;
-  float: left;
+   width: 84px;
+   height: 84px;
+   float: left;
 }

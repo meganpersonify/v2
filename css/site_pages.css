@@ -11374,7 +11374,7 @@ ul.user_stats {
         color: #7AB800;
         font-size: 28px;
         padding: 15px 0 18px 0;
-        margin: 0 44px 19px 44px;
+        margin: 0 31px 19px 31px;
         display: block;
         text-align: center;
         background-color: red;
@@ -11384,7 +11384,7 @@ ul.user_stats {
 }
 .total_points:before, .total_points:after {
        	height: 64px;
-       	width: 39px;
+       	width: 31px;
        	background-color: yellow;
        	display: block;
        	content: " ";
@@ -11392,10 +11392,10 @@ ul.user_stats {
        	background-repeat: no-repeat;
 }
 .total_points:before {
-	margin: -23px 0 0 -44px;
+	margin: -23px 0 0 -31px;
 	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-left.png');
 }
 .total_points:after {
-	margin: -43px 0 0 110px;
+	margin: -43px 0 0 106px;
 	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-right.png');
 }

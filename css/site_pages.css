@@ -11240,11 +11240,14 @@ padding: 5px;
         background-image: url("");
         background-repeat: repeat-x;
 }
-/* My Community Announcements */
-.page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
+/* My Community Header Blocks */
+
+.page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody, .site_page_footer .profile_user_photo .boxsitepage, .site_page_footer .profile_user_photo div.boxsitepagebody {
 	padding: 0;
 	background: none;
 }
+
+/* My Community Announcements */
 .page_2 .featured_content_featured_content {
    padding-top: 20px;
    width: 700px;

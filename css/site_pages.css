@@ -11249,7 +11249,7 @@ padding: 5px;
         background-color: #e2e3e5;
         background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/header-bg.png');
         background-repeat: repeat-x;
-        background-size: 75px 1px;
+        background-size: 1px 75px;
 }
 .page_2 #main {
 	margin-top: 0;

@@ -11384,3 +11384,9 @@ padding: 5px;
        	position: absolute;
        	margin-top: -24px;
 }
+.total_points:before {
+	margin-left: -44px;
+}
+.total_points:after {
+	margin-left: 110px;
+}

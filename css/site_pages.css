@@ -102,8 +102,8 @@ h1,h2,h3,h4,h5,h6
 {
 	width:1200px;
 	margin:0 auto;
-	background:#fff;
 	overflow: hidden;
+	background:#fff;
 }
 
 .layout_20_50_30 .site_page_column_0
@@ -11232,21 +11232,29 @@ padding: 5px;
 }
 /* End Pinterest Style Blogs */
 /* My Community Styles */
+
+/* My Community Header */
 .page_2 .site_page_subnav {
 	height: 430px;
         background-color: #e2e3e5;
         background-image: url("");
+        background-repeat: repeat-x;
 }
+/* My Community Announcements */
 .page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
 	padding: 0;
 	background: none;
 }
 .page_2 .featured_content_featured_content {
    padding-top: 20px;
-   background-color: #e2e3e5;
    width: 700px;
    height: 270px;
    position: absolute;
    left: 50%;
    margin-left: -600px;
+}
+.page_2 #featured_content .content {
+   margin: 0;	
+   width: 100%;
+   height: 180px;
 }

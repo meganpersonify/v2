@@ -11361,4 +11361,6 @@ padding: 5px;
         background: none;
         text-transform: uppercase;
         color: #7AB800;
+        font-size: 15px;
+        display: inline-block;
 }

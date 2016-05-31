@@ -9,7 +9,6 @@
 {
 	float:left;
 	overflow:visible;
-	background:#fff;
 }
 
 .column_generic:after
@@ -103,6 +102,8 @@ h1,h2,h3,h4,h5,h6
 {
 	width:1200px;
 	margin:0 auto;
+	overflow:visible;
+	background:#fff;
 }
 
 .layout_20_50_30 .site_page_column_0

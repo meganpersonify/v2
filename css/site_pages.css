@@ -4495,7 +4495,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 .featured_content_featured_content #paginate_content span,.featured_content_featured_content #paginate_content a
 {
 	border-radius:999px !important;
-	border:2px solid #FF7C19 !important;
+	border:1px solid #1c84c6 !important;
 	text-indent: -9999px !important;
 	white-space:nowrap !important;
 	display:inline-block;
@@ -4509,7 +4509,7 @@ span.pager-left-prev.pager-item.pager-left:before,span.pager-left-first.pager-it
 
 .featured_content_featured_content #paginate_content span
 {
-	background-color:#FF7C19 !important;
+	background-color:#1c84c6 !important;
 }
 .page_2 #paginate_content #paginate_content_first, .page_2 #paginate_content #paginate_content_last, .page_2 #paginate_content #paginate_content_prev, .page_2 #paginate_content #paginate_content_next {
    display: none;

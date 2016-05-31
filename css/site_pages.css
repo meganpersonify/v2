@@ -11308,12 +11308,11 @@ padding: 5px;
 }
 .mycommunity_manage ul {
    margin: 0 !important;
-   display:flex;
-   flex-direction:column;
-   flex-wrap:wrap;
+   display:inline-flex;
+   flex-flow: column wrap;
 }
 .mycommunity_manage ul li {
-   margin: 0 !important;
+   padding: 0 !important;
    list-style-type: none;
    height: 90px;
    line-height: 30px;

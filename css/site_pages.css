@@ -11349,7 +11349,9 @@ padding: 5px;
 }
 
 /* My Community User Points */
-
+ul.user_stats {
+	margin: 0;
+}
 #user_stats_body li {
 	padding: 0;
 }

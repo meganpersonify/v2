@@ -11272,3 +11272,10 @@ padding: 5px;
    width: 500px;
    height: 105px;
 }
+
+.site_page_footer .profile_user_photo .boxsitepagebody {
+	width: 84px;
+	height: 84px;
+	float: left;
+}
+}

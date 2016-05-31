@@ -528,12 +528,14 @@ a#topicWatch_2 {
     margin: 0;
 }
 
-.event div#featured_event_author, .event div#featured_event_details {
+.page-cat-events div#featured_event_author, .page-cat-events div#featured_event_details {
   font-size: 13px;
   padding: 0;
 }
 /*Reset the padding on the fields*/
-.page-cat-events .fieldLabel, .page-cat-events .fieldResponse,
+.page-cat-events .fieldLabel, .page-cat-events .fieldResponse {
+  padding: 0;
+}
 .page-cat-events div#formField_richText_event_description, .page-cat-events div#formField_dateTime_event_start, .page-cat-events div#formField_dateTime_event_end, .page-cat-events div#formField_textField_event_venue, .page-cat-events div#formField_Address_event_address,
 {
   padding: 0;

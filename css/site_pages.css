@@ -9316,7 +9316,7 @@ input[type="button"],input[type="button"]:hover,input[type="submit"],input[type=
 div.like-link a.like-link
 {
 	background-image:url("https://community.blackbaud.com/content/icons/16x16/thumb_up.png");
-	background-position:0 4px;
+	background-position:0 2px;
 }
 
 .no-associated-files-message #attach_icon

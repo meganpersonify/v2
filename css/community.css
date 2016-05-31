@@ -522,15 +522,15 @@ a#topicWatch_2 {
 /* ---------->>> Events Page Adjustments <<<-----------*/
 .event .event-actions-wrapper {
     float: right;
-    margin: -30px 0 0 0;
+    margin: 0;
 }
 
-.event div#featured_event_author, .event div#featured_event_details {
+.page-cat-events div#featured_event_author, .page-cat-events div#featured_event_details {
   font-size: 13px;
   padding: 0;
 }
 
-.event .fieldLabel, .event .fieldResponse {
+.page-cat-events .fieldLabel, .page-cat-events .fieldResponse {
   padding: 0;
 }
 

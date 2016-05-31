@@ -11390,10 +11390,10 @@ ul.user_stats {
        	background-repeat: no-repeat;
 }
 .total_points:before {
-	margin: -23px 0 0 -31px;
+	margin: -26px 0 0 -31px;
 	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-left.png');
 }
 .total_points:after {
-	margin: -43px 0 0 106px;
+	margin: -46px 0 0 106px;
 	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-right.png');
 }

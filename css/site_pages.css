@@ -11374,10 +11374,9 @@ ul.user_stats {
         color: #7AB800;
         font-size: 28px;
         padding: 15px 0 18px 0;
-        margin: 0 31px 19px 31px;
+        margin: 0 31px 21px 31px;
         display: block;
         text-align: center;
-        background-color: red;
         background-repeat: no-repeat;
         background-position: bottom center;
         background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-bottom.png');
@@ -11385,7 +11384,6 @@ ul.user_stats {
 .total_points:before, .total_points:after {
        	height: 64px;
        	width: 31px;
-       	background-color: yellow;
        	display: block;
        	content: " ";
        	position: absolute;

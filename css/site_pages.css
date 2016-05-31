@@ -11281,14 +11281,14 @@ padding: 5px;
    padding-top: 24px;
 }
 .page_2 .site_page_footer .profile_user_photo .boxsitepage .p1 {
-   color: #1c84c6;
+   color: #1c84c6 !important;
 }
 .page_2 .site_page_footer .profile_user_photo .boxsitepage .p1:before {
    content: "Welcome,";
    display: block;
    font-size: 14px;
    line-height: 30px;
-   color: #676a6c;
+   color: #676a6c !important;
 }
 .page_2 .site_page_footer .profile_user_photo .boxsitepagebody {
    position: absolute;

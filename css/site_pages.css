@@ -3517,7 +3517,7 @@ a#headerMyAccountLink
 	background-position:5px 3px !important;
 	background-size:14px 14px !important;
 	background-repeat:no-repeat !important;
-	width: 150px;
+	width: 188px;
 }
 
 .page_200 .user_actions li a:hover,.page_200 .user_actions li.pending_friend:hover
@@ -3563,6 +3563,7 @@ a#headerMyAccountLink
 	min-height: 20px !important;
 	height: 20px !important;
 	line-height: 20px !important;
+	margin-bottom: 0 !important;
 }
 .page_200 .user_actions li.view_photos a.navbar:before, .page_200 .user_actions li.view_photos a.navbar:after {
 	display: none !important;

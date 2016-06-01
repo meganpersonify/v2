@@ -3559,6 +3559,11 @@ a#headerMyAccountLink
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/view-photos.png");
 }
+.page_200 .user_actions li.view_photos a.navbar {
+	min-height: 20px !important;
+	height: 20px !important;
+	line-height: 20px !important;
+}
 .page_200 .user_actions li.view_photos a.navbar:before, .page_200 .user_actions li.view_photos a.navbar:after {
 	display: none !important;
 }

@@ -11397,3 +11397,7 @@ ul.user_stats {
 	margin: -46px 0 0 106px;
 	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-right.png');
 }
+
+.user_stats_item.label_block {
+	margin-left: 60px;	
+}

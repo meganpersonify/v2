@@ -11248,7 +11248,7 @@ padding: 5px;
 /* My Community Styles */
 
 /* My Community Header */
-.page_2 .site_page_subnav {
+.page_2 .site_page_subnav, .page_200 .site_page_subnav {
 	height: 410px;
         background-color: #e2e3e5;
         background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/header-bg.png');

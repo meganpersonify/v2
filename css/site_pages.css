@@ -11325,7 +11325,7 @@ padding: 5px;
    margin-left: 120px;
    top: 250px;
 }
-.mycommunity_manage div {
+.mycommunity_manage div, .user_stats li.label_block .label {
    font-size: 14px;
    line-height: 30px;
    color: #676a6c !important;

@@ -3488,7 +3488,7 @@ a#headerMyAccountLink
 {
 	width:185px;
 	position:absolute;
-	top:127px;
+	top:-200px;
 	left:50%;
 	margin-left:305px;
 	height:134px;
@@ -3525,16 +3525,6 @@ a#headerMyAccountLink
 	text-decoration:none !important;
 }
 
-.page_200 .user_actions li.edit_profile a,.page_200 .user_actions li.report_member a,.page_200 .user_actions li.invite_to_group a
-{
-	color:#ffffff;
-	background:none !important;
-	transition:none;
-	float:none;
-	margin:0 0 0 60px;
-	width:100px;
-}
-
 .page_200 .user_actions li.edit_profile a
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/edit.png") !important;
@@ -3567,40 +3557,24 @@ a#headerMyAccountLink
 .page_200 .user_actions li.view_photos a
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/view-photos.png");
-	left:-754px;
-	position:absolute;
-	bottom:0;
-	margin-bottom:5px;
 	width:auto;
 }
 
 .page_200 .user_actions li.send_email a
 {
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/mail.png");
-	left:-657px;
-	position:absolute;
-	bottom:0;
-	margin-bottom:5px;
+	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/mail.png");;
 }
 
 .page_200 .user_actions li.add_friend a,.page_200 .user_actions li.accept_friend a,.page_200 .user_actions li.pending_friend
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/add-friend.png") !important;
 	background-size:13px 13px;
-	left:-552px;
-	bottom:0;
-	margin-bottom:5px;
-	position:absolute;
 }
 
 .page_200 .user_actions li.are_friends a
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/remove-friend.png");
 	background-size:12px 12px;
-	left:-552px;
-	bottom:0;
-	margin-bottom:5px;
-	position:absolute;
 	background-position:5px 4px;
 }
 

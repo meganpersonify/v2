@@ -11403,6 +11403,7 @@ ul.user_stats {
 }
 .user_stats li.label_block .label {
         font-size: 18px;
+        padding: 0;
 }
 .user_stats li.label_block .label_value {
     display: inline;

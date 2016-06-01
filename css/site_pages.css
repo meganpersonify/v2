@@ -7192,7 +7192,9 @@ ul.actionList li.resolve-post a:hover
 {
 	float:left;
 	display:block;
-	margin-right:5px;
+}
+.badge {
+	margin: 0 6px 6px 0;
 }
 
 .page_200 .site_page_column_0 .module_container[data-module-row="36"]

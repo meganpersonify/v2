@@ -11406,3 +11406,7 @@ ul.user_stats {
 .page_200 .site_page_subnav {
 	height: 340px;
 }
+
+.site_page_subnav .featured_content_featured_content {
+    background-image: url(http://www.blirk.net/wallpapers/preview/gradient-wallpaper-1.jpg);
+}

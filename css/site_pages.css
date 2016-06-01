@@ -91,6 +91,10 @@ html[xmlns] .column_generic
 	text-align:left;
 	position:relative;
 	background:#e2e3e5;
+	background-image: url('../content/blackbaud/header-bg.png');
+	background-size: 1200px 1px;
+	background-repeat: repeat-y;
+	background-position: center;
 }
 
 h1,h2,h3,h4,h5,h6

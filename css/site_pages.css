@@ -11249,11 +11249,13 @@ padding: 5px;
 
 /* My Community Header */
 .page_2 .site_page_subnav, .page_200 .site_page_subnav {
-	height: 410px;
         background-color: #e2e3e5;
         background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/header-bg.png');
         background-repeat: repeat-x;
         background-size: 1px 120px;
+}
+.page_2 .site_page_subnav {
+	height: 410px;
 }
 .page_2 #main {
 	margin-top: 0;
@@ -11415,4 +11417,10 @@ ul.user_stats {
     height: 24px;
     line-height: 24px;
     padding: 0;
+}
+
+/* Profile Page */
+
+.page_200 .site_page_subnav {
+	height: 340px;
 }

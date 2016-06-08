@@ -11408,7 +11408,451 @@ ul.user_stats {
 	height: 340px;
 }
 
-.site_page_subnav .featured_content_featured_content {
-    background-image: url(http://www.blirk.net/wallpapers/preview/gradient-wallpaper-1.jpg);
-    padding: 10px;
+.page_10380 #module_0-0 a,.page_10380 #module_0-1 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/altru.png)
 }
+
+.page_10380 #module_1-0 a,.page_10380 #module_1-1 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-crm.png)
+}
+
+.page_10380 #module_0-2 a,.page_10380 #module_0-3 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-merchant-services.png)
+}
+
+.page_10380 #module_1-2 a,.page_10380 #module_1-3 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/education-edge.png)
+}
+
+.page_10380 #module_0-4 a,.page_10380 #module_0-5 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/etapestry.png)
+}
+
+.page_10380 #module_1-4 a,.page_10380 #module_1-5 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/everydayhero.png)
+}
+
+.page_10380 #module_0-6 a,.page_10380 #module_0-7 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/financial-edge.png)
+}
+
+.page_10380 #module_1-6 a,.page_10380 #module_1-7 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/financial-edge-nxt.png)
+}
+
+.page_10380 #module_0-8 a,.page_10380 #module_0-9 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/k12-on-products.png)
+}
+
+.page_10380 #module_1-8 a,.page_10380 #module_1-9 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/luminate-crm.png)
+}
+
+.page_10380 #module_0-10 a,.page_10380 #module_0-11 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/luminate-online.png)
+}
+
+.page_10380 #module_1-10 a,.page_10380 #module_1-11 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/microedge.png)
+}
+
+.page_10380 #module_0-12 a,.page_10380 #module_0-13 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-netcommunity.png)
+}
+
+.page_10380 #module_1-12 a,.page_10380 #module_1-13 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-online-express.png)
+}
+
+.page_10380 #module_0-14 a,.page_10380 #module_0-15 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/raisers-edge.png)
+}
+
+.page_10380 #module_1-14 a,.page_10380 #module_1-15 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/raisers-edge-nxt.png)
+}
+
+.page_10380 #module_0-16 a,.page_10380 #module_0-17 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/BlackbaudSphere.png)
+}
+
+.page_10380 #module_1-16 a,.page_10380 #module_1-17 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/target-analytics.png)
+}
+
+.page_10380 #module_0-18 a,.page_10380 #module_0-19 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
+}
+
+.page_10380 #main .site_page_column_0 a,.page_10380 #main .site_page_column_1 a
+{
+	height:19px !important;
+	width:auto;
+	background-repeat:no-repeat;
+	background-color:transparent !important;
+	color:black !important;
+	background-size:contain;
+	text-indent:100%;
+	white-space:nowrap;
+	overflow:hidden;
+	margin:10px;
+	position:relative;
+	background-position-x:26px
+}
+
+.page_10380 #main .site_page_column_0 a:before,.page_10380 #main .site_page_column_1 a:before
+{
+	font-family:FontAwesome;
+	top:-5px;
+	left:1px;
+	content:"\f096";
+	font-size:20px;
+	color:black;
+	position:absolute;
+	text-indent:initial !important
+}
+
+.page_10380 #main a:hover
+{
+	opacity:0.5
+}
+
+.page_10380 #main .site_page_column_2 a
+{
+	position:relative;
+	background-repeat:no-repeat;
+	background-color:#f6b2ad !important;
+	color:grey !important;
+	background-size:contain;
+	text-indent:6%;
+	padding:0 21px !important;
+	border-radius:20px;
+	font-size:10px !important
+}
+
+.page_10380 #main .site_page_column_0 > div:nth-child(even) a:before,.page_10380 #main .site_page_column_1 > div:nth-child(even) a:before
+{
+	font-family:FontAwesome;
+	top:-6px;
+	left:1px;
+	content:"\f00d";
+	font-size:20px;
+	color:grey;
+	position:absolute;
+	text-indent:initial !important
+}
+
+.page_10380 #main .form_button
+{
+	margin:0 0 6px 0;
+	background-color:#eee;
+	border-radius:4px
+}
+
+/* Subscription Pages */
+ .watch-table > tbody > tr:not(.watch\=section-subcategory) > td
+{
+	position:relative;
+	padding-left:25px;
+	border-bottom:5px solid white
+}
+
+.watch-table tr.watch-expanded > .watch-category:before
+{
+	font-family:FontAwesome;
+	top:5px;
+	left:5px;
+	content:"\f146";
+	font-size:16px;
+	color:black;
+	position:absolute
+}
+
+.watch-table tr.watch-collapsed > .watch-category:before
+{
+	font-family:FontAwesome;
+	top:5px;
+	left:5px;
+	content:"\f0fe";
+	font-size:16px;
+	color:black;
+	position:absolute
+}
+
+.watch-table
+{
+	padding:20px
+}
+
+.watch-table tr.watch-expanded,.watch-table tr.watch-collapsed,tr#subscription_forums_category_155,tr#subscription_forums_category_356,tr#subscription_forums_category_1538,tr#subscription_forums_category_141,tr#subscription_forums_category_188
+{
+	background-color:#C8C8C8
+}
+
+.watch-header a
+{
+	pointer-events:none;
+	color:black !important
+}
+
+.page_10025 #t1
+{
+	float:left;
+	vertical-align:top;
+	margin:10px 0
+}
+
+.page_10025 .helpsearch
+{
+	margin:20px 0
+}
+
+/* Product Selection Page */
+.page_10380 #module_0-0 a,.page_10380 #module_0-1 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/altru.png)
+}
+
+.page_10380 #module_1-0 a,.page_10380 #module_1-1 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-crm.png)
+}
+
+.page_10380 #module_0-2 a,.page_10380 #module_0-3 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-merchant-services.png)
+}
+
+.page_10380 #module_1-2 a,.page_10380 #module_1-3 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/education-edge.png)
+}
+
+.page_10380 #module_0-4 a,.page_10380 #module_0-5 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/etapestry.png)
+}
+
+.page_10380 #module_1-4 a,.page_10380 #module_1-5 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/everydayhero.png)
+}
+
+.page_10380 #module_0-6 a,.page_10380 #module_0-7 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/financial-edge.png)
+}
+
+.page_10380 #module_1-6 a,.page_10380 #module_1-7 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/financial-edge-nxt.png)
+}
+
+.page_10380 #module_0-8 a,.page_10380 #module_0-9 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/k12-on-products.png)
+}
+
+.page_10380 #module_1-8 a,.page_10380 #module_1-9 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/luminate-crm.png)
+}
+
+.page_10380 #module_0-10 a,.page_10380 #module_0-11 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/luminate-online.png)
+}
+
+.page_10380 #module_1-10 a,.page_10380 #module_1-11 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/microedge.png)
+}
+
+.page_10380 #module_0-12 a,.page_10380 #module_0-13 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-netcommunity.png)
+}
+
+.page_10380 #module_1-12 a,.page_10380 #module_1-13 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-online-express.png)
+}
+
+.page_10380 #module_0-14 a,.page_10380 #module_0-15 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/raisers-edge.png)
+}
+
+.page_10380 #module_1-14 a,.page_10380 #module_1-15 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/raisers-edge-nxt.png)
+}
+
+.page_10380 #module_0-16 a,.page_10380 #module_0-17 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/BlackbaudSphere.png)
+}
+
+.page_10380 #module_1-16 a,.page_10380 #module_1-17 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/target-analytics.png)
+}
+
+.page_10380 #module_0-18 a,.page_10380 #module_0-19 a
+{
+	background-image:url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
+}
+
+.page_10380 #main .site_page_column_0 a,.page_10380 #main .site_page_column_1 a
+{
+	height:19px !important;
+	width:auto;
+	background-repeat:no-repeat;
+	background-color:transparent !important;
+	color:black !important;
+	background-size:contain;
+	text-indent:100%;
+	white-space:nowrap;
+	overflow:hidden;
+	margin:10px;
+	position:relative;
+	background-position-x:26px
+}
+
+.page_10380 #main .site_page_column_0 a:before,.page_10380 #main .site_page_column_1 a:before
+{
+	font-family:FontAwesome;
+	top:-5px;
+	left:1px;
+	content:"\f096";
+	font-size:20px;
+	color:black;
+	position:absolute;
+	text-indent:initial !important
+}
+
+.page_10380 #main a:hover
+{
+	opacity:0.5
+}
+
+.page_10380 #main .site_page_column_2 a
+{
+	position:relative;
+	background-repeat:no-repeat;
+	background-color:#f6b2ad !important;
+	color:grey !important;
+	background-size:contain;
+	text-indent:6%;
+	padding:0 21px !important;
+	border-radius:20px;
+	font-size:10px !important
+}
+
+.page_10380 #main .site_page_column_0 > div:nth-child(even) a:before,.page_10380 #main .site_page_column_1 > div:nth-child(even) a:before
+{
+	font-family:FontAwesome;
+	top:-6px;
+	left:1px;
+	content:"\f00d";
+	font-size:20px;
+	color:grey;
+	position:absolute;
+	text-indent:initial !important
+}
+
+.page_10380 #main .form_button
+{
+	margin:0 0 6px 0;
+	background-color:#eee;
+	border-radius:4px
+}
+
+/* Subscription Pages */
+ .watch-table > tbody > tr:not(.watch\=section-subcategory) > td
+{
+	position:relative;
+	padding-left:25px;
+	border-bottom:5px solid white
+}
+
+.watch-table tr.watch-expanded > .watch-category:before
+{
+	font-family:FontAwesome;
+	top:5px;
+	left:5px;
+	content:"\f146";
+	font-size:16px;
+	color:black;
+	position:absolute
+}
+
+.watch-table tr.watch-collapsed > .watch-category:before
+{
+	font-family:FontAwesome;
+	top:5px;
+	left:5px;
+	content:"\f0fe";
+	font-size:16px;
+	color:black;
+	position:absolute
+}
+
+.watch-table
+{
+	padding:20px
+}
+
+.watch-table tr.watch-expanded,.watch-table tr.watch-collapsed,tr#subscription_forums_category_155,tr#subscription_forums_category_356,tr#subscription_forums_category_1538,tr#subscription_forums_category_141,tr#subscription_forums_category_188
+{
+	background-color:#C8C8C8
+}
+
+.watch-header a
+{
+	pointer-events:none;
+	color:black !important
+}
+
+.page_10025 #t1
+{
+	float:left;
+	vertical-align:top;
+	margin:10px 0
+}
+
+.page_10025 .helpsearch
+{
+	margin:20px 0
+}
+
+#subscription_forums_category_399,#subscription_forums_category_136,#subscription_forums_category_139,#subscription_forums_category_144,#subscription_forums_category_180,#subscription_forums_category_137,#subscription_forums_category_304,#subscription_forums_category_315,#subscription_forums_category_142,#subscription_forums_category_181,#subscription_forums_category_276,#subscription_forums_category_356
+{
+	display:none
+}
+
+#subscription_blogs_category_62, #subscription_blogs_category_60, #subscription_blogs_category_14, #subscription_blogs_category_1, #subscription_blogs_category_54, #subscription_blogs_category_17, #subscription_blogs_category_2, #subscription_blogs_category_35, #subscription_blogs_category_37, #subscription_blogs_category_75, #subscription_blogs_category_3, #subscription_blogs_category_18, #subscription_blogs_category_46, #subscription_blogs_category_41, #subscription_blogs_category_71, #subscription_blogs_category_65, #subscription_blogs_category_4, #subscription_blogs_category_56, #subscription_blogs_category_53, #subscription_blogs_category_48, #subscription_blogs_category_49, #subscription_blogs_category_50, #subscription_blogs_category_51, #subscription_blogs_category_52, #subscription_blogs_category_44, #subscription_blogs_category_43, #subscription_blogs_category_15, #subscription_blogs_category_55, #subscription_blogs_category_57, #subscription_blogs_category_73, #subscription_blogs_category_66, #subscription_blogs_category_8, #subscription_blogs_category_10, #subscription_blogs_category_13, #subscription_blogs_category_69, #subscription_blogs_category_12, #subscription_blogs_category_16, #subscription_blogs_category_19, #subscription_blogs_category_42
+{
+	display:none
+}
+
+/* End Subscription Page Edits */

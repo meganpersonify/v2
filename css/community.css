@@ -573,9 +573,22 @@ div.row1, div.row2 {
   text-decoration: underline;
 }
 .events_featured_event #itemBlock .userActions a,
-.events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a
+.events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a,
+.events_featured_event #itemBlock div.userActions ul li a.deleteItem,
+.events_featured_event #itemBlock div.userActions ul li span
 {
 	top: 0;
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+.events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a {
+  margin-left: 50px;
+}
+
+.events_featured_event .events_edit_img {
+  width: auto;
+  display: none;
 }
 
 /*

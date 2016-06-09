@@ -547,6 +547,7 @@ div.row1, div.row2 {
 
 .events_featured_event #itemBlock .userActions {
   padding-left: 0;
+  margin-top: 20px;
 }
 .events_featured_event ul.user-actions-ul,
 .events_featured_event #itemBlock div.userActions ul li {
@@ -567,6 +568,7 @@ div.row1, div.row2 {
     text-decoration: none;
     text-transform: uppercase;
     font-weight: bold !important;
+    font-size: 10px;
 }
 .events_featured_event .userActions a:hover {
   color: #333;
@@ -574,8 +576,10 @@ div.row1, div.row2 {
 }
 .events_featured_event #itemBlock .userActions a,
 .events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a,
+.events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item,
 .events_featured_event #itemBlock div.userActions ul li a.deleteItem,
-.events_featured_event #itemBlock div.userActions ul li span
+.events_featured_event #itemBlock div.userActions ul li span,
+.events_featured_event #itemBlock div.userActions ul li span.add_bookmark a
 {
 	top: 0;
   margin: 0;
@@ -585,7 +589,15 @@ div.row1, div.row2 {
 .events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a {
   margin-left: 50px;
 }
-
+.events_featured_event #itemBlock div.userActions ul li {
+  margin-left: 20px;
+}
+.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li {
+  margin-left: 0;
+}
+.events_featured_event .bookmark-item-li .add_bookmark {
+  background: none;
+}
 .events_featured_event .events_edit_img {
   width: auto;
   display: none;

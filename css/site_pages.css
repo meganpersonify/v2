@@ -4040,12 +4040,12 @@ ul.largeGallery li .pictureFrame .overlay
 
 .add_bookmark,ul.horizontalList li.add_bookmark,div.user_actions ul li.add_bookmark
 {
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/add_bookmark.png") !important;
+	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/add_bookmark.png");
 }
 
 .page_2002 .group_action_buttons li.add_bookmark
 {
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/add_bookmark.png") !important;
+	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/add_bookmark.png");
 }
 
 .page_2002 .group_action_buttons li.flag

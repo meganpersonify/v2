@@ -430,7 +430,7 @@ ul li.flag.embed
 
 ul li.flag
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 0 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 0 0;
 	display:inline;
 }
 
@@ -456,7 +456,7 @@ ul li.flag
 
 ul li.delete
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/icons/delete.gif') no-repeat scroll 0 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/icons/delete.gif') no-repeat scroll 0 0;
 }
 
 .site_page_blogs .sblog,.sblog
@@ -488,13 +488,13 @@ ul li.delete
 
 .sblog_actions ul li.flag
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 5px 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 5px 0;
 	float:left;
 }
 
 .sblog_actions ul li.comment
 {
-	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/comment.png') no-repeat scroll 5px 0 !important;
+	background:transparent url('https://blackbaud.stage.smallworldlabs.com/images/comment.png') no-repeat scroll 5px 0;
 	float:left;
 }
 
@@ -4702,12 +4702,12 @@ ul li.send_link
 
 .reviews_edit_img,.events_edit_img
 {
-	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-forums.png") no-repeat scroll 0 0 transparent !important;
+	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-forums.png") no-repeat scroll 0 0 transparent;
 }
 
 .reviews_delete_img,.events_delete_img,ul li.flag.delete
 {
-	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/delete-gray.png") no-repeat scroll 0 0 transparent !important;
+	background:url("https://blackbaud.stage.smallworldlabs.com/content/swl/delete-gray.png") no-repeat scroll 0 0 transparent;
 }
 
 .sblog_actions ul li.comment
@@ -9276,7 +9276,7 @@ input[type="button"],input[type="button"]:hover,input[type="submit"],input[type=
 .events_event_confirm .boxsitepagebody
 {
 	background-color:#e1f0f9 !important;
-	min-height:60px;
+	min-height:90px;
 	padding:15px !important;
 }
 
@@ -11259,7 +11259,7 @@ padding: 5px;
    margin-left: -600px;
 }
 .page_2 #featured_content .content {
-   margin: 0;	
+   margin: 0;
    height: 160px;
 }
 
@@ -11385,7 +11385,7 @@ ul.user_stats {
 	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-right.png');
 }
 .user_stats li.user_stats_item.label_block {
-	margin-left: 180px;	
+	margin-left: 180px;
 }
 .user_stats li.label_block .label {
         font-size: 18px;

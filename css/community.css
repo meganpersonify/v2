@@ -585,7 +585,7 @@ div.row1, div.row2 {
 
 .events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a,
 .events_featured_event #itemBlock div.userActions ul li.edit-item-li a,
-.events_featured_event #itemBlock div.userActions ul li.delete-item-li a,
+.events_featured_event #itemBlock div.userActions ul li.delete-item-li a
 {
   color: #A09E9E;
   text-decoration: none;

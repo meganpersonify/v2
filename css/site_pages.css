@@ -1382,7 +1382,7 @@ div.feedburnerFeedBlock div#creditfooter
 #itemBlock .userActions a
 {
 	font-size:12px;
-	font-weight:300 !important;
+	font-weight:300;
 	margin-right:6px;
 }
 

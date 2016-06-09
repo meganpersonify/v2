@@ -606,15 +606,15 @@ div.row1, div.row2 {
   text-transform: uppercase;
 }
 .events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a:hover {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 .events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a::before {
   font-family: FontAwesome;
   margin-right: 5px;
   content: '\f02e';
 }
-.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a::before:hover {
-  text-decoration: none;
+.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a:before:hover {
+  /*text-decoration: none;*/
 }
 .events_featured_event #itemBlock div.userActions ul li {
   margin-left: 15px;

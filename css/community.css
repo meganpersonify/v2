@@ -564,11 +564,11 @@ div.row1, div.row2 {
 }
 /* Report / Edit / Delete */
 .events_featured_event .userActions a {
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 .events_featured_event .userActions a:hover {
-  color: #333;
-  text-decoration: underline;
+  /*color: #333;
+  text-decoration: underline;*/
 }
 .events_featured_event #itemBlock .userActions a,
 .events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a,
@@ -588,9 +588,30 @@ div.row1, div.row2 {
 .events_featured_event #itemBlock div.userActions ul li.delete-item-li a
 {
   color: #A09E9E;
+  font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 10px;
+}
+.events_featured_event #itemBlock div.userActions ul li.flag.event_flag_list_item a:hover,
+.events_featured_event #itemBlock div.userActions ul li.edit-item-li a:hover,
+.events_featured_event #itemBlock div.userActions ul li.delete-item-li a:hover
+{
+  color: #333;
+  text-decoration: underline;
+}
+.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a {
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a::before {
+  font-family: FontAwesome;
+  margin-right: 5px;
+  content: '\f02e';
+}
+.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a::before:hover {
+  text-decoration: none;
 }
 .events_featured_event #itemBlock div.userActions ul li {
   margin-left: 15px;

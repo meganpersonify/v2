@@ -605,6 +605,9 @@ div.row1, div.row2 {
   text-decoration: none;
   text-transform: uppercase;
 }
+.events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a:hover {
+  text-decoration: underline;
+}
 .events_featured_event #itemBlock div.userActions ul li.bookmark-item-li .add_bookmark a::before {
   font-family: FontAwesome;
   margin-right: 5px;

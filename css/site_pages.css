@@ -4835,7 +4835,6 @@ ul.reviewsItemsList li a.editItem img,ul.reviewsItemsList li a.deleteItem,ul.rev
 {
 	border:none;
 	background:none;
-	padding:0;
 }
 
 .search_result_avatar
@@ -4886,7 +4885,7 @@ ul.reviewsItemsList li a.editItem img,ul.reviewsItemsList li a.deleteItem,ul.rev
 
 .layout_100_sub_column_1_options .boxsitepagebody
 {
-	padding:0 20px 0 0 !important;
+	padding:0 20px 0 0;
 }
 
 .layout_100_sub_column_0 .boxsitepagebody
@@ -4934,8 +4933,8 @@ ul.reviewsItemsList li a.editItem img,ul.reviewsItemsList li a.deleteItem,ul.rev
 
 #searchTypeContainer
 {
-	width:550px !important;
-	float:left !important;
+	width: auto;
+	float: left;
 }
 
 div.search_sort_bar
@@ -4961,7 +4960,7 @@ div.search_sort_bar
 
 .search_results .input_text_field
 {
-	width:954px;
+	width:947px;
 	padding:9px 0 9px 9px;
 	border-radius:4px 0 0 4px;
 	background-color:#e7e7e7;
@@ -10496,7 +10495,7 @@ ul.horizontalList
 .layout_100_sub_column_1_options .boxsitepagebody
 {
 	background-color:#FFF;
-	padding:10px !important;
+	padding:10px;
 }
 
 .go-back span

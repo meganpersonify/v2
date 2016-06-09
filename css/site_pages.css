@@ -5789,9 +5789,11 @@ li.content_selector .filter_name
 	position:relative;
 }
 
-li.content_selector .active
+ul.search_option_content li.content_selector .active
 {
-	background-color:#29abe2 !important;
+	background-color: transparent !important;
+	color: #333 !important;
+	font-weight: 700;
 }
 
 .ppfabanner img

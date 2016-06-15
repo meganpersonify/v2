@@ -2089,14 +2089,15 @@ div#statusSave input:hover
 	width:1200px;
 	min-height:155px;
 	display:block;
-	background-color:#8CC544;
+	background-color: transparent;
 	margin:20px auto 0 auto;
+	overflow: hidden;
 }
 
 .profileBanner img
 {
 	border-radius:8px 0 0 0;
-	border-right:1px solid #ABD361;
+	border: none;
 }
 
 .calPage

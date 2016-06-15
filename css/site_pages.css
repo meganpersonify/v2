@@ -3838,7 +3838,7 @@ a#headerMyAccountLink
 {
 	border:none !important;
 	padding:0;
-	background-color:#F1F1F1;
+	background-color:#F1F1F1 !important;
 	margin: 0 auto;
 	width: 1200px;
 }
@@ -3846,8 +3846,9 @@ a#headerMyAccountLink
 .site_page_subnav .groups_group_navigation ul
 {
 	padding:0;
-	margin:0;
+	margin:0 auto;
 	background-color:#F1F1F1;
+	width: 1200px;
 }
 
 .site_page_subnav .groups_group_navigation ul li

@@ -996,7 +996,7 @@ div.imageMediumSquare a {
 	padding: 0 !important;
 }
 /* Buttons */
-div.form_button a, div.form_button a:link, div.form_button a:visited, div.sitebutton ul li a, div.sitebutton ul li a:link, div.sitebutton ul li a:visited, div.sitebutton ul li a:hover, div#nav_search ul li a, div#nav_search ul li a:link, div#nav_search ul li a:visited, div.sgroup_browse_button ul li a, div.sgroup_browse_button ul li a:link, div.sgroup_browse_button ul li a:visited, button, .html_button_plain .form_button a, .add_item, .button, input[type="button"], .download_file ul li a, .reviewsWatch ul li.unWatch #reviewWatch {
+div.form_button a, div.form_button a:link, div.form_button a:visited, div.sitebutton ul li a, div.sitebutton ul li a:link, div.sitebutton ul li a:visited, div.sitebutton ul li a:hover, div#nav_search ul li a, div#nav_search ul li a:link, div#nav_search ul li a:visited, div.sgroup_browse_button ul li a, div.sgroup_browse_button ul li a:link, div.sgroup_browse_button ul li a:visited, button, .html_button_plain .form_button a, .add_item, .button, input[type="button"], .download_file ul li a, .reviewsWatch ul li.unWatch #reviewWatch, .sblog-post-newstyle .sblog-post-body a.more {
 	border: none !important;
 	border-radius: 0px;
 	font-size: 14px !important;

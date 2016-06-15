@@ -353,6 +353,12 @@ span.glyphicon.glyphicon-search {
   background-color: transparent;
   padding: 0;
 }
+/*Get the user information below the badges*/
+div[data-module-name="profile_user_profile"] {
+    display: block;
+    float: left;
+    position: relative;
+}
 
 
 

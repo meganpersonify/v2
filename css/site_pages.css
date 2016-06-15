@@ -8656,12 +8656,14 @@ ul.user_stats {
 /* End Subscription Page Edits */
 
 
-/* Profile Badges */
+/* PROFILE UPDATES */
 
 /*.page_200 #main .module_container
 {
 	clear:none;
 }*/
+
+/* Badges */
 
 .page_200 .site_page_column_1 .module_container {
 	width: auto !important;
@@ -8690,4 +8692,13 @@ ul.user_stats {
 	padding: 7px;
 	position: relative;
 	z-index: 101
+}
+
+.network_totals {
+	float: right;
+	background-color: #CCCCCC;
+	padding: 6px;
+	border-radius: 6px 0 0 6px;
+	position: relative;
+	left: 12px;
 }

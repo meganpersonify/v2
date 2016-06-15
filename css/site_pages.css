@@ -2617,7 +2617,7 @@ a#headerMyAccountLink {
 	position: absolute;
 	top: -194px;
 	left: 50%;
-	margin-left: 185px;
+	margin-left: 796px;
 	height: 134px;
 	z-index: 2;
 }
@@ -8674,7 +8674,7 @@ ul.user_stats {
 	left: -233px;
 	clear: none;
 }
-.page_200 .site_page_column_1 .module_container:nth-last-child(-n+4) {
+.page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
 	display: block;
 	top: -80px;
 	width: 100% !important;

@@ -2089,14 +2089,14 @@ div#statusSave input:hover
 	width:1200px;
 	min-height:155px;
 	display:block;
-	background-color: transparent;
+	background-color:#8CC544;
 	margin:20px auto 0 auto;
-	overflow: hidden;
-  border-radius: 8px 8px 0 0;
 }
 
-.profileBanner img {
-	border: none;
+.profileBanner img
+{
+	border-radius:8px 0 0 0;
+	border-right:1px solid #ABD361;
 }
 
 .calPage
@@ -3234,7 +3234,7 @@ a#headerMyAccountLink
 {
 	color:#ffffff !important;
 	font-size:36px !important;
-	text-shadow:1px 1px 0 #333;
+	text-shadow:1px 1px 0 #679113;
 }
 
 .page_200 #main .profile_user_photo .boxsitepage,.page_200 #main .profile_user_photo .boxsitepagebody,.page_200 .profile_user_actions .boxsitepagebody,.page_200 .profile_user_status .boxsitepagebody
@@ -11893,7 +11893,7 @@ ul.user_stats {
 	top:-93px
 }
 
- .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
+ .page_200 .site_page_column_1 .module_container:nth-last-child(-n+4) {
 	 display: block;
 	 top: 0;
 	 width: 100%;

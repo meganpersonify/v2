@@ -8665,6 +8665,26 @@ ul.user_stats {
 
 /* Badges */
 
+/* Left Column Badges */
+
+.page_200 .site_page_column_1 .module_container {
+	width: auto !important;
+	height: auto !important;
+	float: left;
+	margin: 0 !important;
+	padding: 0 !important;
+	position: relative;
+	clear: none;
+}
+.page_200 .site_page_column_1 .module_container:nth-last-child(-n+3), .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
+	display: block;
+	width: 100% !important;
+	left: 0;
+	clear: both;
+}
+
+/* Right Column Badges (in banner bar below name) */
+
 .page_200 .site_page_column_1 .module_container {
 	width: auto !important;
 	height: auto !important;
@@ -8677,11 +8697,7 @@ ul.user_stats {
 	clear: none;
 }
 .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
-	display: block;
 	top: -80px;
-	width: 100% !important;
-	left: 0;
-	clear: both;
 }
 .badge {
 	width: 64px;

@@ -7816,11 +7816,6 @@ span.hideText
 	overflow:hidden;
 }
 
-.page_200 #main .module_container
-{
-	clear:none;
-}
-
 .page_200 #module_0-37
 {
 	clear:both !important;
@@ -11882,6 +11877,12 @@ ul.user_stats {
 
 
 /* Profile Badges */
+
+/*.page_200 #main .module_container
+{
+	clear:none;
+}*/
+
  .page_200 .site_page_column_1 .module_container
 {
 	width:auto !important;
@@ -11889,14 +11890,14 @@ ul.user_stats {
 	float:left;
 	margin:0 !important;
 	padding:0 !important;
-	position:relative;
-	top:-93px
+	position: relative;
+	top:-120px;
 }
 
  .page_200 .site_page_column_1 .module_container:nth-last-child(-n+4) {
 	 display: block;
-	 top: 0;
-	 width: 100%;
+	 top: -80px;
+	 width: 100%;.page_200 #main .module_container
  }
 
 .badge

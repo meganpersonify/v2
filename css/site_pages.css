@@ -8676,7 +8676,7 @@ ul.user_stats {
 	position: relative;
 	clear: none;
 }
-.page_200 .site_page_column_0 .module_container:nth-last-child(-n+3), .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
+.page_200 .site_page_column_0 .module_container:first-child, .page_200 .site_page_column_0 .module_container:nth-child(2), .page_200 .site_page_column_0 .module_container:nth-last-child(-n+3), .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
 	display: block;
 	width: 100% !important;
 	left: 0;

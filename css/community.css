@@ -50,6 +50,22 @@ community
 
 /* ---------->>> Global <<<-----------*/
 
+/*Fix pagination icons*/
+.pager-left-prev.pager-item.pager-left:before
+{
+	content:"";
+}
+.pager-left-first.pager-item.pager-left:before {
+    content: "";
+}
+.pager-right-next.pager-item.pager-right:before
+{
+	content:"";
+}
+.pager-right-end.pager-item.pager-right:before
+{
+	content:"";
+}
 
 
 

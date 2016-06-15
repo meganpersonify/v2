@@ -8682,6 +8682,9 @@ ul.user_stats {
 	left: 0;
 	clear: both;
 }
+.page_200 .site_page_column_0 .module_container#module_0-0, .page_200 .site_page_column_0 .module_container#module_0-1 {
+	position: absolute;
+}
 
 /* Right Column Badges (in banner bar below name) */
 

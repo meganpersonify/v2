@@ -8667,7 +8667,7 @@ ul.user_stats {
 
 /* Left Column Badges */
 
-.page_200 .site_page_column_1 .module_container {
+.page_200 .site_page_column_0 .module_container {
 	width: auto !important;
 	height: auto !important;
 	float: left;
@@ -8676,7 +8676,7 @@ ul.user_stats {
 	position: relative;
 	clear: none;
 }
-.page_200 .site_page_column_1 .module_container:nth-last-child(-n+3), .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
+.page_200 .site_page_column_0 .module_container:nth-last-child(-n+3), .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
 	display: block;
 	width: 100% !important;
 	left: 0;

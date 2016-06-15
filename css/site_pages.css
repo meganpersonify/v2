@@ -5284,9 +5284,6 @@ ul.actionList li.resolve-post a:hover {
 .page_200 .site_page_column_0 {
 	padding-left: 20px;
 }
-.badge {
-	margin: 0 6px 6px 0;
-}
 .page_200 .site_page_column_0 .module_container[data-module-row="36"] {
 	clear: right;
 	width: auto;
@@ -8704,13 +8701,8 @@ ul.user_stats {
 }
 .badge {
 	width: 64px;
-	height: 64px
-}
-.badgeWrapper {
-	background-color: rgba(255,255,255,0.25);
-	padding: 7px;
-	position: relative;
-	z-index: 101
+	height: 64px;
+	margin: 0 5px 5px 0;
 }
 
 .network_totals {

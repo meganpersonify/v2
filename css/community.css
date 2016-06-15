@@ -349,7 +349,10 @@ span.glyphicon.glyphicon-search {
 
 
 /* ---------->>> My Community Dashboard <<<-----------*/
-
+.page-cat-profile .badge {
+  background-color: transparent;
+  padding: 0;
+}
 
 
 

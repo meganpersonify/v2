@@ -11895,6 +11895,7 @@ ul.user_stats {
 	position: relative;
 	top:-120px;
 	left: -233px;
+	clear: none;
 }
 
 .page_200 .site_page_column_1 .module_container:nth-last-child(-n+4) {
@@ -11902,6 +11903,7 @@ ul.user_stats {
     top: -80px;
     width: 100% !important;
 	left: 0;
+	clear: both;
 }
 
 .badge

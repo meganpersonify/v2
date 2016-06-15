@@ -1013,7 +1013,7 @@ div.form_button a, div.form_button a:link, div.form_button a:visited, div.sitebu
 .form_button {
 	margin: 0 0 6px 0;
 }
-div.form_button a:hover, div.sitebutton ul li a:hover, div#nav_search ul li a:hover, div.sgroup_browse_button ul li a:hover, button:hover, .html_button_plain .form_button a:hover, .add_item:hover, .button:hover, .input[type="button"]:hover, .download_file ul li a:hover {
+div.form_button a:hover, div.sitebutton ul li a:hover, div#nav_search ul li a:hover, div.sgroup_browse_button ul li a:hover, button:hover, .html_button_plain .form_button a:hover, .add_item:hover, .button:hover, .input[type="button"]:hover, .download_file ul li a:hover, .sblog-post-newstyle .sblog-post-body a.more:hover {
 	/*background-color:#267292 !important;
 	*/
 	text-decoration: none !important;

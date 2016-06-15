@@ -8699,10 +8699,12 @@ ul.user_stats {
 
 .network_totals {
 	float: right;
-	background-color: #CCCCCC;
 	padding: 6px;
 	position: absolute;
-	right: 0;
+	left: 150px;
 	margin-top: -48px;
 	height: 32px;
+}
+.network_totals p {
+color: #F1F1F1;
 }

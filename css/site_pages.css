@@ -11879,3 +11879,36 @@ ul.user_stats {
 }
 
 /* End Subscription Page Edits */
+
+
+/* Profile Badges */
+ .page_200 .site_page_column_1 .module_container
+{
+	width:auto !important;
+	height:auto !important;
+	float:left;
+	margin:0 !important;
+	padding:0 !important;
+	position:relative;
+	top:-93px
+}
+
+ .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
+	 display: block;
+	 top: 0;
+	 width: 100%;
+ }
+
+.badge
+{
+	width:64px;
+	height:64px
+}
+
+.badgeWrapper
+{
+	background-color:rgba(255,255,255,0.25);
+	padding:7px;
+	position:relative;
+	z-index:101
+}

@@ -8700,7 +8700,7 @@ ul.user_stats {
 .network_totals {
 	float: right;
     position: absolute;
-    left: 100px;
+    left: 150px;
     margin-top: -48px;
     height: 32px;
 }

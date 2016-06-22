@@ -379,7 +379,9 @@ div[data-module-name="profile_user_profile"] {
     margin-top: 1px;
 		padding-top: 0;
 }
-
+.page_200 #main {
+	margin-top: 20px;
+}
 
 /* ---------->>> /END My Community <<<-----------*/
 

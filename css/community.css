@@ -683,6 +683,10 @@ ul#message_subnav_list span.active {
     color: #FFF;
 }
 
+.profile_message_detail .message_detail_container {
+	padding: 20px;
+}
+
 /* ---------->>> /END Messages Page Adjustments <<<-----------*/
 
 

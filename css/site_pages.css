@@ -6945,7 +6945,7 @@ ul.sortList {
 	margin: 0 2px;
 }
 #subnav ul {
-	height: 22px !important;
+	height: 22px;
 }
 #moreEventsList li.active {
 	border: 1px solid #4a4e59;

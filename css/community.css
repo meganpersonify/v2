@@ -671,7 +671,19 @@ text-decoration: underline;
 /* ---------->>> /END Events Page Adjustments <<<-----------*/
 
 
+/* ---------->>> Inbox/Messages Page Adjustments <<<-----------*/
 
+ul#message_subnav_list {
+    height: 45px;
+}
+ul#message_subnav_list li a {
+    color: #676a6c;
+}
+ul#message_subnav_list span.active {
+    color: #FFF;
+}
+
+/* ---------->>> /END Messages Page Adjustments <<<-----------*/
 
 
 

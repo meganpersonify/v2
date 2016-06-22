@@ -2561,7 +2561,6 @@ a#headerMyAccountLink {
 .page_200 .profile_network .boxsitepage .p1 {
 	color: #505B60 !important;
 	font-weight: 300;
-	letter-spacing: 1px;
 	padding-top: 8px;
 	text-transform: uppercase;
 }
@@ -4788,7 +4787,7 @@ ul.blog-post-list {
 ul li.addComment {
 	background-image: none !important;
 	height: 34px !important;
-	padding: 8px 12px !important;
+	padding: 8px 12px;
 	position: relative;
 	margin-right: 10px;
 }
@@ -5623,7 +5622,7 @@ li.addComment a, .forgotpassword .formbutton:hover {
 	text-align: center !important;
 }
 li.addComment:hover, .forgotpassword .formbutton:hover {
-	background-color: #267292 !important;
+	/*background-color: #267292 !important;*/
 }
 .legacy_page .content, .legacy_page .boxfullbody {
 	padding: 0 !important;

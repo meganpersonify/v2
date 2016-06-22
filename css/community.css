@@ -375,7 +375,10 @@ div[data-module-name="profile_user_profile"] {
     float: left;
     position: relative;
 }
-
+.page-cat-profile li.addComment {
+    margin-top: 1px;
+		padding-top: 0;
+}
 
 
 /* ---------->>> /END My Community <<<-----------*/

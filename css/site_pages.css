@@ -5603,8 +5603,8 @@ div.product-nav {
 	text-decoration: none !important;
 }
 li.addComment, .forgotpassword .formbutton {
-	background-color: #29abe2 !important;
-	padding: 0 6px !important;
+	background-color: #29abe2;
+	padding: 0 6px;
 	border-radius: 0px;
 	font-size: 12px !important;
 	text-transform: uppercase;

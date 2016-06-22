@@ -466,7 +466,13 @@ ul.horizontalList.topic-list-engagement-actions {
 li.addComment a {
   font-weight: bold;
 }
-
+.recent_topic_reply ul.horizontalList li.addComment {
+  padding: 8px 12px;
+	background-color: #29abe2;
+}
+.recent_topic_reply ul.horizontalList li.addComment:hover {
+  background-color: #267292
+}
 /*Style the discussions buttons the same*/
 .topic-top-watch a#topicWatch::before,
 .topic-top-watch li.add_bookmark::before,
@@ -687,6 +693,9 @@ ul#message_subnav_list span.active {
 	padding: 20px;
 }
 
+.message_detail_info {
+
+}
 /* ---------->>> /END Messages Page Adjustments <<<-----------*/
 
 

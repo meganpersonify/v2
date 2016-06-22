@@ -6889,257 +6889,127 @@ ul.actionList li.resolve-post a:hover
 	background-color:#505b61;
 }
 
-#user_badge_104
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
+#user_badge_54, #user_badge_212, #user_badge_211, #user_badge_210, #user_badge_209, #user_badge_208, #user_badge_153, #user_badge_116, #user_badge_115, #user_badge_114, #user_badge_113, #user_badge_112, #user_badge_111, #user_badge_110, #user_badge_11, #user_badge_109, #user_badge_108, #user_badge_107, #user_badge_106, #user_badge_105, #user_badge_104, #user_badge_103, #user_badge_102 {
 	background-repeat:no-repeat;
 	height:16px;
 	width:16px;
 	position:relative;
 	margin:1px;
 	background-size:contain;
+}
+#user_badge_104
+{
+	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
 }
 
 #user_badge_54
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBStaff.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_11
 {
 	background-image:url("http://blackbaud.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_105
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re-Etap.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_107
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/CustomerSuccessGraduate.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_108
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BlogContributor.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_111
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCON_attendee.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_112
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCONPresenter.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_115
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBIS_user.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_113
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatParticipant.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_114
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatPresenter.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_106
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/PartnerNetwork.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_116
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/SDK.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_102
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Strategist.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_103
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Visionary.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_109
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/VideoContributor.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_110
 {
 	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/WebinarContributor.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_211
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Re-Etap.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_208
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_210
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Luminate_2.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_212
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/EE_2.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_209
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/RP.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 #user_badge_153
 {
 	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
 }
 
 .recent_topic_reply_avatar .user-info-container

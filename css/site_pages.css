@@ -3542,8 +3542,9 @@ div.comment_text {
 	border-bottom: 1px dotted #cccccc !important;
 }
 div.boxsitepage .p1 a, div.boxsitepage .p1 a:hover {
-	color: #35aba0;
+	color: #676a6c !important;
 	underline: none !important;
+	font-weight: nornal !important;
 }
 ul.reviewsItemsList li a.editItem img, ul.reviewsItemsList li a.deleteItem, ul.reviewsItemsList li a.deleteReview, ul.reviewsItemsList li a#flagItem, ul.eventsItemsList li a.editItem img, ul.eventsItemsList li a.deleteItem, ul.eventsItemsList li a.deleteEvent, ul#featured_user_list li a.editItem img {
 	margin-top: 0 !important;
@@ -8005,7 +8006,8 @@ div.imageMediumSquare a {
 	border: none !important
 }
 .page_302 div.boxsitepage .p1 {
-	margin-bottom: 20px
+	margin-bottom: 20px;
+	display: inline-block;
 }
 .page_302 a.unlike-link, .page_302 .sblog_actions li a {
 	height: 30px !important;

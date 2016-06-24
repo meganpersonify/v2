@@ -8635,6 +8635,14 @@ color: #F1F1F1;
 .page_1000 .forumSubCategories {
       display: none;
  }
+ 
+.site_page_sblog_info {
+	 float: right;
+	 text-align: right;
+}
+.site_page_sblog_info .boxsitepage {
+	 display: none;
+}
 
 <<<<<<< HEAD
 

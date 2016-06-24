@@ -8641,7 +8641,7 @@ color: #F1F1F1;
 	 text-align: right;
 }
 .site_page_sblog_info .boxsitepage {
-	 display: none;
+	 display: none !important;
 }
 
 <<<<<<< HEAD

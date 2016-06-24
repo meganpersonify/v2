@@ -2635,7 +2635,7 @@ a#headerMyAccountLink {
 	width: 188px;
 }
 .page_200 .user_actions li a:hover, .page_200 .user_actions li.pending_friend:hover {
-	background-color: #f57e20 !important;
+	background-color: #53A817 !important;
 	text-decoration: none !important;
 }
 .page_200 .user_actions li.edit_profile a {
@@ -2673,7 +2673,6 @@ a#headerMyAccountLink {
 }
 .page_200 .user_actions li.send_email a {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/mail.png");
-	;
 }
 .page_200 .user_actions li.add_friend a, .page_200 .user_actions li.accept_friend a, .page_200 .user_actions li.pending_friend {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/add-friend.png") !important;

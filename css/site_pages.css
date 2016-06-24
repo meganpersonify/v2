@@ -8628,6 +8628,9 @@ color: #F1F1F1;
 .content_selector span.required {
 	  height: 0;
 }
+.search_option input[type="radio"] {
+	  margin-right: 10px;
+}
 
 <<<<<<< HEAD
 

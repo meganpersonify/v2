@@ -8625,6 +8625,10 @@ ul.user_stats {
 .network_totals p {
 color: #F1F1F1;
 }
+.content_selector .required {
+	  height: 0;
+}
+
 <<<<<<< HEAD
 
 .badgeWrapper

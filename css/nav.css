@@ -1,7 +1,7 @@
 /* ALL CONTROLS FOR MAINNAV ITEMS ----------------------------------------------- */
  #mainnav
 {
-	height:55px;
+	height:60px;
 	background:none;
 	width:100%;
 	position:absolute;
@@ -10,7 +10,6 @@
 	margin-left:-600px;
 	padding-left:600px;
 	float:right;*/
-	padding-bottom: 6px;
 	border-bottom:8px solid #7ab800 !important;
 	
 

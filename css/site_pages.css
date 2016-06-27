@@ -8340,7 +8340,7 @@ top: -5px;
 left: 1px;
 content: "\f096";
 font-size: 20px;
-color: #676a6c;
+color: #676a6c !important;
 position: absolute;
 text-indent: initial !important;
 }
@@ -8364,7 +8364,7 @@ top: -6px;
 left: 1px;
 content: "\f00d";
 font-size: 20px;
-color: #cccccc;
+color: #cccccc !important;
 position: absolute;
 text-indent: initial !important;
 }
@@ -8484,10 +8484,10 @@ text-indent: initial !important;
 }
 .page_10380 #main .site_page_column_0 a, .page_10380 #main .site_page_column_1 a {
 	height: 19px !important;
-	width: auto;
+	width: 100%;
 	background-repeat: no-repeat;
 	background-color: transparent !important;
-	color: black !important;
+	color: #eeeeee !important;
 	background-size: contain;
 	text-indent: 100%;
 	white-space: nowrap;

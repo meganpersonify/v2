@@ -8322,27 +8322,27 @@ ul.user_stats {
 }
 .page_10380 #main .site_page_column_0 a, .page_10380 #main .site_page_column_1 a {
 	height: 19px !important;
-	width: auto;
-	background-repeat: no-repeat;
-	background-color: transparent !important;
-	color: black !important;
-	background-size: contain;
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	margin: 10px;
-	position: relative;
-	background-position-x: 26px
+background-repeat: no-repeat;
+background-color: transparent !important;
+background-size: contain;
+text-indent: 100%;
+white-space: nowrap;
+overflow: hidden;
+margin: 10px;
+position: relative;
+background-position: 26px 0;
+width: 100%;
+color: #EEEEEE !important;
 }
 .page_10380 #main .site_page_column_0 a:before, .page_10380 #main .site_page_column_1 a:before {
 	font-family: FontAwesome;
-	top: -5px;
-	left: 1px;
-	content: "\f096";
-	font-size: 20px;
-	color: black;
-	position: absolute;
-	text-indent: initial !important
+top: -5px;
+left: 1px;
+content: "\f096";
+font-size: 20px;
+color: #676a6c;
+position: absolute;
+text-indent: initial !important;
 }
 .page_10380 #main a:hover {
 	opacity: 0.5
@@ -8351,7 +8351,7 @@ ul.user_stats {
 	position: relative;
 	background-repeat: no-repeat;
 	background-color: #f6b2ad !important;
-	color: grey !important;
+	color: #676a6c !important;
 	background-size: contain;
 	text-indent: 6%;
 	padding: 0 21px !important;
@@ -8360,13 +8360,13 @@ ul.user_stats {
 }
 .page_10380 #main .site_page_column_0 > div:nth-child(even) a:before, .page_10380 #main .site_page_column_1 > div:nth-child(even) a:before {
 	font-family: FontAwesome;
-	top: -6px;
-	left: 1px;
-	content: "\f00d";
-	font-size: 20px;
-	color: grey;
-	position: absolute;
-	text-indent: initial !important
+top: -6px;
+left: 1px;
+content: "\f00d";
+font-size: 20px;
+color: #cccccc;
+position: absolute;
+text-indent: initial !important;
 }
 .page_10380 #main .form_button {
 	margin: 0 0 6px 0;

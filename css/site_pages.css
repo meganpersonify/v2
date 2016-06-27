@@ -8105,7 +8105,7 @@ div.imageMediumSquare a {
 }
 /* My Community Announcements */
 .page_2 .featured_content_featured_content {
-	padding-top: 20px;
+	margin-top: 20px;
 	width: 700px;
 	height: 270px;
 	position: absolute;

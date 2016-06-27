@@ -8090,6 +8090,7 @@ div.imageMediumSquare a {
 .page_2 .featured_content_featured_content {
 	/* ADD BACKGROUND IMAGE HERE */
 	background: rgba(255,255,255,.7);
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/2016/featured-content.png");
 }
 .page_2 .featured_content_featured_content .boxsitepage {
 	padding-top: 12px;

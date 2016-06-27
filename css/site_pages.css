@@ -2116,6 +2116,7 @@ ul.sortList li.active a, ul.sortList li.active a:hover {
 	line-height: 24px;
 	transition: all 0.25s linear 0s;
 	background-size: 12px 12px !important;
+	outline: none;
 }
 #headerRegLink {
 	display: none !important;

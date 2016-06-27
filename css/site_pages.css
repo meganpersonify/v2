@@ -8088,6 +8088,9 @@ div.imageMediumSquare a {
 .page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
 	background: #ffffff;
 }
+.page_2 .featured_content_featured_content .boxsitepage {
+	padding-top: 12px;
+}
 .site_page_footer .profile_user_photo .boxsitepage, .site_page_footer .profile_user_photo div.boxsitepagebody {
 	padding: 0;
 	background: none;

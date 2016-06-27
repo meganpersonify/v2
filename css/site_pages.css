@@ -5663,8 +5663,8 @@ span.hideText {
 	max-height: 232px;
 	overflow: hidden;
 }
-.page-cat-groups.page_2000 .site_page_subnav, .page-cat-groups.page_2001 .site_page_subnav {
-	max-height: 292px;
+.page-cat-groups.page_2000 .site_page_subnav {
+	max-height: 350px;
 }
 #swlgallery_total_ratings0, #rating_plural, #rating_nonplural, .swlgallery_photo_starrating_separator, .swlgallery_starimage {
 	display: none !important;

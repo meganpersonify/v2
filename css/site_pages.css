@@ -3341,7 +3341,7 @@ span.pager-left-prev.pager-item.pager-left:before, span.pager-left-first.pager-i
 /*Homepage pagination overrides*/
 
 .featured_content_featured_content #paginate_content {
-	padding: 10px 0 0;
+	padding: 3px 0 0 10px;
 }
 /*Hide first, last, and pagination numbers*/
 .site_page_1 #paginate_content #paginate_content_first, .site_page_1 #paginate_content #paginate_content_last, .site_page_1 #paginate_content [id*="paginate_content_page_"] {

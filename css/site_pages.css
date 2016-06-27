@@ -8085,8 +8085,10 @@ div.imageMediumSquare a {
 	margin-top: 0;
 }
 /* My Community Header Blocks */
-
-.page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody, .site_page_footer .profile_user_photo .boxsitepage, .site_page_footer .profile_user_photo div.boxsitepagebody {
+.page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
+	background: #ffffff;
+}
+.site_page_footer .profile_user_photo .boxsitepage, .site_page_footer .profile_user_photo div.boxsitepagebody {
 	padding: 0;
 	background: none;
 }

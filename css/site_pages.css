@@ -8085,11 +8085,19 @@ div.imageMediumSquare a {
 	margin-top: 0;
 }
 /* My Community Header Blocks */
-.page_2 .featured_content_featured_content .boxsitepage, .page_2 .featured_content_featured_content div.boxsitepagebody {
+.page_2 .featured_content_featured_content {
+	/* ADD BACKGROUND IMAGE HERE */
 	background: #ffffff;
 }
 .page_2 .featured_content_featured_content .boxsitepage {
 	padding-top: 12px;
+}
+.page_2 .featured_content_featured_content div.boxsitepage .p1 {
+	margin-bottom: 10px;
+}
+.page_2 .featured_content_featured_content div.boxsitepagebody {
+	height: 212px;
+	margin-bottom: 0;
 }
 .site_page_footer .profile_user_photo .boxsitepage, .site_page_footer .profile_user_photo div.boxsitepagebody {
 	padding: 0;

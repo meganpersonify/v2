@@ -8256,7 +8256,9 @@ ul.user_stats {
 	top: -5px;
 	left: 1px;*/
 	float: left;
-	
+	position: relative;
+    left: -10px;
+    top: -5px;
 }
 .page_10380 #main a:hover {
 	opacity: 0.5
@@ -8282,6 +8284,9 @@ ul.user_stats {
 	top: -6px;
 	left: 1px;*/
 	float: left;
+	position: relative;
+    left: -10px;
+    top: -6px;
 }
 .page_10380 #main .form_button {
 	margin: 0 0 6px 0;

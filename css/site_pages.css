@@ -4991,6 +4991,10 @@ div.topic-actions ul.horizontalList {
 .forum-topic-post a.like-total {
 	background: none !important;
 }
+a.like-total {
+	display: none;
+}
+
 .forum-topic-post a.like-total:hover {
 	text-decoration: none !important;
 }

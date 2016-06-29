@@ -1,4 +1,3 @@
-
 .site_page {
 	margin: 0;
 	padding: 0;
@@ -1624,14 +1623,14 @@ div#statusSave input:hover {
 }*/
 .page_200 .network_totals a {
 	color: #50555b !important;
-    line-height: 24px;
-    min-width: 24px;
-    text-align: center;
-    float: right;
-    border-radius: 12px;
-    background-color: #ffffff;
-    margin: 2px;
-    padding: 0 4px;
+	line-height: 24px;
+	min-width: 24px;
+	text-align: center;
+	float: right;
+	border-radius: 12px;
+	background-color: #ffffff;
+	margin: 2px;
+	padding: 0 4px;
 }
 .page_200 .network_totals a:hover {
 	text-decoration: none;
@@ -4908,7 +4907,6 @@ div.user-info-container div.post-count-container, div.user-info-container div.jo
 	font-size: 12px;
 	z-index: 1;
 }
-
 .sort-tab span.sort-indicator {
 	display: inline-block;
 	margin: 5px 0 0 5px;
@@ -4994,7 +4992,6 @@ div.topic-actions ul.horizontalList {
 a.like-total {
 	display: none !important;
 }
-
 .forum-topic-post a.like-total:hover {
 	text-decoration: none !important;
 }
@@ -5050,135 +5047,88 @@ ul.actionList li.forum-post-resolved {
 	background-color: #03a78e !important;
 	border: none !important;
 	box-shadow: none !important;
-
 }
 ul.actionList li.resolve-post a:hover {
 	text-decoration: none;
 	background-color: #505b61;
 }
 #user_badge_54, #user_badge_212, #user_badge_211, #user_badge_210, #user_badge_209, #user_badge_208, #user_badge_153, #user_badge_116, #user_badge_115, #user_badge_114, #user_badge_113, #user_badge_112, #user_badge_111, #user_badge_110, #user_badge_11, #user_badge_109, #user_badge_108, #user_badge_107, #user_badge_106, #user_badge_105, #user_badge_104, #user_badge_103, #user_badge_102 {
-	background-repeat:no-repeat;
-	height:16px;
-	width:16px;
-	position:relative;
-	margin:1px;
-	background-size:contain;
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	position: relative;
+	margin: 1px;
+	background-size: contain;
 }
-#user_badge_104
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
+#user_badge_104 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
 }
-
-#user_badge_54
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBStaff.png") !important;
+#user_badge_54 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBStaff.png") !important;
 }
-
-#user_badge_11
-{
-	background-image:url("http://blackbaud.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
+#user_badge_11 {
+	background-image: url("http://blackbaud.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
 }
-
-#user_badge_105
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re-Etap.png") !important;
+#user_badge_105 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re-Etap.png") !important;
 }
-
-#user_badge_107
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/CustomerSuccessGraduate.png") !important;
+#user_badge_107 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/CustomerSuccessGraduate.png") !important;
 }
-
-#user_badge_108
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BlogContributor.png") !important;
+#user_badge_108 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BlogContributor.png") !important;
 }
-
-#user_badge_111
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCON_attendee.png") !important;
+#user_badge_111 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCON_attendee.png") !important;
 }
-
-#user_badge_112
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCONPresenter.png") !important;
+#user_badge_112 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCONPresenter.png") !important;
 }
-
-#user_badge_115
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBIS_user.png") !important;
+#user_badge_115 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBIS_user.png") !important;
 }
-
-#user_badge_113
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatParticipant.png") !important;
+#user_badge_113 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatParticipant.png") !important;
 }
-
-#user_badge_114
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatPresenter.png") !important;
+#user_badge_114 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatPresenter.png") !important;
 }
-
-#user_badge_106
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/PartnerNetwork.png") !important;
+#user_badge_106 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/PartnerNetwork.png") !important;
 }
-
-#user_badge_116
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/SDK.png") !important;
+#user_badge_116 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/SDK.png") !important;
 }
-
-#user_badge_102
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Strategist.png") !important;
+#user_badge_102 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Strategist.png") !important;
 }
-
-#user_badge_103
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Visionary.png") !important;
+#user_badge_103 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Visionary.png") !important;
 }
-
-#user_badge_109
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/VideoContributor.png") !important;
+#user_badge_109 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/VideoContributor.png") !important;
 }
-
-#user_badge_110
-{
-	background-image:url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/WebinarContributor.png") !important;
+#user_badge_110 {
+	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/WebinarContributor.png") !important;
 }
-
-#user_badge_211
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Re-Etap.png") !important;
+#user_badge_211 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Re-Etap.png") !important;
 }
-
-#user_badge_208
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_.png") !important;
+#user_badge_208 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_.png") !important;
 }
-
-#user_badge_210
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Luminate_2.png") !important;
+#user_badge_210 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Luminate_2.png") !important;
 }
-
-#user_badge_212
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/EE_2.png") !important;
+#user_badge_212 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/EE_2.png") !important;
 }
-
-#user_badge_209
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/RP.png") !important;
+#user_badge_209 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/RP.png") !important;
 }
-
-#user_badge_153
-{
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
+#user_badge_153 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
 }
-
 .recent_topic_reply_avatar .user-info-container {
 	width: 50px;
 }
@@ -5381,7 +5331,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = Custom page id 10124*/
 	/* Sphere ----------- = Custom page id 10145*/
 	/* Target Analytics - = Custom page id 10200*/
-.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10126.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10147.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10148.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10122.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10209.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10204.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10215.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10123.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10124.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10145.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,  .page_10200.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home {
+.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10126.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10147.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10148.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10122.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10209.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10204.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10215.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10123.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10124.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10145.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home, .page_10200.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5408,7 +5358,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = 13 */
 	/* Sphere ----------- = 72 */
 	/* Target Analytics - = 42 */
-.page-urlp-sblog_id_14.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_54.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_2.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_43.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_66.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_8.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_13.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_72.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements,  .page-urlp-sblog_id_42.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements {
+.page-urlp-sblog_id_14.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_54.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_2.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_43.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_66.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_8.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_13.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_72.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements, .page-urlp-sblog_id_42.page-cat-blogs .product-nav .nav.nav-tabs a.tab-announcements {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5428,7 +5378,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = -- */
 	/* Sphere ----------- = 16 */
 	/* Target Analytics - = 19 */
-.page-urlp-sblog_id_60.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_1.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_35.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_3.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_18.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_4.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_56.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_15.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_10.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_16.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips,  .page-urlp-sblog_id_19.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips {
+.page-urlp-sblog_id_60.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_1.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_35.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_3.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_18.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_4.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_56.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_15.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_10.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_16.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips, .page-urlp-sblog_id_19.page-cat-blogs .product-nav .nav.nav-tabs a.tab-tips {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5455,7 +5405,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = Custom page id 10186*/
 	/* Sphere ----------- = Custom page id 10231*/
 	/* Target Analytics - = Custom page id 10201*/
-.page_10214.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10183.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10174.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10173.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10184.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10210.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10205.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10232.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10164.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10186.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10231.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources,  .page_10201.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources {
+.page_10214.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10183.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10174.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10173.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10184.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10210.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10205.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10232.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10164.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10186.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10231.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources, .page_10201.page-cat-custompages .product-nav .nav.nav-tabs a.tab-resources {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5475,7 +5425,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = Custom page id 10166*/
 	/* Sphere ----------- = Custom page id -----*/
 	/* Target Analytics - = Custom page id 10226*/
-.page_10238.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10150.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10212.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10195.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10177.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10179.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10223.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10364.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10224.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10158.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10166.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas,  .page_10226.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas {
+.page_10238.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10150.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10212.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10195.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10177.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10179.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10223.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10364.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10224.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10158.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10166.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas, .page_10226.page-cat-custompages .product-nav .nav.nav-tabs a.tab-ideas {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5495,7 +5445,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = Custom page id -----*/
 	/* Sphere ----------- = Custom page id -----*/
 	/* Target Analytics - = Custom page id 10384*/
-.page_10389.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,  .page_10382.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,  .page_10386.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,  .page_10155.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info,  .page_10384.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info {
+.page_10389.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info, .page_10382.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info, .page_10386.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info, .page_10155.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info, .page_10384.page-cat-custompages .product-nav .nav.nav-tabs a.tab-release-info {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5515,7 +5465,7 @@ div.product-nav {
 	/* Raiser's Edge NXT  = Custom page id -----*/
 	/* Sphere ----------- = Custom page id 10388*/
 	/* Target Analytics - = Custom page id 10385*/
-.page_10390.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,  .page_10383.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,  .page_10387.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,  .page_10379.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,  .page_10388.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members,  .page_10385.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members {
+.page_10390.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members, .page_10383.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members, .page_10387.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members, .page_10379.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members, .page_10388.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members, .page_10385.page-cat-custompages .product-nav .nav.nav-tabs a.tab-members {
 	background-color: #7ab800;
 	color: white;
 }
@@ -5632,7 +5582,7 @@ li.addComment a, .forgotpassword .formbutton:hover {
 	text-align: center !important;
 }
 li.addComment:hover, .forgotpassword .formbutton:hover {
-	/*background-color: #267292 !important;*/
+/*background-color: #267292 !important;*/
 }
 .legacy_page .content, .legacy_page .boxfullbody {
 	padding: 0 !important;
@@ -8271,43 +8221,40 @@ ul.user_stats {
 .page_200 .site_page_subnav {
 	height: 340px;
 }
-
 /* PRODUCT SELECTION PAGE */
 
 .page_10380 #main {
 	padding: 20px;
 }
-
 .page_10380 .column_generic {
 	padding-top: 7px;
-    padding-bottom: 24px;
+	padding-bottom: 24px;
 }
-
 /* Product Selection Buttons */
 
 .page_10380 #main .site_page_column_0 a, .page_10380 #main .site_page_column_1 a {
 	height: 19px !important;
-background-repeat: no-repeat;
-background-color: transparent !important;
-background-size: contain;
-text-indent: 100%;
-white-space: nowrap;
-overflow: hidden;
-margin: 10px;
-position: relative;
-background-position: 26px 0;
-width: 100%;
-color: #EEEEEE !important;
+	background-repeat: no-repeat;
+	background-color: transparent !important;
+	background-size: contain;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	margin: 10px;
+	/*position: relative;*/
+	background-position: 26px 0;
+	width: 100%;
+	color: #EEEEEE !important;
 }
 .page_10380 #main .site_page_column_0 a:before, .page_10380 #main .site_page_column_1 a:before {
 	font-family: FontAwesome;
-top: -5px;
-left: 1px;
-content: "\f096";
-font-size: 20px;
-color: #676a6c !important;
-position: absolute;
-text-indent: initial !important;
+	top: -5px;
+	left: 1px;
+	content: "\f096";
+	font-size: 20px;
+	color: #676a6c !important;
+	position: absolute;
+	text-indent: initial !important;
 }
 .page_10380 #main a:hover {
 	opacity: 0.5
@@ -8325,20 +8272,19 @@ text-indent: initial !important;
 }
 .page_10380 #main .site_page_column_0 > div:nth-child(even) a:before, .page_10380 #main .site_page_column_1 > div:nth-child(even) a:before {
 	font-family: FontAwesome;
-top: -6px;
-left: 1px;
-content: "\f00d";
-font-size: 20px;
-color: #cccccc !important;
-position: absolute;
-text-indent: initial !important;
+	top: -6px;
+	left: 1px;
+	content: "\f00d";
+	font-size: 20px;
+	color: #cccccc !important;
+	position: absolute;
+	text-indent: initial !important;
 }
 .page_10380 #main .form_button {
 	margin: 0 0 6px 0;
 	background-color: #eee;
 	border-radius: 4px
 }
-
 /* Product Logos */
 
 .page_10380 #module_0-0 a, .page_10380 #module_0-1 a {
@@ -8407,7 +8353,6 @@ text-indent: initial !important;
 .page_10380 #module_1-20 a, .page_10380 #module_1-21 a {
 	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
 }
-
 /* Subscription Pages */
 .watch-table > tbody > tr:not(.watch\=section-subcategory) > td {
 	position: relative;
@@ -8530,7 +8475,6 @@ text-indent: initial !important;
 .page_200 .site_page_column_0 .module_container#module_0-0, .page_200 .site_page_column_0 .module_container#module_0-1 {
 	position: initial !important;
 }
-
 /* Right Column Badges (in banner bar below name) */
 
 .page_200 .site_page_column_1 .module_container {
@@ -8552,39 +8496,31 @@ text-indent: initial !important;
 	height: 64px;
 	margin: 0 5px 5px 0;
 }
-
 .network_totals {
 	float: right;
-    position: absolute;
-    left: 150px;
-    margin-top: -48px;
-    height: 32px;
+	position: absolute;
+	left: 150px;
+	margin-top: -48px;
+	height: 32px;
 }
 .network_totals p {
-color: #F1F1F1;
+	color: #F1F1F1;
 }
 .content_selector span.required {
-	  height: 0;
+	height: 0;
 }
 .search_option input[type="radio"] {
-	  margin-right: 10px;
+	margin-right: 10px;
 }
-
 .page_1000 .forumSubCategories {
-      display: none;
- }
+	display: none;
+}
 .page-urlp-sblog_id_10 .blog-post-list .boxsitepage {
-	 display: none !important;
+	display: none !important;
 }
-
-<<<<<<< HEAD
-
-.badgeWrapper
-{
-	background-color:rgba(255,255,255,0.25);
-	padding:7px;
-	position:relative;
-	z-index:101
+ <<<<<<< HEAD  .badgeWrapper {
+ background-color:rgba(255,255,255,0.25);
+ padding:7px;
+ position:relative;
+ z-index:101
 }
-=======
->>>>>>> origin/gh-pages

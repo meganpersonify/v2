@@ -8398,6 +8398,15 @@ text-indent: initial !important;
 .page_10380 #module_0-18 a, .page_10380 #module_0-19 a {
 	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/smart-tuition.png)
 }
+.page_10380 #module_1-18 a, .page_10380 #module_1-19 a {
+	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/BlackbaudSphere.png)
+}
+.page_10380 #module_0-20 a, .page_10380 #module_0-21 a {
+	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/target-analytics.png)
+}
+.page_10380 #module_1-20 a, .page_10380 #module_1-21 a {
+	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
+}
 
 /* Subscription Pages */
 .watch-table > tbody > tr:not(.watch\=section-subcategory) > td {

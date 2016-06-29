@@ -8248,13 +8248,15 @@ ul.user_stats {
 }
 .page_10380 #main .site_page_column_0 a:before, .page_10380 #main .site_page_column_1 a:before {
 	font-family: FontAwesome;
-	top: -5px;
-	left: 1px;
 	content: "\f096";
 	font-size: 20px;
 	color: #676a6c !important;
-	position: absolute;
 	text-indent: initial !important;
+	/*position: absolute;
+	top: -5px;
+	left: 1px;*/
+	float: left;
+	
 }
 .page_10380 #main a:hover {
 	opacity: 0.5
@@ -8272,13 +8274,14 @@ ul.user_stats {
 }
 .page_10380 #main .site_page_column_0 > div:nth-child(even) a:before, .page_10380 #main .site_page_column_1 > div:nth-child(even) a:before {
 	font-family: FontAwesome;
-	top: -6px;
-	left: 1px;
 	content: "\f00d";
 	font-size: 20px;
 	color: #cccccc !important;
-	position: absolute;
 	text-indent: initial !important;
+	/*position: absolute;
+	top: -6px;
+	left: 1px;*/
+	float: left;
 }
 .page_10380 #main .form_button {
 	margin: 0 0 6px 0;

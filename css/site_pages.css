@@ -8274,14 +8274,13 @@ ul.user_stats {
 
 /* PRODUCT SELECTION PAGE */
 
-/* PRODUCT SELECTION PAGE */
-
 .page_10380 #main {
 	padding: 20px;
 }
 
 .page_10380 .column_generic {
-	padding-top: 28px 24px 24px 24px;
+	padding-top: 28px;
+    padding-bottom: 24px;
 }
 
 /* Product Selection Buttons */

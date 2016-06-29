@@ -3067,10 +3067,14 @@ ul.largeGallery li .pictureFrame .overlay {
 div.user-list div.user-list-item.itemMedium {
 	width: 68px;
 }
+.profile_compose_message {
+	margin-top: 10px;
+}
 .message_recipients {
 	margin-left: -17px !important;
 	width: 99.6% !important;
 	border-radius: 4px 0 0 4px;
+	padding: 5px 10px 15px;
 }
 .message_recipient_clear {
 	background: none !important;
@@ -3086,6 +3090,14 @@ div.user-list div.user-list-item.itemMedium {
 	width: 30px !important;
 	transition: all 0.25s linear 0s;
 }
+.profile_compose_message .message_recipient_clear {
+	position: relative;
+	right: 20px;
+	top: -4px;
+}
+.profile_compose_message .compose_message_buttons{
+    margin-left: 11px;
+}
 .message_recipient_clear:hover {
 	background-color: #FE8E36 !important;
 }
@@ -3097,6 +3109,9 @@ div.user-list div.user-list-item.itemMedium {
 	margin-left: 0.4% !important;
 	width: 99.1% !important;
 	height: 17px !important;
+}
+.compose_message_subject .input_text_field input[type="text"] {
+    padding: 15px 10px;
 }
 .profile_invite div {
 	border: none !important;

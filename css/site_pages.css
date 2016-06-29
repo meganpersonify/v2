@@ -8251,7 +8251,7 @@ ul.user_stats {
 	content: "\f096";
 	font-size: 20px;
 	color: #676a6c !important;
-	text-indent: initial !important;
+	text-indent: 0 !important;
 	/*position: absolute;
 	top: -5px;
 	left: 1px;*/
@@ -8279,7 +8279,7 @@ ul.user_stats {
 	content: "\f00d";
 	font-size: 20px;
 	color: #cccccc !important;
-	text-indent: initial !important;
+	text-indent: 0 !important;
 	/*position: absolute;
 	top: -6px;
 	left: 1px;*/

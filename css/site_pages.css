@@ -4992,7 +4992,7 @@ div.topic-actions ul.horizontalList {
 	background: none !important;
 }
 a.like-total {
-	display: none;
+	display: none !important;
 }
 
 .forum-topic-post a.like-total:hover {

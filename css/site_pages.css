@@ -5333,6 +5333,7 @@ div.product-nav {
 /*--- Product Navigation - Home [selected] ---*/
 
 	/* Altru ------------ = Custom page id 10213*/
+	/* Best Practices --- = Custom page id 10239*/
 	/* Blackbaud CRM ---- = Custom page id 10125*/
 	/* K-12 Schools ----- = Custom page id 10207*/
 	/* eTapestry -------- = Custom page id 10126*/
@@ -5350,6 +5351,7 @@ div.product-nav {
 	/* Sphere ----------- = Custom page id 10145*/
 	/* Target Analytics - = Custom page id 10200*/
 	.page_10213.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
+	.page_10239.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
 	.page_10125.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
 	.page_10207.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,
 	.page_10126.page-cat-custompages .product-nav .nav.nav-tabs a.tab-home,

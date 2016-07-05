@@ -8824,10 +8824,10 @@ display: none;
 /* Add to my Calendar */
 .event-download-calendar-items {
 	padding: 6px !important;
-	margin: 10px 0 0 126px;
+	margin: 10px 0 0 126px !important;
 }
 .event-download-calendar-items li {
-	padding-left: 20px !important;
-	background-position: left 50% !important;
+	padding: 4px 6px 4px 26px !important;
+	background-position: 6px 50% !important;
 	background-color: #F3F3F4 !important;
 }

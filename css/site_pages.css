@@ -4561,7 +4561,8 @@ ul li:hover ul {
 }
 ul.subsection_tabs li.tab {
 	margin-right: 0px !important;
-	padding-bottom: 4px;
+	position: relative;
+	top: -4px;
 }
 ul.subsection_tabs li.tab a {
 	display: block;

@@ -8821,3 +8821,12 @@ display: none;
 	position: relative;
     top: -8px;
 }
+/* Add to my Calendar */
+.event-download-calendar-items {
+	padding: 6px;
+	border: 1px solid #cccccc;
+}
+.event-download-calendar-items li {
+	padding-left: 20px !important;
+	background-position: left 50% !important;
+}

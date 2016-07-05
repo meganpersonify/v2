@@ -4749,7 +4749,7 @@ ul.message_actions li {
 .page_302 .site_page_sblog_info .boxsitepage .p1 a, .page_301 .site_page_sblog_info .boxsitepage .p1 a, .events_more_events .boxsitepage .p1 {
 	font-size: 30px !important;
 }
-.page_302 .site_page_sblog_info .boxsitepage, .page_301 .site_page_sblog_info .boxsitepage, .events_more_events .boxsitepage {
+.page_301 .site_page_sblog_info .boxsitepage, .events_more_events .boxsitepage {
 	/*background-color:#eee;
 	*/
 	padding: 20px 9px;
@@ -8034,7 +8034,6 @@ div.imageMediumSquare a {
 	border: none !important
 }
 .page_302 div.boxsitepage .p1 {
-	margin-bottom: 20px;
 	display: inline-block;
 }
 .page_302 a.unlike-link, .page_302 .sblog_actions li a {

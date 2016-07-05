@@ -7511,8 +7511,11 @@ ul.horizontalList.topic-list-engagement-actions li.quote {
 .search_result_title {
 	text-transform: none;
 }
-ul.horizontalList li {
-	display: inline-block;
+li ul.watchList { 
+    padding: 6px;
+}
+li ul.watchList input { 
+    margin-right: 6px;
 }
 ul.horizontalList {
 	margin-bottom: -8px;

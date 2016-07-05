@@ -8562,7 +8562,7 @@ ul.user_stats {
 	clear: none;
 }
 .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
-	top: -175px;
+	top: -70px;
 }
 .badge {
 	width: 64px;
@@ -8799,7 +8799,7 @@ display: none;
 }
 
 /* Profile Community Level Block */
-.page_200 .profile_user_stats, .page_200 .user_stats li.user_stats_item.label_block label {
+.page_200 .profile_user_stats .boxsitepage, .page_200 .user_stats li.user_stats_item.label_block label {
 	display: none;
 }
 .page_200 .user_stats li.user_stats_item.label_block {

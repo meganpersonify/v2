@@ -4564,29 +4564,22 @@ ul.subsection_tabs li.tab {
 }
 ul.subsection_tabs li.tab a {
 	display: block;
-	line-height: 22px;
-	margin: 0 0 0 2px !important;
+	line-height: 38px;
+	margin: 0 7px 0  !important;
 	padding: 0 3px;
-	width: 80px;
-	border: 1px solid #4A4E59;
-	border-bottom: none;
-	border-radius: 3px 3px 0 0;
+	border-radius: 4px 4px 0 0;
 	text-decoration: none;
-	background-color: #4A4E59;
-	color: #ffffff;
-	height: 22px;
+	background-color: #C8C8C8;
+	color: #676a6c;
+	height: 38px;
 }
 ul.subsection_tabs li.tab a.active {
-	background-color: #ffffff;
-	color: #4A4E59;
-	border: 1px solid #4A4E59;
-	border-bottom: none !important;
+	background-color: #7AB800;
+	color: #ffffff;
 }
 ul.subsection_tabs li.tab a:hover {
 	text-decoration: none;
-	background-color: #00ABA2;
-	color: #ffffff;
-	border-color: #00ABA2;
+	background-color: #BEBEBE;
 }
 #account_settings .boxsitepagebody {
 	padding-top: 0px;

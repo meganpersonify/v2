@@ -8770,8 +8770,13 @@ display: none;
 .custom_14624705363682 .boxsitepagebody {
 	padding-bottom: 0;
 }
+.custom_14624705363682 .boxsitepagebody .br {
+	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/product-bg.png');
+}
 .custom_14624705363682 a {
 	padding: 5px;
+	height: 20px;
+	line-height: 20px;
 }
 
 .change_sel {

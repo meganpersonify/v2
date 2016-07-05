@@ -8810,4 +8810,6 @@ display: none;
 }
 .page_200 .user_stats li.user_stats_item.label_block .label_value img {
 	height: 64px;
+	position: relative;
+    top: -8px;
 }

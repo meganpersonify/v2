@@ -8767,7 +8767,9 @@ display: none;
 /* End Accordion */
 
 /* Products Block */
-
+.custom_14624705363682 .boxsitepagebody {
+	padding-bottom: 0;
+}
 .custom_14624705363682 a {
 	padding: 5px;
 }
@@ -8775,4 +8777,5 @@ display: none;
 .change_sel {
 	background-color: #ffffff;
 	border-top: 1px solid #E2E3E5;
+	padding-bottom: 10px;
 }

@@ -8793,6 +8793,9 @@ display: none;
 	margin-right: 10px;
 	font-weight: normal;
 }
+.change_sel a {
+    color: #50555B !important;
+}
 .change_sel a:hover {
 	text-decoration: none;
 }

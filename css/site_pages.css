@@ -6983,11 +6983,11 @@ ul.sortList {
 ul.subsection_tabs {
 	clear: both !important;
 	float: right !important;
-	width: 870px !important;
+	width: 100% !important;
 	margin: 0 !important;
-	border-bottom: 1px solid #4A4E59 !important;
+	border-bottom: 3px solid #7ab800 !important;
 	font-weight: bold;
-	height: 22px;
+	height: 38px;
 }
 .watch-section-groups.watch-section-header .p1:before {
 	content: "My ";

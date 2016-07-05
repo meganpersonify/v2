@@ -8784,9 +8784,15 @@ display: none;
 	border-top: 1px solid #E2E3E5;
 	padding-bottom: 10px;
 }
-
+.change_sel:hover {
+	backgrounbd-color: #f9f9f9;
+}
 .change_sel a:before {
 	font-family:"FontAwesome";
 	content: "\f040";
 	margin-right: 10px;
+	font-weight: normal;
+}
+.change_sel a:hover {
+	text-decoration: none;
 }

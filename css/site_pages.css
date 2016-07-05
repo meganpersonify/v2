@@ -4565,8 +4565,8 @@ ul.subsection_tabs li.tab {
 ul.subsection_tabs li.tab a {
 	display: block;
 	line-height: 38px;
-	margin: 0 7px 0 0 !important;
-	padding: 0 3px;
+	margin: 0 7px 4px 0 !important;
+	padding: 0 20px;
 	border-radius: 4px 4px 0 0;
 	text-decoration: none;
 	background-color: #C8C8C8;
@@ -4575,6 +4575,7 @@ ul.subsection_tabs li.tab a {
 	border: none !important;
 	font-size: 14px;
 	width: auto !important;
+	letter-spacing: auto;
 }
 ul.subsection_tabs li.tab a.active {
 	background-color: #7AB800;

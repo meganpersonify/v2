@@ -4577,7 +4577,7 @@ ul.subsection_tabs li.tab a {
 	border: none !important;
 	font-size: 14px;
 	width: auto !important;
-	letter-spacing: 1px;
+	letter-spacing: 0 !important;
 }
 ul.subsection_tabs li.tab a.active {
 	background-color: #7AB800;

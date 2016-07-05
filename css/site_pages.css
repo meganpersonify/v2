@@ -8829,5 +8829,5 @@ display: none;
 .event-download-calendar-items li {
 	padding: 4px 6px 4px 26px !important;
 	background-position: 6px 50% !important;
-	background-color: #F3F3F4 !important;
+	background-color: rgba(243, 243, 244, .5) !important;
 }

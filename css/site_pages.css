@@ -8558,8 +8558,12 @@ ul.user_stats {
 	padding: 0 !important;
 	position: relative;
 	top: -120px;
-	left: -243px;
+	left: -159px;
 	clear: none;
+}
+.page_200 .site_page_column_1 .module_container:nth-last-child(4) {
+	top: -187px;
+	left: -236px;
 }
 .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
 	top: -135px;
@@ -8804,6 +8808,7 @@ display: none;
 }
 .page_200 .profile_user_stats .boxsitepagebody {
 	background: none;
+	padding: 6px 10px 0 10px;
 }
 .page_200 .user_stats li.user_stats_item.label_block {
     margin-left: 0;

@@ -4310,7 +4310,7 @@ ul.search_option_content li.content_selector .active {
 	width: 100%;
 }
 .ppfamenu ul li, .dropper ul li {
-	font: bold 12px/18px "Open Sans", sans-serif;
+	/*font: bold 12px/18px "Open Sans", sans-serif;*/
 	display: inline-block;
 	margin-right: 0px;
 	position: relative;
@@ -4323,6 +4323,7 @@ ul.search_option_content li.content_selector .active {
 	transition: all 0.2s;
 	color: #fff !important;
 	position: relative;
+	width: 100%;
 }
 .ppfamenu ul.submen li, .dropper ul.submen li {
 	margin-left: 0 !important;

@@ -4289,10 +4289,14 @@ ul.search_option_content li.content_selector .active {
 	z-index: 100;
 }
 .dropper {
+
 	position: absolute;
-	z-index: 1;
-	padding-left: 721px;
-	margin-top: 10px;
+    z-index: 999;
+    /* padding-left: 721px; */
+    /* margin-top: 0px; */
+    /* float: right; */
+    /* position: relative; */
+    right: 0px;
 }
 .ppfamenu ul, .dropper ul {
 	text-align: left;

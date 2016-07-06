@@ -4297,6 +4297,7 @@ ul.search_option_content li.content_selector .active {
     /* float: right; */
     /* position: relative; */
     right: 0px;
+    top: 10px;
 }
 .ppfamenu ul, .dropper ul {
 	text-align: left;

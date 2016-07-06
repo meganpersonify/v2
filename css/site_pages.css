@@ -6310,6 +6310,7 @@ ul#upcomingEvents.eventsItemsList {
 	right: 12px;
 }
 /* Remove New Topic Custom Button from Forum Parent Category Pages */
+.page_1001.page-urlp-category_id_136 .form_button, .page_1001.page-urlp-category_id_137 .form_button, .page_1001.page-urlp-category_id_138 .form_button, .page_1001.page-urlp-category_id_139 .form_button, .page_1001.page-urlp-category_id_140 .form_button, .page_1001.page-urlp-category_id_141 .form_button, .page_1001.page-urlp-category_id_142 .form_button, .page_1001.page-urlp-category_id_144 .form_button, .page_1001.page-urlp-category_id_180 .form_button, .page_1001.page-urlp-category_id_181 .form_button, .page_1001.page-urlp-category_id_188 .form_button, .page_1001.page-urlp-category_id_189 .form_button, .page_1001.page-urlp-category_id_191 .form_button, .page_1001.page-urlp-category_id_183 .form_button, .page_1001.page-urlp-category_id_276 .form_button, .page_1001.page-urlp-category_id_304 .form_button, .page-urlp-category_id_315 .form_button, .page_1001.page-urlp-category_id_399 .form_button, .page_1001.page-urlp-category_id_425 .form_button, .page_1001.page-urlp-category_id_384 .form_button {
 	display: none;
 }
 .page_1001 .form_button a {
@@ -8665,15 +8666,20 @@ padding: 10px;
 	transition:background-color 0.5s ease-in-out;
 	border-bottom:1px solid #fff;
 color: #464646 !important;
+font-size: 14px;
 }
 
 .accordionTitle:before,.accordion__Heading:before
 {
-	content:"+";
-	font-size:1.5em;
-	line-height:0.5em;
-	float:left;
-	transition:transform 0.3s ease-in-out
+
+	content: "+";
+    font-size: 1.5em !important;
+    line-height: 0.5em;
+    float: left;
+    margin-right: 10px;
+    transition: transform 0.3s ease-in-out;
+    top: 5px;
+    position: relative;
 }
 
 

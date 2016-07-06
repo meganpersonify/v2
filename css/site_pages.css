@@ -4329,10 +4329,12 @@ ul.search_option_content li.content_selector .active {
 	color: #fff !important;
 	position: relative;
 	width: 190px;
+	text-transform: uppercase;
 }
 .ppfamenu ul.submen li, .dropper ul.submen li {
 	margin-left: 0 !important;
 	padding-left: 10px !important;
+	font-size: 14px;
 }
 .ppfamenu ul.submen li:hover, .dropper ul.submen li:hover {
 	background-color: #29abe2;

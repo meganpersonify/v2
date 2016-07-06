@@ -8657,7 +8657,7 @@ padding: 10px;
 .accordionTitle,.accordion__Heading
 {
 	background-color:#eee;
-	text-align:center;
+	text-align:left;
 	font-weight:700;
 	padding:1em;
 	display:block;

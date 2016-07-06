@@ -4323,7 +4323,7 @@ ul.search_option_content li.content_selector .active {
 	transition: all 0.2s;
 	color: #fff !important;
 	position: relative;
-	width: 100%;
+	width: 190px;
 }
 .ppfamenu ul.submen li, .dropper ul.submen li {
 	margin-left: 0 !important;

@@ -8887,9 +8887,19 @@ a.anchor {
 	height: 30px;
 }
 
+/* My Community - About Levels */
+
 .page_2 #module_1-1 {
 	width: 600px;
 	float: left;
 	clear: none;
 	margin-left: 26px;
+}
+
+/* My Community - Calls to Action */
+
+.page_2 #module_1-2, .page_2 #module_1-3, .page_2 #module_1-4, .page_2 #module_1-5, .page_2 #module_1-6, .page_2 #module_1-7 {
+	width: 33%;
+	float: left;
+	clear: none;
 }

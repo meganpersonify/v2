@@ -2544,7 +2544,7 @@ a#headerMyAccountLink {
 }
 .page_200 .profile_comments .comment_reply_list .even, .page_200 .profile_comments .comment_reply_list .odd {
 	border-bottom: 1px dotted #CCCCCC;
-	padding: 0 10px;
+	padding: 6px;
 	font-size: 12px;
 }
 .page_200 .profile_comments .comment_reply_list {

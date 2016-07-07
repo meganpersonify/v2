@@ -8886,3 +8886,10 @@ a.anchor {
 .page_2 .user_stats li.label_block .label_value img {
 	height: 30px;
 }
+
+.page_2 #module_1-1 {
+	width: 600px;
+	float: left;
+	clear: none;
+	margin-left: 26px;
+}

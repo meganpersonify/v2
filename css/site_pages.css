@@ -8467,7 +8467,7 @@ ul.user_stats {
 .watch-table {
 	padding: 20px
 }
-.watch-table tr.watch-expanded, .watch-table tr.watch-collapsed, tr#subscription_forums_category_155, tr#subscription_forums_category_356, tr#subscription_forums_category_1538, tr#subscription_forums_category_141, tr#subscription_forums_category_188 {
+.watch-table tr.watch-expanded, .watch-table tr.watch-collapsed, tr#subscription_forums_category_390, tr#subscription_forums_category_427, tr#subscription_forums_category_424,tr#subscription_forums_category_155, tr#subscription_forums_category_356, tr#subscription_forums_category_1538, tr#subscription_forums_category_141, tr#subscription_forums_category_188 {
 	background-color: #C8C8C8
 }
 .watch-header a {

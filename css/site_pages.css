@@ -2532,11 +2532,11 @@ a#headerMyAccountLink {
 .page_200 .profile_comments .form_button a:hover {
 	background-color: #267292 !important;
 }
-.page_200 .profile_comments .comment_item {
-	width: 617px;
-}
 .page_200 .profile_comments .comment_container br:last-child {
 	display: none;
+}
+.page_200 .profile_comments .comment_item {
+    padding: 6px 0;
 }
 .page_200 .profile_comments .comment_text {
 	border-bottom: none;
@@ -2544,9 +2544,11 @@ a#headerMyAccountLink {
 }
 .page_200 .profile_comments .comment_reply_list .even, .page_200 .profile_comments .comment_reply_list .odd {
 	border-bottom: 1px dotted #CCCCCC;
+	padding: 0 10px;
+	font-size: 12px;
 }
 .page_200 .profile_comments .comment_reply_list {
-	width: 600px;
+	width: calc(100% + 58px);
 	border-top: 1px dotted #CCCCCC;
 	position: relative;
 	left: -58px;

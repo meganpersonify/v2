@@ -8875,6 +8875,7 @@ a.anchor {
 	display: inline-block;
 	float: left;
 	clear: none;
+	padding: 0 6px 0 6px;
 }
 .page_2 .user_stats li.label_block .label_value {
 	float: left;

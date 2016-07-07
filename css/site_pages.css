@@ -3619,6 +3619,7 @@ ul.reviewsItemsList li a.editItem img, ul.reviewsItemsList li a.deleteItem, ul.r
 }
 .layout_100_sub_column_0 {
 	float: right !important;
+	margin-right: 12px;
 }
 .layout_100_sub_column_1_options {
 	float: left !important;

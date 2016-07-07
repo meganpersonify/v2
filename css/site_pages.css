@@ -8904,6 +8904,13 @@ a.anchor {
 	float: left;
 	clear: none;
 }
+.cta_mycommunity {
+	border-radius: 4px;
+	padding: 6px;
+}
+.cta_mycommunity:hover, .cta_mycommunity:focus {
+    background-color: #F3F3F4;
+}
 .cta_mycommunity img {
 	height: 62px;
 	width: auto;

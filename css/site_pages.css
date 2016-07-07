@@ -8571,7 +8571,7 @@ ul.user_stats {
 	margin: 0 !important;
 	padding: 0 !important;
 	position: relative;
-	top: -120px;
+	top: -108px;
 	left: -159px;
 	clear: none;
 }
@@ -8835,7 +8835,7 @@ display: none;
 .page_200 .user_stats li.user_stats_item.label_block .label_value img {
 	height: 64px;
 	position: relative;
-    top: -8px;
+    top: 4px;
 }
 /* Add to my Calendar */
 .event-download-calendar-items {

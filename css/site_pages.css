@@ -8922,5 +8922,6 @@ a.anchor {
 	font-size: 18px !important;
 	font-family: "Oswald", sans-serif !important;
 	font-weight: 100 !important;
-	text-decoration: none !important
+	text-decoration: none !important;
+	display: block;
 }

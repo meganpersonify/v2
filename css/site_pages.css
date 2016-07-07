@@ -8550,7 +8550,7 @@ ul.user_stats {
 	float: left;
 	margin: 0 !important;
 	padding: 0 !important;
-	position: relative;
+	/*position: relative;*/
 	clear: none;
 }
 .page_200 .site_page_column_0 .module_container#module_0-0, .page_200 .site_page_column_0 .module_container#module_0-1, .page_200 .site_page_column_0 .module_container:nth-last-child(-n+4), .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {

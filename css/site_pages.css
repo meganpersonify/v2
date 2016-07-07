@@ -8849,3 +8849,10 @@ display: none;
 	background-position: 6px 50% !important;
 	background-color: rgba(243, 243, 244, .5) !important;
 }
+
+/* Anchor Class */
+
+a.anchor {
+    position: absolute;
+	margin-top: -60px;
+}

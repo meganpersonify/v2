@@ -8904,3 +8904,15 @@ a.anchor {
 	float: left;
 	clear: none;
 }
+.cta_mycommunity img {
+	height: 62px;
+	width: auto;
+	margin-right: 20px;
+}
+.cta_mycommunity a {
+	color: #A0A1A5 !important;
+	font-size: 18px !important;
+	font-family: "Oswald", sans-serif !important;
+	font-weight: 100 !important;
+	text-decoration: none !important
+}

@@ -8140,7 +8140,7 @@ div.imageMediumSquare a {
 	height: 212px;
 	margin-bottom: 0;
 	background: none !important;
-	padding: 8px 0 0 0;
+	padding: 13px 0 0 7px;
 }
 .site_page_footer .profile_user_photo .boxsitepage, .site_page_footer .profile_user_photo div.boxsitepagebody {
 	padding: 0;
@@ -8162,7 +8162,7 @@ div.imageMediumSquare a {
 	height: 160px;
 }
 #featured_content img {
-	padding: 0 12px 0 0;
+	padding: 0 50px 0 0;
 }
 /* My Community Profile Photo */
 

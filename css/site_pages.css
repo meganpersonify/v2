@@ -8256,7 +8256,7 @@ ul.user_stats {
 	color: #7AB800;
 	font-size: 28px;
 	padding: 18px 0 17px 0;
-	margin: 0 31px 20px 31px;
+	margin: 0 31px 0 31px;
 	display: block;
 	text-align: center;
 	background-repeat: no-repeat;
@@ -8862,4 +8862,26 @@ a.anchor {
 	width: 190px;
 	display: inline-block;
 	float: left;
+}
+
+.page_2 .user_stats_item {
+	width: 80px;
+	overflow: hidden;
+	background-color: rgb(204, 204, 204);
+	margin-left: 44px;
+	border-radius: 0px 0px 3px 3px;
+}
+.page_2 .user_stats_item .label {
+	display: inline-block;
+	float: left;
+	clear: none;
+}
+.page_2 .user_stats li.label_block .label_value {
+	float: left;
+	display: inline-block;
+	clear: none;
+	width: 30px;
+}
+.page_2 .user_stats li.label_block .label_value img {
+	height: 30px;
 }

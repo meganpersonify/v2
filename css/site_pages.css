@@ -8908,6 +8908,7 @@ a.anchor {
 	border-radius: 4px;
 	padding: 6px;
 	display: block;
+	margin-bottom: 12px;
 }
 .cta_mycommunity:hover, .cta_mycommunity:focus {
     background-color: #F3F3F4;

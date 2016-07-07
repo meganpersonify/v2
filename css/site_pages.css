@@ -8854,3 +8854,12 @@ a.anchor {
     position: absolute;
 	margin-top: -60px;
 }
+
+
+/* My Community User Stats */
+
+.page_2 div[data-module-name="profile_user_stats"] {
+	width: 190px;
+	display: inline-block;
+	float: left;
+}

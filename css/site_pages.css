@@ -8864,14 +8864,14 @@ a.anchor {
 	float: left;
 }
 
-.page_2 .user_stats_item {
+.page_2 .user_stats .label_block {
 	width: 80px;
 	overflow: hidden;
-	background-color: rgb(204, 204, 204);
+	background-color: #cccccc;
 	margin-left: 44px;
 	border-radius: 0px 0px 3px 3px;
 }
-.page_2 .user_stats_item .label {
+.page_2 .user_stats .label_block .label {
 	display: inline-block;
 	float: left;
 	clear: none;

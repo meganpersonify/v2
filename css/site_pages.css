@@ -3349,6 +3349,7 @@ span.pager-left-prev.pager-item.pager-left:before, span.pager-left-first.pager-i
 	overflow: hidden !important;
 	padding: 0 !important;
 	margin-right: 2px !important;
+	margin-top: 15px !important;
 }
 .featured_content_featured_content #paginate_content span {
 	background-color: #1c84c6 !important;
@@ -8129,6 +8130,7 @@ div.imageMediumSquare a {
 }
 .page_2 .featured_content_featured_content .boxsitepage {
 	padding-top: 12px;
+	padding-left: 0px;
 }
 .page_2 .featured_content_featured_content div.boxsitepage .p1 {
 	margin-bottom: 10px;

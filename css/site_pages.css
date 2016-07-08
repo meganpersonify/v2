@@ -8936,3 +8936,6 @@ a.anchor {
     background: rgb(0, 153, 51) !important;
     background: rgba(0, 153, 51, 0.3) !important;
 }
+.adblock {
+    padding: 10px;
+}

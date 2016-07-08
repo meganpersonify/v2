@@ -8575,7 +8575,8 @@ ul.user_stats {
 	left: -159px;
 	clear: none;
 }
-.page_200 .site_page_column_1 .module_container:nth-last-child(4) {
+.page_200 div[data-module-name="profile_user_stats"]
+{
 	top: -120px;
 	left: -513px;
 }

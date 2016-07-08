@@ -8927,3 +8927,7 @@ a.anchor {
 	text-decoration: none !important;
 	display: block;
 }
+
+.sblog-post-newstyle .sblog-post-body {
+    text-align: center !important;
+}

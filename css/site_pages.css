@@ -8933,8 +8933,6 @@ a.anchor {
 }
 
 .sblog-post-newstyle .like-links a.unlike-link {
-    background: rgb(200, 54, 54) !important;
+    background: rgb(0, 153, 51) !important;
     background: rgba(0, 153, 51, 0.3) !important;
 }
-
-.sb

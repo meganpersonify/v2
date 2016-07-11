@@ -7969,6 +7969,9 @@ div.imageMediumSquare a {
 	letter-spacing: -0.5px;
 	margin-bottom: 10px;
 }
+.page_10000 .boxsitepage .p1, .boxsubfull .heading {
+	margin-top:20px;
+}
 .boxsitepage, .boxsitepagebody, .boxsubfull, .boxsubfullbody {
 	border-width: 0;
 }

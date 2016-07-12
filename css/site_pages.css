@@ -8943,3 +8943,9 @@ a.anchor {
     padding: 10px;
     margin-bottom: 20px;
 }
+
+/* Post Launch Items */
+
+.page_303 li.delete {
+	display: none !important;
+}

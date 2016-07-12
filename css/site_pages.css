@@ -5022,6 +5022,10 @@ a.like-total {
 .page-cat-forums a.like-total {
 	display: inline-block !important;
 }
+
+.page-cat-forums ul.horizontalList.topic-list-engagement-actions li.forum_topic_like_list_item, .page-cat-forums .forum-topic-post div.like-link a span.like-link-text {
+    width: 110px !important;
+}
 .forum-topic-post a.like-total:hover {
 	text-decoration: none !important;
 }

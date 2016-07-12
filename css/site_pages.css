@@ -5041,7 +5041,6 @@ a.like-total {
 div.forum-topic-post {
 	background-color: #eee !important;
 	border: 1px solid #eee !important;
-	;
 	box-shadow: 0 0 8px #cccccc !important;
 }
 .forum_post_like_list_item a.like-total {
@@ -8953,6 +8952,6 @@ a.anchor {
 
 /* Post Launch Items */
 
-.page_303 li.delete {
+.page_303 li.delete, .top-pagination {
 	display: none !important;
 }

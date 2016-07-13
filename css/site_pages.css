@@ -8956,3 +8956,6 @@ a.anchor {
 .page_303 li.delete, .top-pagination {
 	display: none !important;
 }
+.div.message_detail_action_area {
+	background: none;
+}

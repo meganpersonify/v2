@@ -4651,8 +4651,6 @@ div.settings_notifications_notification {
 }
 .message_detail_actions {
 	display: block;
-}
-.message_detail_actions {
 	position: relative;
 	top: -6px;
 }
@@ -4674,8 +4672,10 @@ div.settings_notifications_notification {
 	content: "More Actions";
 }
 ul.message_detail_actions {
-	top: 26px !important;
-	right: -93px !important;
+	top: 30px !important;
+    right: -140px !important;
+    border: none;
+    width: 142px;
 }
 .message_detail_actions .message_detail_reply_link {
 	display: none;
@@ -8956,6 +8956,6 @@ a.anchor {
 .page_303 li.delete, .top-pagination {
 	display: none !important;
 }
-.div.message_detail_action_area {
+div.message_detail_action_area {
 	background: none;
 }

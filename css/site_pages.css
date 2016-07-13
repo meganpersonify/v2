@@ -8587,10 +8587,11 @@ ul.user_stats {
 .page_200 div[data-module-name="profile_user_stats"]
 {
     top: -123px !important;
-    left: -373px !important;
+    left: -232px !important;
+    position: absolute !important;
 }
 .page_200 .site_page_column_1 .module_container:nth-last-child(-n+3) {
-	top: -111px;
+	top: -70px;
 }
 .badge {
 	width: 64px;

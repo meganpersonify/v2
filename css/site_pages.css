@@ -8837,7 +8837,7 @@ display: none;
 }
 .page_200 .profile_user_stats .boxsitepagebody {
 	background: none;
-	padding: 6px 10px 0 10px;
+	padding: 0;
 }
 .page_200 .user_stats li.user_stats_item.label_block {
     margin-left: 0;

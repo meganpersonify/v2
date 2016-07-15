@@ -8973,19 +8973,19 @@ div.message_detail_action_area {
 .colmid{ right: 25% }
 .colin{ right: 25% }
 .colleft{ right: 25% }
-.4col1{
+.col1{
    width: 23%;
    left: 101%
 }
-.4col2{
+.col2{
    width: 23%;
    left: 53%
 }
-.4col3{
+.col3{
    width: 23%;
    left: 80%
 }
-.4col4{
+.col4{
    width: 23%;
    left: 82%
 }
@@ -9025,28 +9025,28 @@ div.message_detail_action_area {
    position: relative;
    background-color: #b4d2f7
 }
-.4col1{
+.col1{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
    background-color: #99ccff
 }
-.4col2{
+.col2{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
    background-color: #99ccff
 }
-.4col3{
+.col3{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
    background-color: #99ccff
 }
-.4col4{
+.col4{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;

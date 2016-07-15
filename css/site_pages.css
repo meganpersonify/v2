@@ -8964,26 +8964,26 @@ div.message_detail_action_area {
 
 .4colheader{
    width: 100%;
-   left: 0%
+   left: 0%;
 }
 .colmask{
    width: 100%;
-   left: 0%
+   left: 0%;
 }
-.colmid{ right: 25% }
-.colin{ right: 25% }
-.colleft{ right: 25% }
+.colmid{ right: 25%; }
+.colin{ right: 25%; }
+.colleft{ right: 25%; }
 .four-col1{
    width: 23%;
-   left: 101%
+   left: 101%;
 }
 .four-col2{
    width: 23%;
-   left: 53%
+   left: 53%;
 }
 .four-col3{
    width: 23%;
-   left: 80%
+   left: 80%;
 }
 .four-col4{
    width: 23%;
@@ -8991,7 +8991,7 @@ div.message_detail_action_area {
 }
 .4colfooter{
    width: 100%;
-   left: 0%
+   left: 0%;
 }
 .4colheader{
    clear: both;

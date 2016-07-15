@@ -8973,19 +8973,19 @@ div.message_detail_action_area {
 .colmid{ right: 25% }
 .colin{ right: 25% }
 .colleft{ right: 25% }
-.col1{
+.four-col1{
    width: 23%;
    left: 101%
 }
-.col2{
+.four-col2{
    width: 23%;
    left: 53%
 }
-.col3{
+.four-col3{
    width: 23%;
    left: 80%
 }
-.col4{
+.four-col4{
    width: 23%;
    left: 82%
 }
@@ -8998,65 +8998,55 @@ div.message_detail_action_area {
    float: left;
    position: relative;
    border-bottom: #000 1px solid;
-   background-color: #b4d2f7
 }
 .colmask{
    clear: both;
    float: left;
    overflow: hidden;
    position: relative;
-   background-color: #b4d2f7
 }
 .colmid{
    float: left;
    width: 100%;
    position: relative;
-   background-color: #b4d2f7
 }
 .colin{
    float: left;
    width: 100%;
    position: relative;
-   background-color: #b4d2f7
 }
 .colleft{
    float: left;
    width: 100%;
    position: relative;
-   background-color: #b4d2f7
 }
-.col1{
+.four-col1{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
-   background-color: #99ccff
 }
-.col2{
+.four-col2{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
-   background-color: #99ccff
 }
-.col3{
+.four-col3{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
-   background-color: #99ccff
 }
-.col4{
+.four-col4{
    padding: 0px 0px 1em 0px;
    overflow: hidden;
    float: left;
    position: relative;
-   background-color: #99ccff
 }
 .4colfooter{
    clear: both;
    float: left;
    position: relative;
    border-bottom: #000 1px solid;
-   background-color: #b4d2f7
 }

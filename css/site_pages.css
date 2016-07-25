@@ -9074,18 +9074,18 @@ div.message_detail_action_area {
 
 .user_stats .points_block
 {
-	float:right
+	float:right !important
 }
 
 #user_stats_body li.points_block
 {
-	position:relative;
-	top:30px
+	position:relative !important;
+	top:30px !important
 }
 
 .profile_row
 {
-	padding:0
+	padding:0 !important
 }
 
 .page_2 .user_stats .label_block

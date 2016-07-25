@@ -9053,7 +9053,8 @@ div.message_detail_action_area {
 
  .page_2 div[data-module-name="profile_user_stats"]
 {
-	width:478px !important
+	width:478px !important;
+	height: 150px;
 }
 
 .page_2 div[data-module-name="profile_user_stats"] .boxsitepagebody
@@ -9094,7 +9095,9 @@ div.message_detail_action_area {
 	overflow:hidden !important;
 	background-color:transparent !important;
 	margin-left:0 !important;
-	border-radius:0 !important
+	border-radius:0 !important;
+	position: absolute;
+    width: 200px !important;
 }
 
 .page_2 .user_stats .label_block .label

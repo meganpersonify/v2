@@ -9048,3 +9048,68 @@ div.message_detail_action_area {
    position: relative;
    border-bottom: #000 1px solid;
 }
+
+/* UPDATED USER STATS ON MY COMMUNITY */
+
+ .page_2 div[data-module-name="profile_user_stats"]
+{
+	width:478px !important
+}
+
+.page_2 div[data-module-name="profile_user_stats"] .boxsitepagebody
+{
+	padding:0 44px 0 80px;
+	margin-bottom:0 !important
+}
+
+.page_2 #module_1-1
+{
+	width:312px !important
+}
+
+.page_2 #module_1-1 .boxsitepagebody
+{
+	font-size:12px !important
+}
+
+.user_stats .points_block
+{
+	float:right
+}
+
+#user_stats_body li.points_block
+{
+	position:relative;
+	top:30px
+}
+
+.profile_row
+{
+	padding:0
+}
+
+.page_2 .user_stats .label_block
+{
+	width:auto !important;
+	overflow:hidden !important;
+	background-color:transparent !important;
+	margin-left:0 !important;
+	border-radius:0 !important
+}
+
+.page_2 .user_stats .label_block .label
+{
+	display:none !important
+}
+
+.page_2 .user_stats li.label_block .label_value,.page_2 .user_stats li.label_block .label_value img
+{
+	height:auto !important
+}
+
+#user_stats_body li .label.points
+{
+	position:relative !important;
+	margin:-10px 0 0 0 !important;
+	left:122px !important
+}

@@ -3703,7 +3703,7 @@ div.search_sort_bar {
 	margin: 0;
 	padding: 0 10px;
 	resize: none;
-	width: 982px;
+	width: 100%;
 }
 .search_results .form_button {
 	padding: 9px 9px 9px 0;

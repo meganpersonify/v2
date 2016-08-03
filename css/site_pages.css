@@ -9132,10 +9132,10 @@ div.message_detail_action_area {
 
 .compose_message_subject input[name="subject"] {
 	margin-left: 0 !important;
-	width: 100% !important;
-    height: 30px !important;
-    line-height: 30px !important;
-    font-size: 14px !important;
-    color: rgb(0, 0, 0) !important;
-    padding: 10px 0 !important;
+width: 100% !important;
+height: 36px !important;
+line-height: 36px !important;
+font-size: 14px !important;
+color: rgb(0, 0, 0) !important;
+padding: 0 10px !important;
 }

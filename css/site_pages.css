@@ -3679,7 +3679,7 @@ div.search_sort_bar {
 	text-transform: uppercase;
 	font-weight: 300;
 }
-.search_results .input_text_field {
+.search_results .input_text_inline .input_text_field {
 	width: 947px;
 	padding: 9px 0 9px 9px;
 	border-radius: 4px 0 0 4px;
@@ -9126,6 +9126,6 @@ div.message_detail_action_area {
 	width: 938px;
 }
 
-.layout_100 .search_results .input_text_inline .form_button a {
+.layout_100 .search_results .input-form-button .form_button a {
 	width: 218px;	
 }

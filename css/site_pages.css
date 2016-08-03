@@ -9119,7 +9119,7 @@ div.message_detail_action_area {
 
 /* Format Search Resources bars */
 
-.layout_100 .input_text_inline, .layout_100 .search_results .input_text_field {
+.layout_100 .input_text_inline, .layout_100 .search_results .input_text_inline .input_text_field {
 	width: 947px;
 }
 .layout_100 .input_text_inline .search_results .input_text_field input {

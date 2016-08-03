@@ -9130,7 +9130,7 @@ div.message_detail_action_area {
 	width: 218px;	
 }
 
-.compose_message_subject input {
+.compose_message_subject input[name="subject"] {
 	margin-left: 0 !important;
 	width: 100% !important;
     height: 30px !important;

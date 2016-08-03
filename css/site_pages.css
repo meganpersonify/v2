@@ -9122,10 +9122,10 @@ div.message_detail_action_area {
 .layout_100 .input_text_inline, .layout_100 .search_results .input_text_field {
 	width: 947px;
 }
-.layout_100 .search_results .input_text_field input {
+.layout_100 .input_text_inline .search_results .input_text_field input {
 	width: 938px;
 }
 
-.layout_100 .search_results .form_button a {
+.layout_100 .input_text_inline .search_results .form_button a {
 	width: 218px;	
 }

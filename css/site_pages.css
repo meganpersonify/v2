@@ -3073,10 +3073,10 @@ div.user-list div.user-list-item.itemMedium {
 	margin-top: 10px;
 }
 .message_recipients {
-	margin-left: -17px !important;
-	width: 99.6% !important;
+	margin-left: -20px !important;
+	width: 100% !important;
 	border-radius: 4px 0 0 4px;
-	padding: 5px 10px 15px;
+	padding: 11px 10px 15px;
 }
 .message_recipient_clear {
 	background: none !important;
@@ -9128,4 +9128,14 @@ div.message_detail_action_area {
 
 .layout_100 .search_results .input-form-button .form_button a {
 	width: 218px;	
+}
+
+.compose_message_subject input {
+	margin-left: 0 !important;
+	width: 100% !important;
+    height: 30px !important;
+    line-height: 30px !important;
+    font-size: 14px !important;
+    color: rgb(0, 0, 0) !important;
+    padding: 10px 0 !important;
 }

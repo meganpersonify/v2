@@ -5075,7 +5075,7 @@ ul.actionList li.resolve-post a, ul.actionList li.forum-post-resolved {
 	height: 20px !important;
 }
 ul.actionList li.forum-post-resolved {
-	background-color: #03a78e !important;
+	background-color: #f57e20 !important;
 	border: none !important;
 	box-shadow: none !important;
 }

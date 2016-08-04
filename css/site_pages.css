@@ -5091,56 +5091,27 @@ ul.actionList li.resolve-post a:hover {
 	margin: 1px;
 	background-size: contain;
 }
+
+#user_badge_261 {	
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/bbcon-attendee.png") !important;
+}
+#user_badge_262 {
+		background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/bbcon-speaker.png") !important;
+}
 #user_badge_104 {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
 }
 #user_badge_54 {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBStaff.png") !important;
 }
-#user_badge_11 {
-	background-image: url("http://blackbaud.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
-}
 #user_badge_105 {
 	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re-Etap.png") !important;
-}
-#user_badge_107 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/CustomerSuccessGraduate.png") !important;
 }
 #user_badge_108 {
 	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BlogContributor.png") !important;
 }
-#user_badge_111 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCON_attendee.png") !important;
-}
-#user_badge_112 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBCONPresenter.png") !important;
-}
-#user_badge_115 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBIS_user.png") !important;
-}
-#user_badge_113 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatParticipant.png") !important;
-}
-#user_badge_114 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/ChatPresenter.png") !important;
-}
 #user_badge_106 {
 	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/PartnerNetwork.png") !important;
-}
-#user_badge_116 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/SDK.png") !important;
-}
-#user_badge_102 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Strategist.png") !important;
-}
-#user_badge_103 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Visionary.png") !important;
-}
-#user_badge_109 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/VideoContributor.png") !important;
-}
-#user_badge_110 {
-	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/WebinarContributor.png") !important;
 }
 #user_badge_211 {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Re-Etap.png") !important;

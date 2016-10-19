@@ -8323,8 +8323,6 @@ ul.user_stats {
 .page_10380 #main .site_page_column_2 a {
 	position: relative;
 	background-repeat: no-repeat;
-	background-color: #f6b2ad !important;
-	color: #676a6c !important;
 	background-size: contain;
 	text-indent: 6%;
 	padding: 0 21px !important;
@@ -8345,7 +8343,7 @@ ul.user_stats {
     left: -10px;
     top: -6px;
 }
-.page_10380 #main .form_button {
+.page_10380 #main .site_page_column_1 #main .form_button {
 	margin: 0 0 6px 0;
 	background-color: #eee;
 	border-radius: 4px

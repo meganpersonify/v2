@@ -53,18 +53,18 @@ community
 /*Fix pagination icons*/
 .pager-left-prev.pager-item.pager-left:before
 {
-	content:"";
+	content:"";
 }
 .pager-left-first.pager-item.pager-left:before {
-    content: "";
+    content: "";
 }
 .pager-right-next.pager-item.pager-right:before
 {
-	content:"";
+	content:"";
 }
 .pager-right-end.pager-item.pager-right:before
 {
-	content:"";
+	content:"";
 }
 
 
@@ -340,7 +340,7 @@ form#header-search-form {
 #header-search input#query_search {
     height: 40px;
     margin-left: 0;
-    padding: 10px;
+    /*padding: 10px;*/
     width: 470px;
 }
 span.glyphicon.glyphicon-search {

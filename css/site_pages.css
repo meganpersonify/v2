@@ -9108,3 +9108,13 @@ font-size: 14px !important;
 color: rgb(0, 0, 0) !important;
 padding: 0 10px !important;
 }
+
+/* Punchlist Items - DW - 10-19-16 */
+
+.sblog-post-newstyle .sblog-post-detail {
+	padding: 0;
+}
+
+.sblog-post-detail {
+    margin: 0px;
+}

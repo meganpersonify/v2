@@ -7190,9 +7190,9 @@ div.topic-list-action-container {
 .content_selector.active .input_checkbox > label {
 	display: none;
 }
-.page_2073 #reviews_item_form > div.input_radio {
+/*.page_2073 #reviews_item_form > div.input_radio {
 	visibility: hidden !important;
-}
+}*/
 
 .page_2073 .layout_75_25 .site_page_column_0 {
 	width: 75% !important;

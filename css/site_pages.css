@@ -7191,7 +7191,7 @@ div.topic-list-action-container {
 	display: none;
 }
 .page_2073 #reviews_item_form > div.input_radio {
-	visibility: hidden !important;
+	visibility: hidden;
 }
 
 .page_2073 page-urlp-group_id_7 #reviews_item_form > div.input_radio {
@@ -7208,6 +7208,10 @@ div.topic-list-action-container {
 	width: 25% !important;
 	margin: 0 !important;
 	padding: .5em;
+}
+
+.page_2073 #otheritems > ul {
+	z-index:0 !important;	
 }
 
 .ta-cta div {

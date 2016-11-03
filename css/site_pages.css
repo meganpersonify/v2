@@ -7191,7 +7191,11 @@ div.topic-list-action-container {
 	display: none;
 }
 .page_2073 #reviews_item_form > div.input_radio {
-	visibility: visible !important;
+	visibility: hidden !important;
+}
+
+.page_2073 page-urlp-group_id_7 #reviews_item_form > div.input_radio {
+	visibility: visible !important;	
 }
 
 .page_2073 .layout_75_25 .site_page_column_0 {

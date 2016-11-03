@@ -7193,6 +7193,19 @@ div.topic-list-action-container {
 .page_2073 #reviews_item_form > div.input_radio {
 	visibility: hidden !important;
 }
+
+.page_2073 .layout_75_25 .site_page_column_0 {
+	width: 75% !important;
+	margin: 0 !important;
+	padding: .5em;
+}
+
+.page_2073 .layout_75_25 .site_page_column_1 {
+	width: 25% !important;
+	margin: 0 !important;
+	padding: .5em;
+}
+
 .ta-cta div {
 	display: inline-block;
 	width: 113px;

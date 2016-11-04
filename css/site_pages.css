@@ -9143,3 +9143,7 @@ padding: 0 10px !important;
 .sblog-post-detail {
     margin: 0px;
 }*/
+
+#main .site_page_column_0 #nav_search .search_submit_button {
+	width: auto !important;
+}

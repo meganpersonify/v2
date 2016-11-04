@@ -4303,6 +4303,10 @@ ul.search_option_content li.content_selector .active {
     right: 0px;
     top: 10px;
 }
+
+.page-urlp-group_id_7 .dropper {
+	top: -40px !important	
+}
 .ppfamenu ul, .dropper ul {
 	text-align: left;
 	display: inline-block;

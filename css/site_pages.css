@@ -9149,6 +9149,12 @@ padding: 0 10px !important;
 }
 
 div.photoGrid {
-	width: 75% !important;
-	border: none !important;
+	width: 75%;
+	border: none;
+	margin:0;
+}
+
+div.photoGrid img.photo_0 {
+    padding-top: 0px;
+    width: auto;
 }

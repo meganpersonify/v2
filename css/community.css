@@ -165,12 +165,12 @@ community
     line-height:42px !important;
     background-color:#1c84c5 !important;
     font-size:20px !important;
-    width:80px;
+    width: auto;
     text-align:center;
     margin:0 !important;
     border:none !important;
     border-radius:0;
-    margin-left:-70px;
+    /*margin-left:-70px;*/
 }
 
 #main .site_page_column_0 #nav_search .search_submit_button:hover

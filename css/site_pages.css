@@ -9169,3 +9169,7 @@ div.photoGrid img.photo_0 {
 	height: 0 !important;
 	color: transparent !important;
 }
+
+.page-urlp-category_id_41 #reviews_item_form > div:nth-child(7) {
+	display: none !important;	
+}

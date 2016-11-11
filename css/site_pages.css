@@ -9158,3 +9158,14 @@ div.photoGrid img.photo_0 {
     padding-top: 0px;
     width: 100%;
 }
+
+.page-urlp-group_id_7 #field_408 li.content_selector.active {
+	height: 0;
+	background-color: transparent !important;
+	color: transparent;
+}
+
+.page-urlp-group_id_7 input#textField_408 {
+	height: 0 !important;
+	color: transparent !important;
+}

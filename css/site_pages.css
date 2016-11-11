@@ -9170,6 +9170,6 @@ div.photoGrid img.photo_0 {
 	color: transparent !important;
 }
 
-.page-urlp-category_id_41 #reviews_item_form > div:nth-child(7) {
+.page-urlp-category_id_41 #reviews_item_form > div:nth-child(7), .page-urlp-category_id_32 #reviews_item_form > div.input_radio {
 	display: none !important;	
 }

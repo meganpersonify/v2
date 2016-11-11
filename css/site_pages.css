@@ -9159,7 +9159,7 @@ div.photoGrid img.photo_0 {
     width: 100%;
 }
 
-.page-urlp-group_id_7 #field_408 li.content_selector.active {
+.page-urlp-group_id_7 li#field_408 {
 	height: 0;
 	background-color: transparent !important;
 	color: transparent;

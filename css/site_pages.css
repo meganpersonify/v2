@@ -5087,7 +5087,7 @@ ul.actionList li.resolve-post a:hover {
 	text-decoration: none;
 	background-color: #505b61;
 }
-#user_badge_54, #user_badge_104, #user_badge_105, #user_badge_106, #user_badge_108, #user_badge_153, #user_badge_208, #user_badge_209, #user_badge_210, #user_badge_211, #user_badge_212, #user_badge_227, #user_badge_229, #user_badge_261, #user_badge_262 {
+#user_badge_54, #user_badge_104, #user_badge_105, #user_badge_106, #user_badge_108, #user_badge_153, #user_badge_208, #user_badge_209, #user_badge_210, #user_badge_211, #user_badge_212, #user_badge_227, #user_badge_229, #user_badge_261, #user_badge_262, #user_badge_270, #user_badge_271, #user_badge_272 {
 	background-repeat: no-repeat;
 	height: 16px;
 	width: 16px;
@@ -5135,6 +5135,19 @@ ul.actionList li.resolve-post a:hover {
 #user_badge_153 {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
 }
+
+#user_badge_270 {
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re_pro_16x16.png") !important;
+}
+
+#user_badge_271 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_Pro_16x16.png") !important;
+}
+
+#user_badge_272 {
+	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Altru_16x16.png") !important;
+}
+
 .recent_topic_reply_avatar .user-info-container {
 	width: 50px;
 }

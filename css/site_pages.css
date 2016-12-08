@@ -4304,6 +4304,18 @@ ul.search_option_content li.content_selector .active {
     top: 10px;
 }
 
+.page_10456 .dropper {
+	position: absolute;
+	z-index: 999;
+	left: 10px;
+	right: auto;
+	top: 10px;
+}
+
+.page_10456 #module_0-1 {
+	margin-top: 50px;	
+}
+
 .page-urlp-group_id_7 .dropper {
 	top: -40px !important	
 }

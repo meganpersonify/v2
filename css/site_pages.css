@@ -575,7 +575,7 @@ dd.posts, dd.topics, dd.views, dd.lastpost, dd.lastPost {
 	background-position-x: 4px !important;
 }
 #upcomingEvents a img {
-	padding-right: 10px;
+	padding-right: 0px;
 }
 li.header dd.lastpost span {
 	padding: 0;

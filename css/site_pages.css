@@ -9198,3 +9198,38 @@ div.photoGrid img.photo_0 {
 .page-urlp-category_id_41 #reviews_item_form > div:nth-child(7), .page-urlp-category_id_32 #reviews_item_form > div.input_radio {
 	display: none !important;	
 }
+
+
+
+/*PUNCHLIST ITEMS FIXED - BZ 2/20/17*/
+/*search margin fix*/
+.boxsitepagebody #nav_search {margin-left: 1em;}
+
+/*hide HE PAG Field/Category Page Link/Image Pick List*/
+.page_2073 #formField_textField_408, 
+.page_2073 .pageLinks,
+.page_2073 .reviews_associate_photos {display: none;}
+
+/*Layout fixes for moving HE PAG Button to be inline*/
+.page_2008 .site_page_module.search_results {clear: both;}
+.page_2008 #module_0-0, .page_2008 #module_0-1 {clear: none;overflow:visible;}
+.page_2008 #module_0-0 .html_button_plain, .page_2008 #module_0-1 .html_button_plain {float: left;margin-left: 1em;}
+
+/*align Contact System Admin Button right inline with page header*/
+.page_2001 #module_0-0 .html_button_plain {position: absolute;right: 1em;top: 3px;}
+
+/*Hide View all categories link*/
+a[title*="View All Categories"]{display: none !important;}
+
+/*Subscribe dropdown fix*/
+.page_2072 #module_0-0 {overflow: visible;}
+li ul.watchList {top: 30px;}
+
+/*postal code input fix & add "Based on postal code" to header*/
+.search_results input[type="text"]#postal_code {width: 75px!important;margin-bottom: 1em;height: 20px;}
+.search_results .boxsitepagebody .location_heading h3 {font-size: 20px;}
+.search_results .boxsitepagebody .location_heading h3:after {content: " Based on Postal Code";}
+/*END PUNCHLIST ITEMS FIXED - BZ 2/20/17*/
+
+
+
